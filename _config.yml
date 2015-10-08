@@ -1,28 +1,9 @@
-## Site settings
-#title: Guillaume Lecue
-#email: guillaume.lecue@ensae.fr
-#description: > # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: Guillaume_Lecue
-#github_username:  lecueguillaume
-#
-## Build settings
-#markdown: kramdown
-#
-#https://github.com/lecueguillaume/guillaume.lecue.io
-
-# Usign the Clean Blog theme
-
 title: Homepage of Guillaume Lecué
 author: Guillaume Lecué
 email: guillaume.lecue@ensae.fr
 description: Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;
 baseurl: ""
-url: "http://lecueguillaume.github.io/" #"http://gpeyre.github.io/"
+url: "http://lecueguillaume.github.io/"
 github_username:  lecueguillaume
 #twitter_username: Guillaume_Lecue
 
