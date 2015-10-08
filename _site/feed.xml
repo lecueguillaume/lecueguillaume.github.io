@@ -2,62 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage of Guillaume Lecué</title>
-    <description>Homepage of Guillaume Lecué</description>
+    <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Oct 2015 23:48:24 +0200</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2015 23:48:24 +0200</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2015 14:59:18 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2015 14:59:18 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+        <title>Cours de Compressed Sensing - ENSAE</title>
+        <description>&lt;p&gt;Under construction&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Oct 2015 13:59:13 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//jekyll/update/2015/10/05/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//jekyll/update/2015/10/05/welcome-to-jekyll/</guid>
+        <pubDate>Thu, 08 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2015/10/08/compressed_sensing_course/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2015/10/08/compressed_sensing_course/</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>cours de rappels de statistiques mathématiques - ENSAE</title>
-        <description>&lt;p&gt;this cours is about stats math&lt;/p&gt;
+        <title>Rappels de statistiques mathématiques - ENSAE</title>
+        <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2015pdf--notebookassetscdfempiriqueipynb&quot;&gt;Cours 1 : &lt;a href=&quot;/assets/cours1_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/h1&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1 id=&quot;cours-2--slidesassetscours2ensae2015pdf&quot;&gt;Cours 2 : &lt;a href=&quot;/assets/cours2_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;cours-3--slidesassetscours3ensae2015pdf&quot;&gt;Cours 3 : &lt;a href=&quot;/assets/cours3_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-4--slidesassetscours4ensae2015pdf&quot;&gt;Cours 4 : &lt;a href=&quot;/assets/cours4_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-5--slidesassetscours5ensae2015pdf&quot;&gt;Cours 5 : &lt;a href=&quot;/assets/cours5_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-6--slidesassetscours6ensae2015pdf&quot;&gt;Cours 6 : &lt;a href=&quot;/assets/cours6_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-7--slidesassetscours7ensae2015pdf&quot;&gt;Cours 7 : &lt;a href=&quot;/assets/cours7_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-8--slidesassetscours8ensae2015pdf&quot;&gt;Cours 8 : &lt;a href=&quot;/assets/cours8_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
 </description>
         <pubDate>Mon, 05 Oct 2015 13:59:13 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//jekyll/update/2015/10/05/rappels-stats/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//jekyll/update/2015/10/05/rappels-stats/</guid>
+        <link>http://lecueguillaume.github.io//2015/10/05/rappels-stats/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2015/10/05/rappels-stats/</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

@@ -8,13 +8,34 @@
 	"buffers":
 	[
 		{
-			"contents": "## Site settings\n#title: Guillaume Lecue\n#email: guillaume.lecue@ensae.fr\n#description: > # this means to ignore newlines until \"baseurl:\"\n#  Write an awesome description for your new site here. You can edit this\n#  line in _config.yml. It will appear in your document head meta (for\n#  Google search results) and in your feed.xml site description.\n#baseurl: \"\" # the subpath of your site, e.g. /blog/\n#url: \"http://yourdomain.com\" # the base hostname & protocol for your site\n#twitter_username: Guillaume_Lecue\n#github_username:  lecueguillaume\n#\n## Build settings\n#markdown: kramdown\n#\n#https://github.com/lecueguillaume/guillaume.lecue.io\n\n# Usign the Clean Blog theme\n\ntitle: Homepage of Guillaume Lecué\nauthor: Guillaume Lecué\nemail: guillaume.lecue@ensae.fr\ndescription: Homepage of Guillaume Lecué\nbaseurl: \"\"\nurl: \"https://github.com/lecueguillaume/guillaume.lecue.io\" #\"http://gpeyre.github.io/\"\ngithub_username:  lecueguillaume\ntwitter_username: Guillaume_Lecue\n\n# Build settings\nmarkdown: kramdown\npermalink: pretty\n#paginate: 5\n#exclude: [\"node_modules\"]\n\nname: Guillaume Lecué, recent works\ngems:\n- jekyll-mentions\n- jemoji\n- jekyll-redirect-from\n- jekyll-sitemap\n\n- jekyll-feed",
-			"file": "_config.yml",
-			"file_size": 1131,
-			"file_write_time": 1444071795000000,
+			"file": "_posts/2015-10-05-rappels-stats.markdown",
 			"settings":
 			{
-				"buffer_size": 1191,
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "teaching.md",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-10-08-compressed_sensing_course.markdown",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research.md",
+			"settings":
+			{
+				"buffer_size": 5176,
 				"line_ending": "Unix"
 			}
 		}
@@ -75,6 +96,9 @@
 	},
 	"file_history":
 	[
+		"/Users/lecueguillaume/Dropbox/site_web/index.html",
+		"/Users/lecueguillaume/Dropbox/site_web/about.md",
+		"/Users/lecueguillaume/Dropbox/site_web/_config.yml",
 		"/Users/lecueguillaume/Dropbox/monitorat/ensae/cours_rappel_stats/cours/recueil_exos/exos_rappels_stats_ensae/quantile_empirique.tex",
 		"/Users/lecueguillaume/Dropbox/monitorat/ensae/cours_rappel_stats/cours/recueil_exos/exos_rappels_stats_ensae/emc.tex",
 		"/Users/lecueguillaume/Dropbox/monitorat/ensae/cours_rappel_stats/cours/recueil_exos/exos_rappels_stats_ensae/regression_simple.tex",
@@ -281,26 +305,104 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
+					"file": "_posts/2015-10-05-rappels-stats.markdown",
 					"settings":
 					{
-						"buffer_size": 1191,
+						"buffer_size": 564,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1127,
-								1127
+								406,
+								406
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
-						"translation.x": 1.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "teaching.md",
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2015-10-08-compressed_sensing_course.markdown",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "research.md",
+					"settings":
+					{
+						"buffer_size": 5176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2317,
+								2317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 846.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -380,6 +482,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 310.0,
 	"status_bar_visible": true
 }

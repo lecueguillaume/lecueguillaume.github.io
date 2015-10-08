@@ -4,6 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-you can [get the PDF]({{ site.url }}/assets/AOS1.pdf) directly
+[Rappels de statistiques mathématiques]({% post_url 2015-10-05-rappels-stats %})
 
-you can [get the PDF](/assets/AOS1.pdf) directly
+[Cours de Compressed Sensing]({% post_url 2015-10-08-compressed_sensing_course %})

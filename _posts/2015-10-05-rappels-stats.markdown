@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "cours de rappels de statistiques mathématiques - ENSAE"
+title:  "Rappels de statistiques mathématiques - ENSAE"
 date:   2015-10-05 11:59:13
-categories: jekyll update
 ---
-this cours is about stats math
+#Cours 1 : [slides](/assets/cours1_ensae_2015.pdf) | [notebook](/assets/cdf_empirique.ipynb)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+#Cours 2 : [slides](/assets/cours2_ensae_2015.pdf)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+#Cours 3 : [slides](/assets/cours3_ensae_2015.pdf)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+#Cours 4 : [slides](/assets/cours4_ensae_2015.pdf)
+
+#Cours 5 : [slides](/assets/cours5_ensae_2015.pdf)
+
+#Cours 6 : [slides](/assets/cours6_ensae_2015.pdf)
+
+#Cours 7 : [slides](/assets/cours7_ensae_2015.pdf)
+
+#Cours 8 : [slides](/assets/cours8_ensae_2015.pdf)
+
+
