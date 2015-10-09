@@ -11,7 +11,7 @@
 			"file": "_posts/2015-10-05-rappels-stats.markdown",
 			"settings":
 			{
-				"buffer_size": 564,
+				"buffer_size": 1205,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "_posts/2015-10-08-compressed_sensing_course.markdown",
 			"settings":
 			{
-				"buffer_size": 105,
+				"buffer_size": 97,
 				"line_ending": "Unix"
 			}
 		},
@@ -300,7 +300,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -308,15 +308,15 @@
 					"file": "_posts/2015-10-05-rappels-stats.markdown",
 					"settings":
 					{
-						"buffer_size": 564,
+						"buffer_size": 1205,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								406,
-								406
+								92,
+								92
 							]
 						],
 						"settings":
@@ -360,15 +360,15 @@
 					"file": "_posts/2015-10-08-compressed_sensing_course.markdown",
 					"settings":
 					{
-						"buffer_size": 105,
+						"buffer_size": 97,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27,
-								27
+								97,
+								97
 							]
 						],
 						"settings":
