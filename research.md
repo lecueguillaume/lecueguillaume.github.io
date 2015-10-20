@@ -21,7 +21,7 @@ To appear in Journal of the European Mathematical society, 2014
 Electronic Journal of Probability. 2015(20).
 
 5. G. Lecué and S. Mendelson.\\
-[Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13.pdf)\\
+[Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13-06-04-15.pdf)\\
 Submitted, 2013.
 
 6. G. Lecué.\\
@@ -29,11 +29,11 @@ Submitted, 2013.
 Journal of statistical and planning inference, Volume 143, Issue 6, Pages 1022-1025 (June 2013).
 
 7. G. Lecué and P. Rigollet. \\
-[Optimal learning with Q-aggregation](/assets/LecRig13_annals.pdf)\\
+[Optimal learning with Q-aggregation](/assets/AOS1190.pdf)\\
 Annals of Statistics,  Volume 42, Number 1 (February 2014), Pages 211-224.
 
 8. G. Lecué.\\
-[Empirical risk minimization is optimal for the convex aggregation problem](/assets/L1.pdf)\\
+[Empirical risk minimization is optimal for the convex aggregation problem](/assets/BEJ447.pdf)\\
 Bernoulli,  Volume 19, Number 5B (November 2013), Pages 2153-2166.
 
 9. D. Chafaï, O. Guédon,   G. Lecué and A. Pajor.\\
