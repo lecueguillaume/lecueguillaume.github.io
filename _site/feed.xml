@@ -5,28 +5,34 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jan 2016 22:47:47 +0100</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2016 22:47:47 +0100</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2016 23:50:46 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2016 23:50:46 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing</title>
-        <description>&lt;p&gt;A chaque groupe de deux élèves sera remis un article de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :
-* présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.)
-* démontrer les résultats mathématiques
-* reproduire les simulations
-* faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.
-* proposer des parallèles avec d’autres sujets.&lt;/p&gt;
+        <description>&lt;p&gt;A chaque groupe de deux élèves sera remis un article de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
 
-&lt;p&gt;La validation du cours de Compressed Sensing se fera sur la base :
-* d’un mémoire d’au plus 8 pages (en Latex de préférence)
-* d’une soutenance de 15 minutes, suivie de 5 minutes de questions.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.)&lt;/li&gt;
+  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
+  &lt;li&gt;reproduire les simulations&lt;/li&gt;
+  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
+  &lt;li&gt;proposer des parallèles avec d’autres sujets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La validation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;d’un mémoire d’au plus 8 pages (en Latex de préférence)&lt;/li&gt;
+  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;La note attribuée au groupe dépend du niveau de compréhension et du regard critique des élèves sur le travail de recherche qui leur a été confié.&lt;/p&gt;
 
-&lt;h1 id=&quot;liste-des-articles-propossiciassetslistearticlescspdf&quot;&gt;Liste des articles proposés&lt;a href=&quot;/assets/liste_articles_cs.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;liste-des-articles-proposs-iciassetslistearticlescspdf&quot;&gt;Liste des articles proposés &lt;a href=&quot;/assets/liste_articles_cs.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l’article qu’ils souhaitent étudier. C’est par exemple, un sujet précis, une thématique, un article ‘plus mathématiques’, ‘plus appliqué’, etc.. 
+&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l’article qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, une thématique, un article ‘plus mathématiques’, ‘plus appliqué’, etc.. 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaite lors de l’attribution des sujets.&lt;/p&gt;
 
 &lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours. Poster un commentaire sur ce blog n’a pas de valeur administrative.&lt;/p&gt;
