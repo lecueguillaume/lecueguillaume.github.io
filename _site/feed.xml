@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jan 2016 23:50:46 +0100</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2016 23:50:46 +0100</lastBuildDate>
+    <pubDate>Wed, 27 Jan 2016 01:02:58 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 01:02:58 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -41,6 +41,54 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2016/01/26/organisation-soutenance-cours-cs/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/01/26/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Edit shortcuts in bash</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open the &lt;em&gt;.bash_profile&lt;/em&gt; file with your favorite editor (for instance C-x C-f in emacs and search for the file: ~/.bash_profile)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write your aliases in the &lt;em&gt;.bash_profile&lt;/em&gt; like:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;alias vw1=’vw click_train.vw -c -k –passes 10 –loss_function=logistic –link=logistic -f click_model.vw’&lt;/li&gt;
+  &lt;li&gt;alias vw2=’vw click_test.vw -t -i click_model.vw -p click_predictions.txt’&lt;/li&gt;
+  &lt;li&gt;alias score=’python score_vw.py click_test.vw click_predictions.txt ‘&lt;/li&gt;
+  &lt;li&gt;alias nb=’ipython notebook’&lt;/li&gt;
+  &lt;li&gt;alias py3=’source activate python3’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first three aliases are for vowpal wabbit routines I’ve been using a lot.&lt;/p&gt;
+
+&lt;p&gt;The fourth one is really useful to launch Ipython Notebook.&lt;/p&gt;
+
+&lt;p&gt;The last one is to switch to python 3. Before that I had to create a ‘conda’ environment for python 3 with&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;conda create -n python3 python=3.4&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then, enjoy your shortcuts in bash! launch a notebook in python 3 with just 4 letters and 1 number!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;$ macbook-pro-de-lecue:~ lecueguillaume$ py3&lt;/p&gt;
+
+  &lt;p&gt;discarding /Users/lecueguillaume/anaconda/bin from PATH&lt;/p&gt;
+
+  &lt;p&gt;prepending /Users/lecueguillaume/anaconda/envs/python3/bin to PATH&lt;/p&gt;
+
+  &lt;p&gt;$ (python3)macbook-pro-de-lecue:~ lecueguillaume$ nb&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</guid>
         
         
       </item>
