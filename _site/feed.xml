@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 01:02:58 +0100</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 01:02:58 +0100</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 09:26:13 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 09:26:13 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -74,7 +74,17 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
   &lt;p&gt;conda create -n python3 python=3.4&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Then, enjoy your shortcuts in bash! launch a notebook in python 3 with just 4 letters and 1 number!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Force the .bash_profile to execute. This loads the values immediately without having to reboot. In your Terminal window, run the following command.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;$ source ~/.bash_profile&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Then, enjoy your shortcuts in Terminal! Launch a notebook in python 3 with just 4 letters and 1 number!&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;$ macbook-pro-de-lecue:~ lecueguillaume$ py3&lt;/p&gt;
@@ -95,9 +105,13 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
     
       <item>
         <title>Cours de Compressed Sensing</title>
-        <description>&lt;h1 id=&quot;une-description-dtaille-du-cours--venir-se-trouve-iciassetspresentation-cours-cspdf&quot;&gt;Une description détaillée du cours à venir se trouve &lt;a href=&quot;/assets/presentation-cours-CS.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;une-description-dtaille-du-cours-se-trouve-iciassetspresentation-cours-cspdf&quot;&gt;Une description détaillée du cours se trouve &lt;a href=&quot;/assets/presentation-cours-CS.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
 
-&lt;h1 id=&quot;cours-1--slidesassetsintrocspdf--notes-de-coursassetsintroductioncspdf&quot;&gt;Cours 1 : &lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;cours-1--notions-de-mesures-et-de-parcimonie&quot;&gt;Cours 1 : Notions de mesures et de parcimonie&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;cours-2--notions-de-complxit-algorithmique-et-de-relaxation-convexe&quot;&gt;Cours 2 : Notions de compléxité algorithmique et de relaxation convexe&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/lecture_ell_0_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 00:00:00 +0200</pubDate>
         <link>http://lecueguillaume.github.io//2015/10/08/compressed_sensing_course/</link>

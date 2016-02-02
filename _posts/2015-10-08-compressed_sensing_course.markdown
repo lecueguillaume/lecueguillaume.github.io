@@ -4,6 +4,10 @@ title:  "Cours de Compressed Sensing"
 date:   2015-10-08
 ---
 
-#Une description détaillée du cours à venir se trouve [ici](/assets/presentation-cours-CS.pdf)
+#Une description détaillée du cours se trouve [ici](/assets/presentation-cours-CS.pdf)
 
-#Cours 1 : [slides](/assets/intro_cs.pdf) | [notes de cours](/assets/introduction_cs.pdf) 
+#Cours 1 : Notions de mesures et de parcimonie
+[slides](/assets/intro_cs.pdf) | [notes de cours](/assets/introduction_cs.pdf) 
+
+#Cours 2 : Notions de compléxité algorithmique et de relaxation convexe
+[notes de cours](/assets/lecture_ell_0_cs.pdf)

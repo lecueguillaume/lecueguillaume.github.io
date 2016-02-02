@@ -24,7 +24,11 @@ The last one is to switch to python 3. Before that I had to create a 'conda' env
 
 > conda create -n python3 python=3.4
 
-Then, enjoy your shortcuts in bash! launch a notebook in python 3 with just 4 letters and 1 number!
+3. Force the .bash_profile to execute. This loads the values immediately without having to reboot. In your Terminal window, run the following command.
+
+> $ source ~/.bash_profile
+
+4. Then, enjoy your shortcuts in Terminal! Launch a notebook in python 3 with just 4 letters and 1 number!
 
 > $ macbook-pro-de-lecue:~ lecueguillaume$ py3
 > 
