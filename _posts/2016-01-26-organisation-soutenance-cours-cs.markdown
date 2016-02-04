@@ -20,7 +20,7 @@ La validation du cours de Compressed Sensing se fera sur la base :
 
 La note attribuée au groupe dépend du niveau de compréhension et du regard critique des élèves sur le travail de recherche qui leur a été confié.
 
-#Liste des articles proposés [ici](/assets/liste_articles_cs.pdf)
+<!-- #Liste des articles proposés [ici](/assets/liste_articles_cs.pdf)-->
 
 Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S'ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l'article qu'ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, une thématique, un article 'plus mathématiques', 'plus appliqué', etc.. 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l'ensemble de ces requêtes, il se peut qu'elles ne soient pas toutes satisfaite lors de l'attribution des sujets.
