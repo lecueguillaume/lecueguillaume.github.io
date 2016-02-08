@@ -11,3 +11,6 @@ date:   2015-10-08
 
 #Cours 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
+
+#Cours 3 : Null Space Property et Restricted Isometry Property
+[notes de cours](/assets/lecture_nsp_rip_cs.pdf)
