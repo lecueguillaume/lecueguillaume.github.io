@@ -3,6 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
+0. G. Lecué and S. Mendelson\\
+[Regularization and the small-ball method I: sparse recovery](/assets/sparse-reg-19-1-2016.pdf)\\
+Submitted, 2016
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
 [On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_reconstruction.pdf)\\
