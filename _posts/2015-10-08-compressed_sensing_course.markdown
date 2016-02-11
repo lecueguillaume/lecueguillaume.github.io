@@ -14,3 +14,5 @@ date:   2015-10-08
 
 #Cours 3 : Null Space Property et Restricted Isometry Property
 [notes de cours](/assets/lecture_nsp_rip_cs.pdf)
+
+#Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)
