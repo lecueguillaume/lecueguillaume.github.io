@@ -5,13 +5,17 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Feb 2016 18:19:52 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 18:19:52 +0100</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2016 16:43:14 +0100</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2016 16:43:14 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing</title>
-        <description>&lt;p&gt;A chaque groupe de deux élèves sera remis un article de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
+        <description>&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/liste_projets.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A chaque groupe de deux élèves sera remis un article de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.)&lt;/li&gt;
@@ -29,8 +33,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;La note attribuée au groupe dépend du niveau de compréhension et du regard critique des élèves sur le travail de recherche qui leur a été confié.&lt;/p&gt;
-
-&lt;!-- #Liste des articles proposés [ici](/assets/liste_articles_cs.pdf)--&gt;
 
 &lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l’article qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, une thématique, un article ‘plus mathématiques’, ‘plus appliqué’, etc.. 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaite lors de l’attribution des sujets.&lt;/p&gt;
