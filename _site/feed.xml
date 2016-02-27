@@ -5,9 +5,62 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 16:51:36 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 16:51:36 +0100</lastBuildDate>
+    <pubDate>Sat, 27 Feb 2016 21:04:22 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2016 21:04:22 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Install glpk with CVXOPT on python</title>
+        <description>&lt;p&gt;Here are some explaination on how to install glpk and CVXOPT (on MAC). Using option ‘glpk’ in solvers.lp method of CVXOPT speeds up cvxopt by a factor of 2 or 10  according to  &lt;a href=&quot;https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html&quot;&gt;Stephane Caron’s webpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;a) Install glpk via brew :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;brew install glpk&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;b) The GLPK interface is not enabled by default. You need to edit the setup.py of CVXOPT. In my case, I have this file in the following folder&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Google\ Drive/package_python/cvxopt-1.1.7/setup.py&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;First thing, set variable BUILD_GLPK to 1:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BUILD_GLPK = 1&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then indicate the path to &lt;em&gt;libglpk&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GLPK_LIB_DIR = ‘/usr/local/Cellar/glpk/4.52/lib’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then indicate the path to &lt;em&gt;glpk.h&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GLPK_INC_DIR = ‘/usr/local/Cellar/glpk/4.52/include’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;c) Go to the CVXOPT’s ‘setup.py’ folder and run&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;python setup.py install&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;d) Enjoy CVXOPT with glpk :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;sol = solvers.lp(c, G, h, A, b, solver = ‘glpk’)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 27 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing</title>
