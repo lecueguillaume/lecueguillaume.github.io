@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Feb 2016 11:44:28 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 11:44:28 +0100</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 23:52:54 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 23:52:54 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -170,6 +170,9 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 
 &lt;h1 id=&quot;cours-3--null-space-property-et-restricted-isometry-property&quot;&gt;Cours 3 : Null Space Property et Restricted Isometry Property&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/lecture_nsp_rip_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;cours-4--la-mthode-du-simplexe&quot;&gt;Cours 4 : La méthode du simplexe&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/simplexe_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;feuille-dexercices--noncsassetsexoscspdf&quot;&gt;Feuille d’exercices : &lt;a href=&quot;/assets/exos_cs.pdf&quot;&gt;énoncés&lt;/a&gt;&lt;/h1&gt;
 </description>
