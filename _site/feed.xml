@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 23:52:54 +0100</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 23:52:54 +0100</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2016 20:08:28 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 20:08:28 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -185,11 +185,11 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
     
       <item>
         <title>Rappels de statistiques mathématiques</title>
-        <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2015pdf--notebook-downloadassetscdfempiriqueipynb--notebook-githttpsgithubcomlecueguillaumenotebookspythonblobmastercoursstatistiquescdfempiriqueipynb&quot;&gt;Cours 1 : &lt;a href=&quot;/assets/cours1_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;https://github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2015pdf--notebook-downloadassetscdfempiriqueipynb--notebook-githttpnbviewerjupyterorggithubcomlecueguillaumenotebookspythonblobmastercoursstatistiquescdfempiriqueipynb&quot;&gt;Cours 1 : &lt;a href=&quot;/assets/cours1_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h1 id=&quot;cours-2--slidesassetscours2ensae2015pdf&quot;&gt;Cours 2 : &lt;a href=&quot;/assets/cours2_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;https://github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;https://github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;cours-3--slidesassetscours3ensae2015pdf&quot;&gt;Cours 3 : &lt;a href=&quot;/assets/cours3_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
@@ -201,7 +201,7 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 
 &lt;h1 id=&quot;cours-7--slidesassetscours7ensae2015pdf&quot;&gt;Cours 7 : &lt;a href=&quot;/assets/cours7_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
-&lt;h1 id=&quot;cours-8--slidesassetscours8ensae2015pdf--notebook-downloadassetslinearregressionipynb--notebook-githttpsgithubcomlecueguillaumenotebookspythonblobmastercoursstatistiqueslinearregressionipynb--dataassetsdatapngnbreglinzip&quot;&gt;Cours 8 : &lt;a href=&quot;/assets/cours8_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/linear_regression.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;https://github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb&quot;&gt;notebook git&lt;/a&gt; | &lt;a href=&quot;/assets/data_png_nb_reg_lin.zip&quot;&gt;data&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;cours-8--slidesassetscours8ensae2015pdf--notebook-downloadassetslinearregressionipynb--notebook-githttpnbviewerjupyterorggithubcomlecueguillaumenotebookspythonblobmastercoursstatistiqueslinearregressionipynb--dataassetsdatapngnbreglinzip&quot;&gt;Cours 8 : &lt;a href=&quot;/assets/cours8_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/linear_regression.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github.com/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb&quot;&gt;notebook git&lt;/a&gt; | &lt;a href=&quot;/assets/data_png_nb_reg_lin.zip&quot;&gt;data&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h1 id=&quot;recueil-dexercices-corrigs--pdfassetsexosrappelsstatsensaepdf&quot;&gt;Recueil d’exercices corrigés : &lt;a href=&quot;/assets/exos_rappels_stats_ensae.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/h1&gt;
 
