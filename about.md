@@ -10,7 +10,7 @@ I hold a teaching position at [ENSAE](http://www.ensae.fr).
 
 I am a member of the French jury "agrégation de mathématiques".
 
-# address:
+# Address:
 ENSAE\\
 Bureau E31\\
 3 avenue Pierre Larousse\\
@@ -35,4 +35,4 @@ My Habilitation manuscript is available [here](/assets/HDR.pdf) and the slides o
 
 # Awards
 1. "**Mark Fulk award**" for the best student paper. 19th Annual Conference On Learning Theory, COLT06.
-2. "**Prix ROSEMONT/DEMASSIEUX**"  de la chancellerie des universités de Paris. Décembre 2008.
+2. "**Prix ROSEMONT/DEMASSIEUX**"  de la chancellerie des universités de Paris. Décembre 2008. For the best PhD thesis in Mathematics and its applications defended in (former) Paris University.
