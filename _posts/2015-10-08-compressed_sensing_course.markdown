@@ -18,4 +18,10 @@ date:   2015-10-08
 #Cours 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf)
 
+#Cours 5 : Méthodes de points intérieurs
+[notes de cours](/assets/points_interieurs_method.pdf)
+
+#TP : diagrammes de transition de phase
+[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
+
 #Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)
