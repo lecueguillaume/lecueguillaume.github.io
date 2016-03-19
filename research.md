@@ -13,7 +13,7 @@ To appear in **IEEE Transactions on Information Theory**, 2015.\\
 Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition.ipynb) for exact reconstruction via Douglas Rachford and [here](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition_cvx.ipynb) for estimation results for quantized measurements.
 
 2. G. Lecué and S. Mendelson.\\
-[Performance of empirical risk minimization in linear aggregation](/assets/linear_agg_Feb_02_2015.pdf)\\
+[Performance of empirical risk minimization in linear aggregation](/assets/BEJ701.pdf)\\
 To appear in **Bernoulli journal**, 2014.
 
 3. G. Lecué and S. Mendelson.\\
