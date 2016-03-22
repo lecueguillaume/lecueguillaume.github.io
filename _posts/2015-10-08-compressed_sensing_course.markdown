@@ -24,4 +24,7 @@ date:   2015-10-08
 #TP : diagrammes de transition de phase
 [Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
 
+#TP : basis pursuit via Douglas-Rachford
+[notebook](/assets/phase_transition.ipynb)
+
 #Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)

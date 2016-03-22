@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Mar 2016 23:43:13 +0100</pubDate>
-    <lastBuildDate>Mon, 21 Mar 2016 23:43:13 +0100</lastBuildDate>
+    <pubDate>Tue, 22 Mar 2016 15:05:00 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Mar 2016 15:05:00 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -183,6 +183,9 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 
 &lt;h1 id=&quot;tp--diagrammes-de-transition-de-phase&quot;&gt;TP : diagrammes de transition de phase&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;tp--basis-pursuit-via-douglas-rachford&quot;&gt;TP : basis pursuit via Douglas-Rachford&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/phase_transition.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;feuille-dexercices--noncsassetsexoscspdf&quot;&gt;Feuille d’exercices : &lt;a href=&quot;/assets/exos_cs.pdf&quot;&gt;énoncés&lt;/a&gt;&lt;/h1&gt;
 </description>
