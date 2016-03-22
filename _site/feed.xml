@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Mar 2016 15:05:00 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 15:05:00 +0100</lastBuildDate>
+    <pubDate>Tue, 22 Mar 2016 16:50:03 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Mar 2016 16:50:03 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -166,26 +166,27 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <title>Cours de Compressed Sensing</title>
         <description>&lt;h1 id=&quot;une-description-dtaille-du-cours-se-trouve-iciassetspresentation-cours-cspdf&quot;&gt;Une description détaillée du cours se trouve &lt;a href=&quot;/assets/presentation-cours-CS.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
 
-&lt;h1 id=&quot;cours-1--notions-de-mesures-et-de-parcimonie&quot;&gt;Cours 1 : Notions de mesures et de parcimonie&lt;/h1&gt;
+&lt;h1 id=&quot;chapitre-1--notions-de-mesures-et-de-parcimonie&quot;&gt;Chapitre 1 : Notions de mesures et de parcimonie&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;cours-2--notions-de-complxit-algorithmique-et-de-relaxation-convexe&quot;&gt;Cours 2 : Notions de compléxité algorithmique et de relaxation convexe&lt;/h1&gt;
+&lt;h1 id=&quot;chapitre-2--notions-de-complxit-algorithmique-et-de-relaxation-convexe&quot;&gt;Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/lecture_ell_0_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;cours-3--null-space-property-et-restricted-isometry-property&quot;&gt;Cours 3 : Null Space Property et Restricted Isometry Property&lt;/h1&gt;
+&lt;h1 id=&quot;chapitre-3--null-space-property-et-restricted-isometry-property&quot;&gt;Chapitre 3 : Null Space Property et Restricted Isometry Property&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/lecture_nsp_rip_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;cours-4--la-mthode-du-simplexe&quot;&gt;Cours 4 : La méthode du simplexe&lt;/h1&gt;
+&lt;h1 id=&quot;chapitre-4--la-mthode-du-simplexe&quot;&gt;Chapitre 4 : La méthode du simplexe&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/simplexe_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;cours-5--mthodes-de-points-intrieurs&quot;&gt;Cours 5 : Méthodes de points intérieurs&lt;/h1&gt;
+&lt;h1 id=&quot;chapitre-5--mthodes-de-points-intrieurs&quot;&gt;Chapitre 5 : Méthodes de points intérieurs&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/points_interieurs_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;tp--diagrammes-de-transition-de-phase&quot;&gt;TP : diagrammes de transition de phase&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;|
+&lt;a href=&quot;/assets/phase_transition_cvx.ipynb&quot;&gt;Notebook – corrigé&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;tp--basis-pursuit-via-douglas-rachford&quot;&gt;TP : basis pursuit via Douglas-Rachford&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/phase_transition.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
+&lt;!-- #TP : basis pursuit via Douglas-Rachford
+[notebook](/assets/phase_transition.ipynb) --&gt;
 
 &lt;h1 id=&quot;feuille-dexercices--noncsassetsexoscspdf&quot;&gt;Feuille d’exercices : &lt;a href=&quot;/assets/exos_cs.pdf&quot;&gt;énoncés&lt;/a&gt;&lt;/h1&gt;
 </description>
