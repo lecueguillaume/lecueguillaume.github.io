@@ -5,9 +5,45 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Mar 2016 16:50:03 +0100</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 16:50:03 +0100</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2016 21:23:38 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2016 21:23:38 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Create a python 3 session under anaconda</title>
+        <description>&lt;p&gt;Here are some explanations to create a python 3 environment under Anaconda.&lt;/p&gt;
+
+&lt;p&gt;a) create an environment for python 3  :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;conda create -n python3 python=3.4&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;b) switch to this environement by typing&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;source activate python3&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;c) install some libraries if needed&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;conda install unidecode&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;d) if you want to go back to python 2&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;source deactivate&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 22 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2016/03/22/python-3/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/03/22/python-3/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Install glpk with CVXOPT on python</title>
