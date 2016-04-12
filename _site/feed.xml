@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Mar 2016 21:23:38 +0200</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2016 21:23:38 +0200</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 18:02:57 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 18:02:57 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -220,6 +220,12 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 &lt;h1 id=&quot;tp--diagrammes-de-transition-de-phase&quot;&gt;TP : diagrammes de transition de phase&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;|
 &lt;a href=&quot;/assets/phase_transition_cvx.ipynb&quot;&gt;Notebook – corrigé&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chapitre-6--forward-backward-splitting-methods&quot;&gt;Chapitre 6 : Forward-Backward splitting methods&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/fbs_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chapitre-7--compltion-de-matrices-et-systme-de-recommandation&quot;&gt;Chapitre 7 : Complétion de matrices et système de recommandation&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/10_matrice_completion.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) --&gt;

@@ -25,6 +25,12 @@ date:   2015-10-08
 [Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)|
 [Notebook -- corrigé](/assets/phase_transition_cvx.ipynb)
 
+#Chapitre 6 : Forward-Backward splitting methods
+[notes de cours](/assets/fbs_method.pdf)
+
+#Chapitre 7 : Complétion de matrices et système de recommandation
+[notes de cours](/assets/10_matrice_completion.pdf)
+
 <!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) -->
 
