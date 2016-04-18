@@ -31,6 +31,10 @@ date:   2015-10-08
 #Chapitre 7 : Complétion de matrices et système de recommandation
 [notes de cours](/assets/10_matrice_completion.pdf)
 
+#TP : completion de matrice
+[Notebook](/assets/completion.ipynb)
+[logo ensae](/assets/ensae.png)
+
 <!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) -->
 
