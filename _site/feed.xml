@@ -5,9 +5,44 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 11:42:13 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 11:42:13 +0200</lastBuildDate>
+    <pubDate>Tue, 24 May 2016 15:42:04 +0200</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 15:42:04 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>real time edition via etherpad</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://etherpad.org&quot;&gt;Etherpad&lt;/a&gt; is a really-real time collaborative editor. Here is how I installed it and use it now.&lt;/p&gt;
+
+&lt;p&gt;a) clone the repo :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git clone https://github.com/ether/etherpad-lite.git&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;b) enter the directory&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;cd etherpad-lite/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;c) run the run.sh&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;bash bin/run.sh&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;d) access your Etherpad at http://0.0.0.0:9001/ in your browser&lt;/p&gt;
+
+&lt;p&gt;e) Create a Pad by giving it a name ‘new_pad’&lt;/p&gt;
+
+&lt;p&gt;f) share it with the address http://0.0.0.0:9001/p/new_pad&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 May 2016 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2016/05/24/real-time-edition-via-etherpad/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/05/24/real-time-edition-via-etherpad/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Create a python 3 session under anaconda</title>
