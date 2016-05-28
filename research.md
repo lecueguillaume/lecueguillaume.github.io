@@ -3,9 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
+0. P. Bellec, G. Lecué and A. Tsybakov\\
+[Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
+Submitted, 2016.
+
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse-reg-19-1-2016.pdf)\\
-Submitted, 2016
+Submitted, 2016.
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
 [On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_reconstruction.pdf)\\
@@ -14,7 +18,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 
 2. G. Lecué and S. Mendelson.\\
 [Performance of empirical risk minimization in linear aggregation](/assets/BEJ701.pdf)\\
-To appear in **Bernoulli journal**, 2014.
+**Bernoulli** 22 (2016), no. 3, 1520–1534.
 
 3. G. Lecué and S. Mendelson.\\
 [Sparse recovery under weak moment assumptions](/assets/cs_jems_fev_18_2015.pdf)\\
@@ -22,7 +26,7 @@ To appear in **Journal of the European Mathematical society**, 2014
 
 4. G. Lecué and S. Mendelson.\\
 [Minimax rates of convergence and the performance of ERM in phase recovery](/assets/erm_phase_recovery.pdf)\\
-**Electronic Journal of Probability**. 2015(20).
+**Electronic Journal of Probability**, 20 (2015) no. 57, 29 pp.
 
 5. G. Lecué and S. Mendelson.\\
 [Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13-06-04-15.pdf)\\
@@ -34,11 +38,11 @@ Submitted, 2013.
 
 7. G. Lecué and P. Rigollet. \\
 [Optimal learning with Q-aggregation](/assets/AOS1190.pdf)\\
-**Annals of Statistics**,  Volume 42, Number 1 (February 2014), Pages 211-224.
+**Annals of Statistics**, 42 (2014), no. 1, 211-224.
 
 8. G. Lecué.\\
 [Empirical risk minimization is optimal for the convex aggregation problem](/assets/BEJ447.pdf)\\
-**Bernoulli**,  Volume 19, Number 5B (November 2013), Pages 2153-2166.
+**Bernoulli** 19 (2013), no. 5B, 2153–2166.
 
 9. D. Chafaï, O. Guédon,   G. Lecué and A. Pajor.\\
 [Interactions between compressed sensing, Random matrices and high-dimensional geometry](/assets/CSbook.pdf)\\
@@ -51,7 +55,7 @@ Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 page
 
 11. G. Lecué and S. Mendelson.\\
 [On the optimality of the aggregate with exponential weights for low temperatures](/assets/LM6-07-07-10.pdf)\\
-**Bernoulli Journal**, (19) 2, p. 646-675, 2013.
+**Bernoulli** 19 (2013), no. 2, 646–675.
 
 
 12. G. Lecué and S. Mendelson.\\
