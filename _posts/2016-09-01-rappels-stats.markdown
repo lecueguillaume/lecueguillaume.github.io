@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Rappels de statistiques mathématiques"
-date:   2015-10-05 11:59:13
+date:   2016-09-01 11:59:13
 ---
-#**Cours 1** : [slides](/assets/cours1_ensae_2015.pdf) | [notebook download](/assets/cdf_empirique.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/cdf_empirique.ipynb)
+#**Cours 1** : [slides](/assets/cours1_ensae_2016.pdf) | [notebook download](/assets/cdf_empirique.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/cdf_empirique.ipynb)
 
-#**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
+<!-- #**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
 [notebook Robbins-Monro download](/assets/rm_quantile.ipynb) | [notebook Robbins-Monro git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb)\\
 [notebook qqplot download](/assets/rm_quantile.ipynb) | [notebook qqplot git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb)
 
@@ -20,7 +20,7 @@ date:   2015-10-05 11:59:13
 
 #**Cours 7**  : [slides](/assets/cours7_ensae_2015.pdf)
 
-#**Cours 8**  : [slides](/assets/cours8_ensae_2015.pdf) | [notebook download](/assets/linear_regression.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb) | [data](/assets/data_png_nb_reg_lin.zip)
+#**Cours 8**  : [slides](/assets/cours8_ensae_2015.pdf) | [notebook download](/assets/linear_regression.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb) | [data](/assets/data_png_nb_reg_lin.zip) -->
 
 #Recueil d'exercices corrigés : [pdf](/assets/exos_rappels_stats_ensae.pdf)
 
