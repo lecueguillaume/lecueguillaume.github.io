@@ -3,7 +3,7 @@ layout: post
 title:  "Rappels de statistiques mathématiques"
 date:   2016-09-01 11:59:13
 ---
-#**Cours 1** : [slides](/assets/cours1_ensae_2016.pdf) | [notebook download](/assets/cdf_empirique.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/cdf_empirique.ipynb)
+#**Cours 1** : [slides](/assets/cours1_ensae_2016.pdf) | [notebook download](/assets/cdf_empirique.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb)
 
 <!-- #**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
 [notebook Robbins-Monro download](/assets/rm_quantile.ipynb) | [notebook Robbins-Monro git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb)\\
