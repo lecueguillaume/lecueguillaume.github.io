@@ -7,6 +7,12 @@ permalink: /research/
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
 Submitted, 2016.
 
+reg_27_08_2016
+
+0. G. Lecué and S. Mendelson\\
+[Regularization and the small-ball method II: complexity dependent error rates](/assets/reg_27_08_2016.pdf)\\
+Submitted, 2016.
+
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse-reg-19-1-2016.pdf)\\
 Submitted, 2016.

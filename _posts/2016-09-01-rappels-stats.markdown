@@ -5,12 +5,12 @@ date:   2016-09-01 11:59:13
 ---
 #**Cours 1** : [slides](/assets/cours1_ensae_2016.pdf) | [notebook download](/assets/cdf_empirique.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb)
 
-<!-- #**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
+#**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
 [notebook Robbins-Monro download](/assets/rm_quantile.ipynb) | [notebook Robbins-Monro git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb)\\
 [notebook qqplot download](/assets/rm_quantile.ipynb) | [notebook qqplot git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb)
 
 
-#**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
+<!-- #**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
 
 #**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
 
