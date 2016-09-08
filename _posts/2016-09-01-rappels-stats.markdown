@@ -10,9 +10,9 @@ date:   2016-09-01 11:59:13
 [notebook qqplot download](/assets/rm_quantile.ipynb) | [notebook qqplot git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb)
 
 
-<!-- #**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
+#**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
 
-#**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
+<!--  #**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
 
 #**Cours 5** : [slides](/assets/cours5_ensae_2015.pdf)
 
