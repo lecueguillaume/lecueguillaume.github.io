@@ -12,11 +12,11 @@ date:   2016-09-01 11:59:13
 
 #**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
 
-<!--  #**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
+#**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
 
 #**Cours 5** : [slides](/assets/cours5_ensae_2015.pdf)
 
-#**Cours 6**  : [slides](/assets/cours6_ensae_2015.pdf)
+<!--  #**Cours 6**  : [slides](/assets/cours6_ensae_2015.pdf)
 
 #**Cours 7**  : [slides](/assets/cours7_ensae_2015.pdf)
 

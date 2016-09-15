@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Sep 2016 21:24:34 +0200</pubDate>
-    <lastBuildDate>Thu, 08 Sep 2016 21:24:34 +0200</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2016 11:52:03 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 11:52:03 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -19,11 +19,11 @@
 
 &lt;h1 id=&quot;cours-3---slidesassetscours3ensae2015pdf&quot;&gt;&lt;strong&gt;Cours 3&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours3_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
-&lt;!--  #**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
+&lt;h1 id=&quot;cours-4---slidesassetscours4ensae2015pdf&quot;&gt;&lt;strong&gt;Cours 4&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours4_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
-#**Cours 5** : [slides](/assets/cours5_ensae_2015.pdf)
+&lt;h1 id=&quot;cours-5--slidesassetscours5ensae2015pdf&quot;&gt;&lt;strong&gt;Cours 5&lt;/strong&gt; : &lt;a href=&quot;/assets/cours5_ensae_2015.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
 
-#**Cours 6**  : [slides](/assets/cours6_ensae_2015.pdf)
+&lt;!--  #**Cours 6**  : [slides](/assets/cours6_ensae_2015.pdf)
 
 #**Cours 7**  : [slides](/assets/cours7_ensae_2015.pdf)
 
