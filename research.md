@@ -34,7 +34,7 @@ To appear in **Journal of the European Mathematical society**, 2014
 **Electronic Journal of Probability**, 20 (2015) no. 57, 29 pp.
 
 5. G. Lecué and S. Mendelson.\\
-[Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13-06-04-15.pdf)\\
+[Learning Subgaussian classes : Upper and minimax bounds](/assets/lm13.pdf)\\
 Submitted, 2013.
 
 6. G. Lecué.\\
