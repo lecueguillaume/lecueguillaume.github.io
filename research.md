@@ -35,7 +35,7 @@ To appear in **Journal of the European Mathematical society**, 2014
 
 5. G. Lecué and S. Mendelson.\\
 [Learning Subgaussian classes : Upper and minimax bounds](/assets/lm13.pdf)\\
-Submitted, 2013.
+To appear in **Topics in Learning Theory - Societe Mathematique de France**, (S. Boucheron and N. Vayatis Eds.)
 
 6. G. Lecué.\\
 [Comment to 'Generic chaining and the l1-penalty' by Sara van de Geer](/assets/review-sara.pdf)\\
