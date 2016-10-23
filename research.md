@@ -17,7 +17,7 @@ Submitted, 2016.
 Submitted, 2016.
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
-[On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_reconstruction.pdf)\\
+[On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_noisy_reconstruct.pdf)\\
 To appear in **IEEE Transactions on Information Theory**, 2015.\\
 Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition.ipynb) for exact reconstruction via Douglas Rachford and [here](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition_cvx.ipynb) for estimation results for quantized measurements.
 
