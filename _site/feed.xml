@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Oct 2016 16:57:18 +0200</pubDate>
-    <lastBuildDate>Sun, 23 Oct 2016 16:57:18 +0200</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2017 14:27:28 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2017 14:27:28 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -41,7 +41,7 @@
     
       <item>
         <title>real time edition via etherpad</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://etherpad.org&quot;&gt;Etherpad&lt;/a&gt; is a really-real time collaborative editor. Here is how I installed it and use it now.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://etherpad.org&quot;&gt;Etherpad&lt;/a&gt; is a really-real time collaborative editor. Here is how I installed it and use it now. &lt;/p&gt;
 
 &lt;p&gt;a) clone the repo :&lt;/p&gt;
 
@@ -55,7 +55,7 @@
   &lt;p&gt;cd etherpad-lite/&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;c) run the run.sh&lt;/p&gt;
+&lt;p&gt;c) run the run.sh &lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;bash bin/run.sh&lt;/p&gt;
@@ -76,7 +76,7 @@
     
       <item>
         <title>Create a python 3 session under anaconda</title>
-        <description>&lt;p&gt;Here are some explanations to create a python 3 environment under Anaconda.&lt;/p&gt;
+        <description>&lt;p&gt;Here are some explanations to create a python 3 environment under Anaconda. &lt;/p&gt;
 
 &lt;p&gt;a) create an environment for python 3  :&lt;/p&gt;
 
@@ -90,10 +90,10 @@
   &lt;p&gt;source activate python3&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;c) install some libraries if needed&lt;/p&gt;
+&lt;p&gt;c) install some libraries if needed &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;conda install unidecode&lt;/p&gt;
+  &lt;p&gt;conda install unidecode &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;d) if you want to go back to python 2&lt;/p&gt;
@@ -112,7 +112,7 @@
     
       <item>
         <title>Install glpk with CVXOPT on python</title>
-        <description>&lt;p&gt;Here are some explaination on how to install glpk and CVXOPT (on MAC). Using option ‘glpk’ in solvers.lp method of CVXOPT speeds up cvxopt by a factor of 2 or 10  according to  &lt;a href=&quot;https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html&quot;&gt;Stephane Caron’s webpage&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Here are some explaination on how to install glpk and CVXOPT (on MAC). Using option ‘glpk’ in solvers.lp method of CVXOPT speeds up cvxopt by a factor of 2 or 10  according to  &lt;a href=&quot;https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html&quot;&gt;Stephane Caron’s webpage&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;a) Install glpk via brew :&lt;/p&gt;
 
@@ -126,10 +126,10 @@
   &lt;p&gt;Google\ Drive/package_python/cvxopt-1.1.7/setup.py&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;First thing, set variable BUILD_GLPK to 1:&lt;/p&gt;
+&lt;p&gt;First thing, set variable BUILD_GLPK to 1: &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;BUILD_GLPK = 1&lt;/p&gt;
+  &lt;p&gt;BUILD_GLPK = 1 &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Then indicate the path to &lt;em&gt;libglpk&lt;/em&gt;&lt;/p&gt;
@@ -180,7 +180,7 @@
   &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
   &lt;li&gt;reproduire les simulations&lt;/li&gt;
   &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
-  &lt;li&gt;proposer des parallèles avec d’autres sujets.&lt;/li&gt;
+  &lt;li&gt;proposer des parallèles avec d’autres sujets. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;La validation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
@@ -195,7 +195,7 @@
 &lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l’article qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, une thématique, un article ‘plus mathématiques’, ‘plus appliqué’, etc.. 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaite lors de l’attribution des sujets.&lt;/p&gt;
 
-&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours. Poster un commentaire sur ce blog n’a pas de valeur administrative.&lt;/p&gt;
+&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours. Poster un commentaire sur ce blog n’a pas de valeur administrative. &lt;/p&gt;
 
 </description>
         <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
@@ -224,9 +224,9 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
   &lt;li&gt;alias py3=’source activate python3’&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The first three aliases are for vowpal wabbit routines I’ve been using a lot.&lt;/p&gt;
+&lt;p&gt;The first three aliases are for vowpal wabbit routines I’ve been using a lot. &lt;/p&gt;
 
-&lt;p&gt;The fourth one is really useful to launch Ipython Notebook.&lt;/p&gt;
+&lt;p&gt;The fourth one is really useful to launch Ipython Notebook. &lt;/p&gt;
 
 &lt;p&gt;The last one is to switch to python 3. Before that I had to create a ‘conda’ environment for python 3 with&lt;/p&gt;
 
@@ -268,7 +268,7 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <description>&lt;h1 id=&quot;une-description-dtaille-du-cours-se-trouve-iciassetspresentation-cours-cspdf&quot;&gt;Une description détaillée du cours se trouve &lt;a href=&quot;/assets/presentation-cours-CS.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h1 id=&quot;chapitre-1--notions-de-mesures-et-de-parcimonie&quot;&gt;Chapitre 1 : Notions de mesures et de parcimonie&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt; &lt;/p&gt;
 
 &lt;h1 id=&quot;chapitre-2--notions-de-complxit-algorithmique-et-de-relaxation-convexe&quot;&gt;Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/lecture_ell_0_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;

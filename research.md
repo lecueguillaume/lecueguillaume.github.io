@@ -3,6 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+0. G. Lecué and M. Lerasle\\
+[Learning from MOM's principles](/assets/MomLasso_2016_12_17.pdf)\\
+Submitted, 2016
+
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
 Submitted, 2016.
