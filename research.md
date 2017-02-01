@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
-[Towards the study of least squares estimators with convex penalty ](/assets/conv_penalty_SMF_submitted.pdf)\\
+[Towards the study of least squares estimators with convex penalty ](/assets/conv_penalty_SMF.pdf)\\
 Submitted, 2017.
 
 
