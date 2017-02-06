@@ -9,10 +9,10 @@ date:   2015-10-08
 #Chapitre 1 : Notions de mesures et de parcimonie
 [slides](/assets/intro_cs.pdf) | [notes de cours](/assets/introduction_cs.pdf) 
 
-<!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
+#Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
 
-#Chapitre 3 : Null Space Property et Restricted Isometry Property
+<!-- #Chapitre 3 : Null Space Property et Restricted Isometry Property
 [notes de cours](/assets/lecture_nsp_rip_cs.pdf)
 
 #Chapitre 4 : La méthode du simplexe
