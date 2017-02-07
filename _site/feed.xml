@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2017 10:43:43 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 10:43:43 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2017 10:53:58 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Feb 2017 10:53:58 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -39,10 +39,12 @@
 &lt;ul&gt;
   &lt;li&gt;d’un mémoire d’au plus 10 pages (en Latex)&lt;/li&gt;
   &lt;li&gt;D’un notebook commenté en python (s’il y a des simulations)&lt;/li&gt;
-  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de question de cours pour chaque élève.&lt;/li&gt;
+  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;La note attribuée à chaque élève dépend  du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié – qualité du code) ainsi que sur les réponses personnelles de chaque membre du groupe aux questions de cours.&lt;/p&gt;
+&lt;p&gt;La note attribuée à chaque élève dépend :
+1. du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a) 
+2. des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/p&gt;
 
 &lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou le ou les article(s) qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, des liens vers des articles, une thématique, une orientation ‘plus mathématique’, ‘plus appliquée’, etc.. 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;

@@ -30,9 +30,11 @@ La validation et l'évaluation du cours de Compressed Sensing se fera sur la bas
 
 * d'un mémoire d'au plus 10 pages (en Latex)
 * D'un notebook commenté en python (s'il y a des simulations)
-* d'une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de question de cours pour chaque élève.
+* d'une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.
 
-La note attribuée à chaque élève dépend  du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié -- qualité du code) ainsi que sur les réponses personnelles de chaque membre du groupe aux questions de cours.
+La note attribuée à chaque élève dépend :
+1. du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s'il y en a) 
+2. des réponses personnelles de chaque élève du groupe aux questions de cours.
 
 
 Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S'ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou le ou les article(s) qu'ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, des liens vers des articles, une thématique, une orientation 'plus mathématique', 'plus appliquée', etc.. 

@@ -3,6 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+0. P. Alquier, V. Cottet and G. Lecué\\
+[Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
+Submitted, 2017.
+
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Towards the study of least squares estimators with convex penalty ](/assets/conv_penalty_SMF.pdf)\\
