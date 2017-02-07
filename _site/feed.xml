@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2017 16:30:58 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 16:30:58 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2017 17:15:13 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Feb 2017 17:15:13 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -209,48 +209,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Sat, 27 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing</title>
-        <description>&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Planning des soutenances&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/planning_soutenance_cs_15_16.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/liste_projets.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A chaque groupe de deux élèves sera remis un article de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.)&lt;/li&gt;
-  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
-  &lt;li&gt;reproduire les simulations&lt;/li&gt;
-  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
-  &lt;li&gt;proposer des parallèles avec d’autres sujets. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La validation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;d’un mémoire d’au plus 8 pages (en Latex de préférence)&lt;/li&gt;
-  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La note attribuée au groupe dépend du niveau de compréhension et du regard critique des élèves sur le travail de recherche qui leur a été confié.&lt;/p&gt;
-
-&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou l’article qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, une thématique, un article ‘plus mathématiques’, ‘plus appliqué’, etc.. 
-Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaite lors de l’attribution des sujets.&lt;/p&gt;
-
-&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours. Poster un commentaire sur ce blog n’a pas de valeur administrative. &lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2016/01/26/organisation-soutenance-cours-cs/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/01/26/organisation-soutenance-cours-cs/</guid>
         
         
       </item>
