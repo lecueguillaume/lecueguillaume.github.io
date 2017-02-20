@@ -12,10 +12,10 @@ date:   2015-10-08
 #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
 
-<!-- #Chapitre 3 : Null Space Property et Restricted Isometry Property
+#Chapitre 3 : Null Space Property et Restricted Isometry Property
 [notes de cours](/assets/lecture_nsp_rip_cs.pdf)
 
-#Chapitre 4 : La méthode du simplexe
+<!--#Chapitre 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf) -->
 
 <!-- #Chapitre 5 : Méthodes de points intérieurs

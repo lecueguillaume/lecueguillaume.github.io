@@ -40,8 +40,8 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 **Bernoulli** 22 (2016), no. 3, 1520–1534.
 
 3. G. Lecué and S. Mendelson.\\
-[Sparse recovery under weak moment assumptions](/assets/cs_jems_fev_18_2015.pdf)\\
-To appear in **Journal of the European Mathematical society**, 2014
+[Sparse recovery under weak moment assumptions](/assets/2017-019-003-06.pdf)\\
+Journal of the European Mathematical society, (19), 2017
 
 4. G. Lecué and S. Mendelson.\\
 [Minimax rates of convergence and the performance of ERM in phase recovery](/assets/erm_phase_recovery.pdf)\\
