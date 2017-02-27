@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2017 21:58:57 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 21:58:57 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 18:58:07 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 18:58:07 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -284,23 +284,24 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 &lt;h1 id=&quot;chapitre-3--null-space-property-et-restricted-isometry-property&quot;&gt;Chapitre 3 : Null Space Property et Restricted Isometry Property&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/lecture_nsp_rip_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
+&lt;h1 id=&quot;tp--diagrammes-de-transition-de-phase&quot;&gt;TP : diagrammes de transition de phase&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) --&gt;
+
 &lt;!--#Chapitre 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf) --&gt;
 
 &lt;!-- #Chapitre 5 : Méthodes de points intérieurs
-[notes de cours](/assets/points_interieurs_method.pdf)
+[notes de cours](/assets/points_interieurs_method.pdf)--&gt;
 
-#TP : diagrammes de transition de phase
-[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)|
-[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb)
+&lt;!--#Chapitre 6 : Forward-Backward splitting methods
+[notes de cours](/assets/fbs_method.pdf)--&gt;
 
-#Chapitre 6 : Forward-Backward splitting methods
-[notes de cours](/assets/fbs_method.pdf)
+&lt;!--#Chapitre 7 : Complétion de matrices et système de recommandation
+[notes de cours](/assets/10_matrice_completion.pdf)--&gt;
 
-#Chapitre 7 : Complétion de matrices et système de recommandation
-[notes de cours](/assets/10_matrice_completion.pdf)
-
-#TP : completion de matrice
+&lt;!-- #TP : completion de matrice
 [Notebook](/assets/completion.ipynb)
 [logo ensae](/assets/ensae.png) --&gt;
 
