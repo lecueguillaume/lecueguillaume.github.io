@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Homepage of Guillaume Lecué</title>
-  <meta name="description" content="Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;">
+  <title>Installation de CVXOPT sous windows.</title>
+  <meta name="description" content="&lt;!–  Planning des soutenances ">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://lecueguillaume.github.io//">
+  <link rel="canonical" href="http://lecueguillaume.github.io//2017/02/28/installation-cvxopt-windows/">
   <link rel="alternate" type="application/rss+xml" title="Homepage of Guillaume Lecué" href="http://lecueguillaume.github.io//feed.xml" />
 </head>
 
@@ -62,79 +62,69 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">Installation de CVXOPT sous windows.</h1>
+    <p class="post-meta">Feb 28, 2017</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Feb 28, 2017</span>
+  <article class="post-content">
+    <!-- <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
 
-        <h2>
-          <a class="post-link" href="/2017/02/28/installation-cvxopt-windows/">Installation de CVXOPT sous windows.</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 6, 2017</span>
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_15_16.pdf)
 
-        <h2>
-          <a class="post-link" href="/2017/02/06/organisation-soutenance-cours-cs/">Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2017.</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 1, 2016</span>
 
-        <h2>
-          <a class="post-link" href="/2016/09/01/rappels-stats/">Rappels de statistiques mathématiques</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">May 24, 2016</span>
 
-        <h2>
-          <a class="post-link" href="/2016/05/24/real-time-edition-via-etherpad/">real time edition via etherpad</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Mar 22, 2016</span>
+<font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
 
-        <h2>
-          <a class="post-link" href="/2016/03/22/python-3/">Create a python 3 session under anaconda</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 27, 2016</span>
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf) -->
+<p>a) installer Anaconda</p>
 
-        <h2>
-          <a class="post-link" href="/2016/02/27/cvxopt-glpk-basis-pursuit/">Install glpk with CVXOPT on python</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jan 26, 2016</span>
+<p>b) Aller sur <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/">librairies python pour windows</a></p>
 
-        <h2>
-          <a class="post-link" href="/2016/01/26/edit-short-cuts-bash/">Edit shortcuts in bash</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Oct 8, 2015</span>
+<p>c) Télécharger :</p>
 
-        <h2>
-          <a class="post-link" href="/2015/10/08/compressed_sensing_course/">Cours de Compressed Sensing</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p>1) <a href="numpy‑1.12.0+mkl‑cp35‑cp35m‑win_amd64.whl">numpy pour win64 et python 3.5</a></p>
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>2) <a href="cvxopt‑1.1.9‑cp35‑cp35m‑win_amd64.whl">cvxopt pour win64 et python 3.5</a></p>
+
+<p>d) ouvrir un éditeur de commandes en mode admin</p>
+
+<p>e) taper </p>
+
+<pre><code>pip install "chemin du fichier numpy"
+</code></pre>
+
+<p>f) taper </p>
+
+<pre><code>pip install "chemin du fichier cvxopt"
+</code></pre>
+
+
+  </article>
+
+  
+  <!-- Add Disqus comments. -->
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'lecueguillaume'; 
+      var disqus_identifier = "/2017/02/28/installation-cvxopt-windows/";
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+  <script id="dsq-count-scr" src="//lecueguillaume.disqus.com/count.js" async></script>
+
+
 
 </div>
 
