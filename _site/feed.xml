@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Feb 2017 15:30:07 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Feb 2017 15:30:07 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 10:50:25 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 10:50:25 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -330,11 +330,11 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 
 &lt;p&gt;&lt;a href=&quot;/assets/phase_transition_cvx.ipynb&quot;&gt;Notebook – corrigé&lt;/a&gt; &lt;/p&gt;
 
-&lt;!--#Chapitre 4 : La méthode du simplexe
-[notes de cours](/assets/simplexe_method.pdf) --&gt;
+&lt;h1 id=&quot;chapitre-4--la-mthode-du-simplexe&quot;&gt;Chapitre 4 : La méthode du simplexe&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/simplexe_method.pdf&quot;&gt;notes de cours&lt;/a&gt; &lt;/p&gt;
 
-&lt;!-- #Chapitre 5 : Méthodes de points intérieurs
-[notes de cours](/assets/points_interieurs_method.pdf)--&gt;
+&lt;h1 id=&quot;chapitre-5--mthodes-de-points-intrieurs&quot;&gt;Chapitre 5 : Méthodes de points intérieurs&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/points_interieurs_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
 &lt;!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)--&gt;

@@ -20,11 +20,11 @@ date:   2015-10-08
 
 [Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
 
-<!--#Chapitre 4 : La méthode du simplexe
-[notes de cours](/assets/simplexe_method.pdf) -->
+#Chapitre 4 : La méthode du simplexe
+[notes de cours](/assets/simplexe_method.pdf) 
 
-<!-- #Chapitre 5 : Méthodes de points intérieurs
-[notes de cours](/assets/points_interieurs_method.pdf)-->
+#Chapitre 5 : Méthodes de points intérieurs
+[notes de cours](/assets/points_interieurs_method.pdf)
 
 
 
