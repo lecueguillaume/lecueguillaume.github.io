@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2017 10:50:25 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 10:50:25 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 16:40:04 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 16:40:04 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -54,16 +54,14 @@
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2017.</title>
         <description>&lt;!-- &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Planning des soutenances&lt;/font&gt; 
 
-[&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_15_16.pdf)
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_15_16.pdf) --&gt;
 
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
 
+&lt;p&gt;&lt;a href=&quot;/assets/liste_projets.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Liste des articles proposés&lt;/font&gt; 
-
-[&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets.pdf) --&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d&#39;inscription : vendredi 3 mars&lt;/font&gt;
-&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen.)&lt;/p&gt;
+&lt;!-- &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Date limite d&#39;inscription : vendredi 3 mars&lt;/font&gt;
+(C&#39;est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l&#39;examen.) --&gt;
 
 &lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
 

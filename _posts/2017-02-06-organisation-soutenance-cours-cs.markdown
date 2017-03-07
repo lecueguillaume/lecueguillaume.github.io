@@ -6,17 +6,17 @@ date:   2017-02-06
 ---
 <!-- <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
 
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_15_16.pdf)
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_15_16.pdf) -->
 
 
 
 <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
 
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf) -->
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf)
 
 
-<font face="verdana" size='8' color='red'> Date limite d'inscription : vendredi 3 mars</font>
-(C'est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l'examen.)
+<!-- <font face="verdana" size='8' color='red'> Date limite d'inscription : vendredi 3 mars</font>
+(C'est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l'examen.) -->
 
 A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d'implication dans le projet sont possibles :
 
