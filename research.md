@@ -27,8 +27,8 @@ Submitted, 2016.
 Submitted, 2016.
 
 0. G. Lecué and S. Mendelson\\
-[Regularization and the small-ball method I: sparse recovery](/assets/sparse-reg-19-1-2016.pdf)\\
-Submitted, 2016.
+[Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
+To appear in the Annals of Statistics, 2016. Supplementary material [here](/assets/supp_mat_lecue_mendelson.pdf)
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
 [On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_noisy_reconstruct.pdf)\\
