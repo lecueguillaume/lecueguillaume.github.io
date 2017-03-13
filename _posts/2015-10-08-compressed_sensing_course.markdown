@@ -26,17 +26,20 @@ date:   2015-10-08
 #Chapitre 5 : Méthodes de points intérieurs
 [notes de cours](/assets/points_interieurs_method.pdf)
 
+#Chapitre 6 : Complétion de matrices et système de recommandation
+[notes de cours](/assets/10_matrice_completion.pdf)
+
+<!-- [Notebook -- corrigé](/assets/completion.ipynb) -->
+
+#TP : completion de matrice
+[Notebook -- énoncé](/assets/tp_completion.ipynb)
+[logo ensae](/assets/ensae.png)
 
 
 <!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)-->
 
-<!--#Chapitre 7 : Complétion de matrices et système de recommandation
-[notes de cours](/assets/10_matrice_completion.pdf)-->
 
-<!-- #TP : completion de matrice
-[Notebook](/assets/completion.ipynb)
-[logo ensae](/assets/ensae.png) -->
 
 <!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) -->

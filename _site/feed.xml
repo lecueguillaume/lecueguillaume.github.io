@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Mar 2017 18:19:10 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Mar 2017 18:19:10 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2017 21:10:09 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 21:10:09 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -334,15 +334,17 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
 &lt;h1 id=&quot;chapitre-5--mthodes-de-points-intrieurs&quot;&gt;Chapitre 5 : Méthodes de points intérieurs&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/points_interieurs_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
 
+&lt;h1 id=&quot;chapitre-6--compltion-de-matrices-et-systme-de-recommandation&quot;&gt;Chapitre 6 : Complétion de matrices et système de recommandation&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/10_matrice_completion.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- [Notebook -- corrigé](/assets/completion.ipynb) --&gt;
+
+&lt;h1 id=&quot;tp--completion-de-matrice&quot;&gt;TP : completion de matrice&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/tp_completion.ipynb&quot;&gt;Notebook – énoncé&lt;/a&gt;
+&lt;a href=&quot;/assets/ensae.png&quot;&gt;logo ensae&lt;/a&gt;&lt;/p&gt;
+
 &lt;!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)--&gt;
-
-&lt;!--#Chapitre 7 : Complétion de matrices et système de recommandation
-[notes de cours](/assets/10_matrice_completion.pdf)--&gt;
-
-&lt;!-- #TP : completion de matrice
-[Notebook](/assets/completion.ipynb)
-[logo ensae](/assets/ensae.png) --&gt;
 
 &lt;!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) --&gt;
