@@ -29,11 +29,13 @@ date:   2015-10-08
 #Chapitre 6 : Complétion de matrices et système de recommandation
 [notes de cours](/assets/10_matrice_completion.pdf)
 
-<!-- [Notebook -- corrigé](/assets/completion.ipynb) -->
+
 
 #TP : completion de matrice
 [Notebook -- énoncé](/assets/tp_completion.ipynb)
 [logo ensae](/assets/ensae.png)
+
+[Notebook -- corrigé](/assets/completion.ipynb)
 
 
 <!--#Chapitre 6 : Forward-Backward splitting methods
