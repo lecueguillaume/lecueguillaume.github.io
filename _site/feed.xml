@@ -5,9 +5,53 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2017 21:10:09 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 21:10:09 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2017 14:36:40 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 14:36:40 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Installation de CVXPY sous windows.</title>
+        <description>&lt;p&gt;a) On suppose que Anaconda et CVXOPT sont installés&lt;/p&gt;
+
+&lt;p&gt;b) Aller sur &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/&quot;&gt;librairies python pour windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;c) Télécharger :&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;ecos pour win64 et python 3.5&lt;/a&gt; télécharger 
+    * ecos‑2.0.4‑cp35‑cp35m‑win_amd64.whl *&lt;/p&gt;
+
+&lt;p&gt;2) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;SCS&lt;/a&gt; télécharger 
+    * scs‑1.2.6‑cp35‑cp35m‑win_amd64.whl *&lt;/p&gt;
+
+&lt;p&gt;3) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;cvxpy pour win64 et python 3.5&lt;/a&gt;
+    * cvxpy‑0.4.9‑py3‑none‑any.whl * &lt;/p&gt;
+
+&lt;p&gt;d) ouvrir un éditeur de commandes en mode admin&lt;/p&gt;
+
+&lt;p&gt;e) taper &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier ecos&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;f) taper &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier SCS&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;g) taper &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier cvxpy&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;f) tester en tapant “python” puis &lt;enter&gt; dans le terminal et en exécutant la ligne de code suivante: &quot;import cvxpy&quot;. Si l&#39;installation est réussie, le prompt revient sans erreur.&lt;/enter&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2017/03/14/installation-cvxpy/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/03/14/installation-cvxpy/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Installation de CVXOPT sous windows.</title>
