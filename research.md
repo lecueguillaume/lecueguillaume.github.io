@@ -3,6 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
+
+0. S. Foucart and G. Lecué\\
+[An IHT algorithm for sparse recovery from
+ subexponential measurements](/assets/FouLec_v2.pdf)\\
+Submitted, 2017.
+
+
 0. P. Alquier, V. Cottet and G. Lecué\\
 [Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
 Submitted, 2017.
@@ -19,12 +26,12 @@ Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
-Submitted, 2016.
+Under revision in the Annals of Statistics, 2016.
 
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method II: complexity dependent error rates](/assets/reg_27_08_2016.pdf)\\
-Submitted, 2016.
+Under revision in JMLR, 2016.
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
@@ -41,7 +48,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 
 3. G. Lecué and S. Mendelson.\\
 [Sparse recovery under weak moment assumptions](/assets/2017-019-003-06.pdf)\\
-Journal of the European Mathematical society, (19), 2017
+**Journal of the European Mathematical society**, (19), 2017
 
 4. G. Lecué and S. Mendelson.\\
 [Minimax rates of convergence and the performance of ERM in phase recovery](/assets/erm_phase_recovery.pdf)\\
