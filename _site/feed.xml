@@ -5,9 +5,76 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2017 22:25:55 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 22:25:55 +0200</lastBuildDate>
+    <pubDate>Sun, 18 Jun 2017 12:22:14 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Jun 2017 12:22:14 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Restore variables after notebook crashed</title>
+        <description>&lt;h1 id=&quot;recover-variables-after-a-cell-in-a-python-notebook-fails&quot;&gt;Recover variables after a cell in a python notebook fails&lt;/h1&gt;
+&lt;p&gt;After python lost connexion with my browser (here safari) while using Jupyter notebook&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WebSocket ping timeout after 91539 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I wanted to recover some variables like a dictionary. I should have use the &lt;strong&gt;try: except:&lt;/strong&gt; protocole but I did not so I end up with a notebook not working and variables that I was not able to get back. Here is a solution that worked for me:&lt;/p&gt;
+
+&lt;p&gt;1) I interrupted the kernel&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Kernel interrupted: d3d55f0d-52f1-4660-a43b-1fedb698452f
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(I got the address of the kernel. Note that it is different from the Kernel address when it started: f757186e-0570-467a-918e-934bb48dee45)&lt;/p&gt;
+
+&lt;p&gt;2) I went to the terminal and typed:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ipython console --existing d3d55f0d-52f1-4660-a43b-1fedb698452f.json
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This opened an ipython consol (you can replace &lt;em&gt;ipython&lt;/em&gt; with &lt;em&gt;jupyter&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;3) I listed all the local variables to check that my &lt;em&gt;dictionary&lt;/em&gt; was in there:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;locals()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I was pretty happy to see my variable &lt;em&gt;dict_final&lt;/em&gt; in the list.&lt;/p&gt;
+
+&lt;p&gt;4) then I &lt;em&gt;pickle.dump&lt;/em&gt; my dictionary in the consol:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import pickle
+filename = &#39;dict_final.p&#39;
+with open(filename, &quot;wb&quot;) as f:
+    pickle.dump(dict_final, f)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;5) Once my variable has been pickled down, I can load it in any other notebook where I want to use it via (in a notebook):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;import pickle
+filename = &#39;dict_final.p&#39;
+with open(filename, &quot;r&quot;) as f:
+    pickle.load(dict_final, f)
+&lt;/code&gt;&lt;/pre&gt;
+
+</description>
+        <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Structured Regularization for High-Dimensional Data Analysis</title>
+        <description>&lt;p&gt;Yohann de Castro, Gabriel Peyré and I are organizing a &lt;a href=&quot;https://regularize-in-paris.github.io&quot;&gt;conference&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2017/06/19/conf/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/conf/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Installation de CVXPY sous windows.</title>
@@ -350,54 +417,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cours de Compressed Sensing</title>
-        <description>&lt;h1 id=&quot;une-description-dtaille-du-cours-se-trouve-iciassetspresentation-cours-cspdf&quot;&gt;Une description détaillée du cours se trouve &lt;a href=&quot;/assets/presentation-cours-CS.pdf&quot;&gt;ici&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;chapitre-1--notions-de-mesures-et-de-parcimonie&quot;&gt;Chapitre 1 : Notions de mesures et de parcimonie&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/intro_cs.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/introduction_cs.pdf&quot;&gt;notes de cours&lt;/a&gt; &lt;/p&gt;
-
-&lt;h1 id=&quot;chapitre-2--notions-de-complxit-algorithmique-et-de-relaxation-convexe&quot;&gt;Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/lecture_ell_0_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;chapitre-3--null-space-property-et-restricted-isometry-property&quot;&gt;Chapitre 3 : Null Space Property et Restricted Isometry Property&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/lecture_nsp_rip_cs.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;tp--diagrammes-de-transition-de-phase&quot;&gt;TP : diagrammes de transition de phase&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/tp_diagramme_transition_phase.zip&quot;&gt;Notebook – énoncé&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/phase_transition_cvx.ipynb&quot;&gt;Notebook – corrigé&lt;/a&gt; &lt;/p&gt;
-
-&lt;h1 id=&quot;chapitre-4--la-mthode-du-simplexe&quot;&gt;Chapitre 4 : La méthode du simplexe&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/simplexe_method.pdf&quot;&gt;notes de cours&lt;/a&gt; &lt;/p&gt;
-
-&lt;h1 id=&quot;chapitre-5--mthodes-de-points-intrieurs&quot;&gt;Chapitre 5 : Méthodes de points intérieurs&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/points_interieurs_method.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;chapitre-6--compltion-de-matrices-et-systme-de-recommandation&quot;&gt;Chapitre 6 : Complétion de matrices et système de recommandation&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/10_matrice_completion.pdf&quot;&gt;notes de cours&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;tp--completion-de-matrice&quot;&gt;TP : completion de matrice&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/tp_completion.ipynb&quot;&gt;Notebook – énoncé&lt;/a&gt;
-&lt;a href=&quot;/assets/ensae.png&quot;&gt;logo ensae&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/completion.ipynb&quot;&gt;Notebook – corrigé&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--#Chapitre 6 : Forward-Backward splitting methods
-[notes de cours](/assets/fbs_method.pdf)--&gt;
-
-&lt;!-- #TP : basis pursuit via Douglas-Rachford
-[notebook](/assets/phase_transition.ipynb) --&gt;
-
-&lt;h1 id=&quot;feuille-dexercices--noncsassetsexoscspdf&quot;&gt;Feuille d’exercices : &lt;a href=&quot;/assets/exos_cs.pdf&quot;&gt;énoncés&lt;/a&gt;&lt;/h1&gt;
-</description>
-        <pubDate>Thu, 08 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//2015/10/08/compressed_sensing_course/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2015/10/08/compressed_sensing_course/</guid>
         
         
       </item>

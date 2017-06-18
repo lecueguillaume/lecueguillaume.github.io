@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Structured Regularization for High-Dimensional Data Analysis
+comments: true
+date:   2017-06-19
+---
+
+Yohann de Castro, Gabriel Peyré and I are organizing a [conference](https://regularize-in-paris.github.io)
+
+
+
+
+ 
