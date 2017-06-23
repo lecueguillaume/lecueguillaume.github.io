@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Jun 2017 12:22:14 +0200</pubDate>
-    <lastBuildDate>Sun, 18 Jun 2017 12:22:14 +0200</lastBuildDate>
+    <pubDate>Sat, 24 Jun 2017 00:44:32 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Jun 2017 00:44:32 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -66,7 +66,9 @@ with open(filename, &quot;r&quot;) as f:
     
       <item>
         <title>Structured Regularization for High-Dimensional Data Analysis</title>
-        <description>&lt;p&gt;Yohann de Castro, Gabriel Peyré and I are organizing a &lt;a href=&quot;https://regularize-in-paris.github.io&quot;&gt;conference&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Yohann de Castro, Gabriel Peyré and I have been organizing a &lt;a href=&quot;https://regularize-in-paris.github.io&quot;&gt;conference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The video are available online &lt;a href=&quot;https://www.youtube.com/playlist?list=PL9kd4mpdvWcBcQTUxwsvaInymvH-WM73i&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>

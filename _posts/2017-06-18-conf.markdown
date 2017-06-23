@@ -5,7 +5,9 @@ comments: true
 date:   2017-06-19
 ---
 
-Yohann de Castro, Gabriel Peyré and I are organizing a [conference](https://regularize-in-paris.github.io)
+Yohann de Castro, Gabriel Peyré and I have been organizing a [conference](https://regularize-in-paris.github.io)
+
+The video are available online [here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcBcQTUxwsvaInymvH-WM73i)
 
 
 
