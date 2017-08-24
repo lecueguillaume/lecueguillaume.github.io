@@ -7,7 +7,7 @@ permalink: /research/
 0. S. Foucart and G. Lecué\\
 [An IHT algorithm for sparse recovery from
  subexponential measurements](/assets/FouLec_v2.pdf)\\
-Submitted, 2017.
+**IEEE Signal Processing Letters** (9) 24, 2017.
 
 
 0. P. Alquier, V. Cottet and G. Lecué\\
@@ -21,7 +21,7 @@ Submitted, 2017.
 
 
 0. G. Lecué and M. Lerasle\\
-[Learning from MOM's principles](/assets/MomLasso_2016_12_17.pdf)\\
+[Learning from MOM's principles: Le Cam's approach](/assets/MOMLeCam.pdf)\\
 Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
