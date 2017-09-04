@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lecueguillaume.github.io//2017/09/04/rappels-stats/</loc>
+    <lastmod>2017-09-04T13:59:13+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</loc>
     <lastmod>2017-06-19T00:00:00+02:00</lastmod>
   </url>
@@ -19,10 +23,6 @@
   <url>
     <loc>http://lecueguillaume.github.io//2017/02/06/organisation-soutenance-cours-cs/</loc>
     <lastmod>2017-02-06T00:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://lecueguillaume.github.io//2016/09/01/rappels-stats/</loc>
-    <lastmod>2016-09-01T13:59:13+02:00</lastmod>
   </url>
   <url>
     <loc>http://lecueguillaume.github.io//2016/05/24/real-time-edition-via-etherpad/</loc>

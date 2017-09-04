@@ -13,7 +13,7 @@ I hold a teaching position at [ENSAE](http://www.ensae.fr).
 ENSAE\\
 Bureau 3029\\
 5, avenue Henry Le Chatelier\\
-91120 Palaiseau\\
+91120 Palaiseau
 
 Tél.: +33(0)1.70.26.69.31
 
