@@ -5,20 +5,19 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Sep 2017 14:09:41 +0200</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 14:09:41 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2017 14:39:36 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 14:39:36 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Rappels de statistiques mathématiques</title>
         <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2017pdf--notebook-downloadassetscdfempiriqueipynb--notebook-githttpnbviewerjupyterorggithublecueguillaumelecueguillaumegithubioblobmasterassetscdfempiriqueipynb&quot;&gt;&lt;strong&gt;Cours 1&lt;/strong&gt; : &lt;a href=&quot;/assets/cours1_ensae_2017.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/h1&gt;
 
-&lt;!--#**Cours 2**  : [slides](/assets/cours2_ensae_2015.pdf) 
-[notebook Robbins-Monro download](/assets/rm_quantile.ipynb) | [notebook Robbins-Monro git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb)\\
-[notebook qqplot download](/assets/rm_quantile.ipynb) | [notebook qqplot git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb)
+&lt;h1 id=&quot;cours-2---slidesassetscours2ensae2017pdf&quot;&gt;&lt;strong&gt;Cours 2&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours2_ensae_2017.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
 
-
-#**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
+&lt;!--#**Cours 3**  : [slides](/assets/cours3_ensae_2015.pdf)
 
 #**Cours 4**  : [slides](/assets/cours4_ensae_2015.pdf)
 
