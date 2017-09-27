@@ -18,10 +18,9 @@ date:   2017-09-04 11:59:13
 
 #**Cours 6**  : [slides](/assets/cours6_ensae_2017.pdf)
 
-<!--#**Cours 7**  : [slides](/assets/cours7_ensae_2015.pdf)
+#**Cours 7**  : [slides](/assets/cours7_ensae_2017.pdf)
 
-#**Cours 8**  : [slides](/assets/cours8_ensae_2015.pdf) | [notebook download](/assets/linear_regression.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb) | [data](/assets/data_png_nb_reg_lin.zip)
--->
+#**Cours 8**  : [slides](/assets/cours8_ensae_2017.pdf) | [notebook download](/assets/linear_regression.ipynb) | [notebook git](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb) | [data](/assets/data_png_nb_reg_lin.zip)
 
 #Recueil d'exercices corrigés : [pdf](/assets/exos_rappels_stats_ensae.pdf)
 
