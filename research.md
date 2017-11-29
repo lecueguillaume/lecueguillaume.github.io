@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 ---
 
+0. G. Lecué and M. Lerasle\\
+[Robust Machine Learning by median of means: theory and practice](/assets/robust_ML_MOM.pdf)\\
+Submitted, 2017.
+
 0. S. Foucart and G. Lecué\\
 [An IHT algorithm for sparse recovery from
  subexponential measurements](/assets/FouLec_v2.pdf)\\
@@ -30,8 +34,8 @@ Under revision in the Annals of Statistics, 2016.
 
 
 0. G. Lecué and S. Mendelson\\
-[Regularization and the small-ball method II: complexity dependent error rates](/assets/reg_27_08_2016.pdf)\\
-Under revision in JMLR, 2016.
+[Regularization and the small-ball method II: complexity dependent error rates](/assets/reg2.pdf)\\
+To appear in JMLR, 2016.
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
