@@ -4,9 +4,19 @@ title: Research
 permalink: /research/
 ---
 
+0. Ph. Mesnard, C. Enderli and G. Lecué\\
+[Ground clutter processing for airborne radar in a Compressed Sensing context](/assets/ground-clutter-processing.pdf)\\
+Submitted, 2017.
+
+
+0. Ph. Mesnard, C. Enderli and G. Lecué\\
+[Periodic Patterns Frequency Hopping Waveforms : from conventional Matched Filtering to a new Compressed Sensing Approach](/assets/periodic-patterns-frequency.pdf)\\
+Submitted, 2017.
+
 0. G. Lecué and M. Lerasle\\
 [Robust Machine Learning by median of means: theory and practice](/assets/robust_ML_MOM.pdf)\\
 Submitted, 2017.
+Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. S. Foucart and G. Lecué\\
 [An IHT algorithm for sparse recovery from
@@ -17,6 +27,7 @@ Submitted, 2017.
 0. P. Alquier, V. Cottet and G. Lecué\\
 [Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
 Submitted, 2017.
+Python notebooks available [here](https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion)
 
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
@@ -30,16 +41,16 @@ Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
-Under revision in the Annals of Statistics, 2016.
+To appear in the **Annals of Statistics**, 2016.
 
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method II: complexity dependent error rates](/assets/reg2.pdf)\\
-To appear in JMLR, 2016.
+To appear in **Journal of Machine Learning Research**, 2016.
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
-To appear in the Annals of Statistics, 2016. Supplementary material [here](/assets/supp_mat_lecue_mendelson.pdf)
+To appear in the **Annals of Statistics**, 2016. Supplementary material [here](/assets/supp_mat_lecue_mendelson.pdf)
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
 [On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_noisy_reconstruct.pdf)\\
@@ -48,7 +59,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 
 2. G. Lecué and S. Mendelson.\\
 [Performance of empirical risk minimization in linear aggregation](/assets/BEJ701.pdf)\\
-**Bernoulli** 22 (2016), no. 3, 1520–1534.
+**Bernoulli journal** 22 (2016), no. 3, 1520–1534.
 
 3. G. Lecué and S. Mendelson.\\
 [Sparse recovery under weak moment assumptions](/assets/2017-019-003-06.pdf)\\
@@ -60,7 +71,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 
 5. G. Lecué and S. Mendelson.\\
 [Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13.pdf)\\
-To appear in **Topics in Learning Theory - Societe Mathematique de France**, (S. Boucheron and N. Vayatis Eds.)
+To appear in **Topics in Learning Theory - Societe Mathématique de France**, (S. Boucheron and N. Vayatis Eds.)
 
 6. G. Lecué.\\
 [Comment to 'Generic chaining and the l1-penalty' by Sara van de Geer](/assets/review-sara.pdf)\\
@@ -72,7 +83,7 @@ To appear in **Topics in Learning Theory - Societe Mathematique de France**, (S.
 
 8. G. Lecué.\\
 [Empirical risk minimization is optimal for the convex aggregation problem](/assets/BEJ447.pdf)\\
-**Bernoulli** 19 (2013), no. 5B, 2153–2166.
+**Bernoulli journal** 19 (2013), no. 5B, 2153–2166.
 
 9. D. Chafaï, O. Guédon,   G. Lecué and A. Pajor.\\
 [Interactions between compressed sensing, Random matrices and high-dimensional geometry](/assets/CSbook.pdf)\\
@@ -85,7 +96,7 @@ Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 page
 
 11. G. Lecué and S. Mendelson.\\
 [On the optimality of the aggregate with exponential weights for low temperatures](/assets/LM6-07-07-10.pdf)\\
-**Bernoulli** 19 (2013), no. 2, 646–675.
+**Bernoulli journal** 19 (2013), no. 2, 646–675.
 
 
 12. G. Lecué and S. Mendelson.\\
@@ -109,7 +120,7 @@ Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 page
 
 16. G. Lecué and S. Mendelson.\\
 [Sharper lower bounds on the performance of the Empirical Risk Minimization Algorithm](/assets/BEJ225.pdf)\\
-**Bernoulli**, 16(3), 2010, p. 605-613, 2010.
+**Bernoulli journal**, 16(3), 2010, p. 605-613, 2010.
 
 17. G. Lecué and S. Mendelson.\\
 [Aggregation via Empirical Risk Minimization](/assets/LM1PTRF.pdf)\\

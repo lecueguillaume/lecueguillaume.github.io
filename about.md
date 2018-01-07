@@ -30,6 +30,7 @@ My Habilitation manuscript is available [here](/assets/HDR.pdf) and the slides o
 5. [Learning sub-gaussian class. Minimaximality of ERM for high confidence.](/assets/Learning-subgaussian-class.pdf)
 6. [An aggregation procedure in classification. Applications to adaptivity.](/assets/PresentationPittsburgh2006.pdf)
 7. [General oracle inequalities for ERM, regularized ERM and penalized ERM with applications to High-Dimensional data analysis](/assets/Princeton-05-12.pdf)
+8. [learning from MOM's principle](/assets/lecue_MOM_cirm.pdf)
 
 
 # Awards

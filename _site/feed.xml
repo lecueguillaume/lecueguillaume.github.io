@@ -5,9 +5,23 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2017 22:33:43 +0100</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2017 22:33:43 +0100</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2018 14:19:42 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2018 14:19:42 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Groupe de travail en économétrie et statistiques du CREST</title>
+        <description>&lt;p&gt;&lt;strong&gt;Exposé 1&lt;/strong&gt; : mercredi 17 janvier 2018 en salle 3105 à 14h: Guillaume Lecué sur &lt;em&gt;Techniques de bornes de risque non-asymptotiques en apprentissage statistiques&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exposé 2&lt;/strong&gt; : mercredi 25 janvier 2018 en salle 3105 à 14h: Xavier d’Haultfoeuille sur &lt;em&gt;Problèmes en économétrie…..??&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 07 Jan 2018 12:59:13 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Rappels de statistiques mathématiques</title>
@@ -361,64 +375,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Sat, 27 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Edit shortcuts in bash</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Open the &lt;em&gt;.bash_profile&lt;/em&gt; file with your favorite editor (for instance C-x C-f in emacs and search for the file: ~/.bash_profile)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write your aliases in the &lt;em&gt;.bash_profile&lt;/em&gt; like:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;alias vw1=’vw click_train.vw -c -k –passes 10 –loss_function=logistic –link=logistic -f click_model.vw’&lt;/li&gt;
-  &lt;li&gt;alias vw2=’vw click_test.vw -t -i click_model.vw -p click_predictions.txt’&lt;/li&gt;
-  &lt;li&gt;alias score=’python score_vw.py click_test.vw click_predictions.txt ‘&lt;/li&gt;
-  &lt;li&gt;alias nb=’ipython notebook’&lt;/li&gt;
-  &lt;li&gt;alias py3=’source activate python3’&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The first three aliases are for vowpal wabbit routines I’ve been using a lot. &lt;/p&gt;
-
-&lt;p&gt;The fourth one is really useful to launch Ipython Notebook. &lt;/p&gt;
-
-&lt;p&gt;The last one is to switch to python 3. Before that I had to create a ‘conda’ environment for python 3 with&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;conda create -n python3 python=3.4&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Force the .bash_profile to execute. This loads the values immediately without having to reboot. In your Terminal window, run the following command.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;$ source ~/.bash_profile&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Then, enjoy your shortcuts in Terminal! Launch a notebook in python 3 with just 4 letters and 1 number!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;$ macbook-pro-de-lecue:~ lecueguillaume$ py3&lt;/p&gt;
-
-  &lt;p&gt;discarding /Users/lecueguillaume/anaconda/bin from PATH&lt;/p&gt;
-
-  &lt;p&gt;prepending /Users/lecueguillaume/anaconda/envs/python3/bin to PATH&lt;/p&gt;
-
-  &lt;p&gt;$ (python3)macbook-pro-de-lecue:~ lecueguillaume$ nb&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/01/26/edit-short-cuts-bash/</guid>
         
         
       </item>
