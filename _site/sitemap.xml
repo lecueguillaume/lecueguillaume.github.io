@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lecueguillaume.github.io//2018/01/29/organisation-soutenance-cours-cs/</loc>
+    <lastmod>2018-01-29T00:00:00+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</loc>
     <lastmod>2018-01-07T12:59:13+01:00</lastmod>
   </url>

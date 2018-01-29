@@ -5,9 +5,59 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jan 2018 18:31:28 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2018 18:31:28 +0100</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 10:42:02 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 10:42:02 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2018.</title>
+        <description>&lt;!-- &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Planning des soutenances&lt;/font&gt; 
+
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_16_17.pdf)
+
+
+
+&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Liste des articles proposés&lt;/font&gt; 
+
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets.pdf) --&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d&#39;inscription : vendredi 2 mars&lt;/font&gt;
+&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen. Les éléves s’inscrivant tôt auront leur sujet plus tôt.)&lt;/p&gt;
+
+&lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.) (obligatoire)&lt;/li&gt;
+  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
+  &lt;li&gt;reproduire les simulations&lt;/li&gt;
+  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
+  &lt;li&gt;proposer des parallèles avec d’autres sujets. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La validation et l’évaluation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;d’un mémoire d’au plus 10 pages (en Latex) concernant la partie mathématique (si abordée)&lt;/li&gt;
+  &lt;li&gt;D’un notebook (très) commenté (en anglais de préférence) en python (s’il y a des simulations)&lt;/li&gt;
+  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La note attribuée à chaque élève dépend :
+1. du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a) 
+2. des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/p&gt;
+
+&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou le ou les article(s) qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, des liens vers des articles, une thématique, une orientation ‘plus mathématique’, ‘plus appliquée’, etc.. 
+Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;
+
+&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l’administration dont ils dépendent. Poster un commentaire sur ce blog n’a pas de valeur administrative. &lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2018/01/29/organisation-soutenance-cours-cs/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2018/01/29/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Groupe de travail en économétrie et statistiques du CREST</title>
@@ -322,59 +372,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Tue, 22 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2016/03/22/python-3/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/03/22/python-3/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Install glpk with CVXOPT on python</title>
-        <description>&lt;p&gt;Here are some explaination on how to install glpk and CVXOPT (on MAC). Using option ‘glpk’ in solvers.lp method of CVXOPT speeds up cvxopt by a factor of 2 or 10  according to  &lt;a href=&quot;https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html&quot;&gt;Stephane Caron’s webpage&lt;/a&gt; &lt;/p&gt;
-
-&lt;p&gt;a) Install glpk via brew :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;brew install glpk&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;b) The GLPK interface is not enabled by default. You need to edit the setup.py of CVXOPT. In my case, I have this file in the following folder&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Google\ Drive/package_python/cvxopt-1.1.7/setup.py&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;First thing, set variable BUILD_GLPK to 1: &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;BUILD_GLPK = 1 &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Then indicate the path to &lt;em&gt;libglpk&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;GLPK_LIB_DIR = ‘/usr/local/Cellar/glpk/4.52/lib’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Then indicate the path to &lt;em&gt;glpk.h&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;GLPK_INC_DIR = ‘/usr/local/Cellar/glpk/4.52/include’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;c) Go to the CVXOPT’s ‘setup.py’ folder and run&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;python setup.py install&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;d) Enjoy CVXOPT with glpk :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;sol = solvers.lp(c, G, h, A, b, solver = ‘glpk’)&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sat, 27 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/02/27/cvxopt-glpk-basis-pursuit/</guid>
         
         
       </item>
