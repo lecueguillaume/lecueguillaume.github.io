@@ -6,13 +6,13 @@ date:   2018-01-29
 ---
 <!-- <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
 
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_16_17.pdf)
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_16_17.pdf) -->
 
 
 
 <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
 
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf) -->
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_2018.pdf)
 
 
 <font face="verdana" size='8' color='red'> Date limite d'inscription : vendredi 2 mars</font>
