@@ -5,9 +5,25 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Feb 2018 17:18:33 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2018 17:18:33 +0100</lastBuildDate>
+    <pubDate>Tue, 27 Feb 2018 09:33:47 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Feb 2018 09:33:47 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>cours d&#39;optimisation différentiable</title>
+        <description>&lt;h1 id=&quot;mi-parcours-2016-2017---mi-parcoursassetsmiparcours2017corrigepdf&quot;&gt;&lt;strong&gt;mi-parcours 2016-2017&lt;/strong&gt;  : &lt;a href=&quot;/assets/mi_parcours_2017_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;examen-2016-2017---examenassetsexam2017corrigepdf&quot;&gt;&lt;strong&gt;examen 2016-2017&lt;/strong&gt;  : &lt;a href=&quot;/assets/exam_2017_corrige.pdf&quot;&gt;examen&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;rattrapage-2016-2017---rattrapageassetsrattrapage2017pdf&quot;&gt;&lt;strong&gt;rattrapage 2016-2017&lt;/strong&gt;  : &lt;a href=&quot;/assets/rattrapage_2017.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/h1&gt;
+
+</description>
+        <pubDate>Tue, 27 Feb 2018 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2018/02/27/optimisation_diff/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2018/02/27/optimisation_diff/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2018.</title>
@@ -334,42 +350,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Tue, 24 May 2016 00:00:00 +0200</pubDate>
         <link>http://lecueguillaume.github.io//2016/05/24/real-time-edition-via-etherpad/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2016/05/24/real-time-edition-via-etherpad/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Create a python 3 session under anaconda</title>
-        <description>&lt;p&gt;Here are some explanations to create a python 3 environment under Anaconda. &lt;/p&gt;
-
-&lt;p&gt;a) create an environment for python 3  :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;conda create -n python3 python=3.4&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;b) switch to this environement by typing&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;source activate python3&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;c) install some libraries if needed &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;conda install unidecode &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;d) if you want to go back to python 2&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;source deactivate&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Tue, 22 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2016/03/22/python-3/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2016/03/22/python-3/</guid>
         
         
       </item>
