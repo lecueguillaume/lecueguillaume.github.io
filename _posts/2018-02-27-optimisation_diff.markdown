@@ -10,6 +10,6 @@ date:   2018-02-27
 
 #**examen 2016-2017**  : [examen](/assets/exam_2017_corrige.pdf)
 
-#**rattrapage 2016-2017**  : [rattrapage](/assets/rattrapage_2017.pdf)
+#**rattrapage 2016-2017**  : [rattrapage](/assets/rattrapage_2017_corrige.pdf)
 
  
