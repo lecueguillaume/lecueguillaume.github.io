@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 ---
 
+0. R. Deswarte and G. Lecué\\
+[minimax regularization](/assets/minimax_reg_2018_05_14.pdf)\\
+Submitted, 2018.
+
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Ground clutter processing for airborne radar in a Compressed Sensing context](/assets/ground-clutter-processing.pdf)\\
 Submitted, 2017.
@@ -40,12 +44,12 @@ Submitted, 2017.
 Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
-[Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso.pdf)\\
+[Slope meets Lasso: improved oracle bounds and optimality ](/assets/AOS1562.pdf)\\
 To appear in the **Annals of Statistics**, 2016.
 
 
 0. G. Lecué and S. Mendelson\\
-[Regularization and the small-ball method II: complexity dependent error rates](/assets/reg2.pdf)\\
+[Regularization and the small-ball method II: complexity dependent error rates](/assets/AOS1562.pdf)\\
 To appear in **Journal of Machine Learning Research**, 2016.
 
 0. G. Lecué and S. Mendelson\\
