@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+0. G. Lecué, M. Lerasle and T. Matthieu\\
+[Robust classification via MOM minimization](/assets/MomClassif_2018_07_03.pdf)\\
+Submitted, 2018.\\
+Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
+
+
 0. R. Deswarte and G. Lecué\\
 [minimax regularization](/assets/minimax_reg_2018_05_14.pdf)\\
 Submitted, 2018.
@@ -19,7 +25,7 @@ Submitted, 2017.
 
 0. G. Lecué and M. Lerasle\\
 [Robust Machine Learning by median of means: theory and practice](/assets/robust_ML_MOM.pdf)\\
-Submitted, 2017.
+Submitted, 2017.\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. S. Foucart and G. Lecué\\
@@ -30,7 +36,7 @@ Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. P. Alquier, V. Cottet and G. Lecué\\
 [Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
-To appear in **The annals of Statistics**
+To appear in **The annals of Statistics**\\
 Python notebooks available [here](https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion)
 
 
@@ -45,7 +51,7 @@ Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/AOS1562.pdf)\\
-**The Annals of Statistics** Volume 46, Number 2 (April 2018), 611-641.
+To appear in **The Annals of Statistics**.
 
 
 0. G. Lecué and S. Mendelson\\
@@ -54,7 +60,7 @@ Submitted, 2017.
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
-To appear in the **Annals of Statistics**, 2016. Supplementary material [here](/assets/supp_mat_lecue_mendelson.pdf)
+**The Annals of Statistics**, Volume 46, Number 2 (2018), 611-641. Supplementary material [here](/assets/supp_mat_lecue_mendelson.pdf)
 
 1. S. Dirksen, G. Lecué and H. Rauhut.\\
 [On the gap between RIP-properties and sparse recovery conditions](/assets/gap_rip_noisy_reconstruct.pdf)\\
@@ -67,7 +73,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 
 3. G. Lecué and S. Mendelson.\\
 [Sparse recovery under weak moment assumptions](/assets/2017-019-003-06.pdf)\\
-**Journal of the European Mathematical society**, (19), 2017
+**Journal of the European Mathematical society**, Volume 19, Issue 3, 2017, pp. 881–904
 
 4. G. Lecué and S. Mendelson.\\
 [Minimax rates of convergence and the performance of ERM in phase recovery](/assets/erm_phase_recovery.pdf)\\
