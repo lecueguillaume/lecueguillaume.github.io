@@ -30,13 +30,13 @@ Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. P. Alquier, V. Cottet and G. Lecué\\
 [Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
-Submitted, 2017.
+To appear in **The annals of Statistics**
 Python notebooks available [here](https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion)
 
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Towards the study of least squares estimators with convex penalty ](/assets/conv_penalty_SMF.pdf)\\
-Submitted, 2017.
+ In Séminaire et Congrès, number 31. Société mathématique de France, 2017.
 
 
 0. G. Lecué and M. Lerasle\\
@@ -45,12 +45,12 @@ Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/AOS1562.pdf)\\
-To appear in the **Annals of Statistics**, 2016.
+**The Annals of Statistics** Volume 46, Number 2 (April 2018), 611-641.
 
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method II: complexity dependent error rates](/assets/AOS1562.pdf)\\
-To appear in **Journal of Machine Learning Research**, 2016.
+**Journal of Machine Learning Research**, 18(146):1−48, 2017. 
 
 0. G. Lecué and S. Mendelson\\
 [Regularization and the small-ball method I: sparse recovery](/assets/sparse_lecue_mendelson.pdf)\\
