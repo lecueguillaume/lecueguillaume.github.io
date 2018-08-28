@@ -50,7 +50,7 @@ Python notebooks available [here](https://github.com/lecueguillaume/notebooks_py
 Submitted, 2017.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
-[Slope meets Lasso: improved oracle bounds and optimality ](/assets/AOS1562.pdf)\\
+[Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso-final-published.pdf)\\
 To appear in **The Annals of Statistics**.
 
 
