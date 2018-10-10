@@ -4,6 +4,15 @@ title: Research
 permalink: /research/
 ---
 
+0. G. Chinot, G. Lecué and  M. Lerasle\\
+[Statistical Learning with Lipschitz and convex loss functions](/assets/MOM_Lipschitz.pdf)\\
+Submitted, 2018.
+
+0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
+[MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/MONK.pdf)\\
+Submitted, 2018.
+
+
 0. G. Lecué, M. Lerasle and T. Matthieu\\
 [Robust classification via MOM minimization](/assets/MomClassif_2018_07_03.pdf)\\
 Submitted, 2018.\\
@@ -55,7 +64,7 @@ To appear in **The Annals of Statistics**.
 
 
 0. G. Lecué and S. Mendelson\\
-[Regularization and the small-ball method II: complexity dependent error rates](/assets/AOS1562.pdf)\\
+[Regularization and the small-ball method II: complexity dependent error rates](/assets/jmlr_16-422.pdf)\\
 **Journal of Machine Learning Research**, 18(146):1−48, 2017. 
 
 0. G. Lecué and S. Mendelson\\
