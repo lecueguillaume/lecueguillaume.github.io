@@ -6,7 +6,7 @@ permalink: /research/
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Statistical Learning with Lipschitz and convex loss functions](/assets/MOM_Lipschitz.pdf)\\
-Submitted, 2018.
+Submitted, 2018. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
 [MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/MONK.pdf)\\

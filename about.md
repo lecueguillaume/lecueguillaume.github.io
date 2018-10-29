@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-I am a CNRS researcher at the [Laboratoire de statistiques](http://www.crest.fr/index.php?option=com_content&view=article&id=58&Itemid=104) at [CREST](http://www.crest.fr).
+I am professor of statistics and machine learning at [Laboratoire de statistiques](http://www.crest.fr/index.php?option=com_content&view=article&id=58&Itemid=104) at [CREST](http://www.crest.fr).
  
-I hold a teaching position at [ENSAE](http://www.ensae.fr). 
+
 
 
 # Address:
