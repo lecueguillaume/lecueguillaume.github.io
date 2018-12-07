@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+
+0. J. Kwon, G. Lecué and  M. Lerasle\\
+[Median of means principle as a divide-and-conquer procedure for robustness, sub-sampling and hyper-parameters tuning](/assets/MOMKLL.pdf)\\
+Submitted, 2018. Python notebook and codes available [here](https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection)
+
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Statistical Learning with Lipschitz and convex loss functions](/assets/MOM_Lipschitz.pdf)\\
 Submitted, 2018. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
