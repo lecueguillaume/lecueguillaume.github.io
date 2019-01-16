@@ -61,11 +61,11 @@ Python notebooks available [here](https://github.com/lecueguillaume/notebooks_py
 
 0. G. Lecué and M. Lerasle\\
 [Learning from MOM's principles: Le Cam's approach](/assets/MOMLeCam.pdf)\\
-Submitted, 2017.
+To appear in **Stochastic processes and their applications**
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso-final-published.pdf)\\
-To appear in **The Annals of Statistics**.
+**The Annals of Statistics**, 46(6B):3603–3642, 2018.
 
 
 0. G. Lecué and S. Mendelson\\
