@@ -8,4 +8,4 @@ permalink: /teaching/
 
 [Cours de Compressed Sensing]({% post_url 2015-10-08-compressed_sensing_course %})
 
-[Optimisation différentiable]({% post_url 2018-02-27-optimisation_diff %})
+[Optimisation différentiable]({% post_url 2019-01-15-optimisation_diff %})
