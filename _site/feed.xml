@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Jan 2019 16:09:41 +0100</pubDate>
-    <lastBuildDate>Wed, 16 Jan 2019 16:09:41 +0100</lastBuildDate>
+    <pubDate>Fri, 18 Jan 2019 16:56:27 +0100</pubDate>
+    <lastBuildDate>Fri, 18 Jan 2019 16:56:27 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,6 +14,8 @@
         <description>&lt;h2 id=&quot;notes-de-cours&quot;&gt;&lt;strong&gt;Notes de cours&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;h1 id=&quot;cours-1--introduction--loptimisation-diffrentiableassetsintrooptidiffpdf&quot;&gt;&lt;em&gt;cours 1&lt;/em&gt; : &lt;a href=&quot;/assets/intro_opti_diff.pdf&quot;&gt;Introduction à l’optimisation différentiable&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-2--fonctions-diffrentiable-de-plusieurs-variablesassetsfctsplusieuresvariablespdf&quot;&gt;&lt;em&gt;cours 2&lt;/em&gt; : &lt;a href=&quot;/assets/fcts_plusieures_variables.pdf&quot;&gt;Fonctions différentiable de plusieurs variables&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h2 id=&quot;examens-2016-2017&quot;&gt;&lt;strong&gt;Examens 2016-2017&lt;/strong&gt;&lt;/h2&gt;
 

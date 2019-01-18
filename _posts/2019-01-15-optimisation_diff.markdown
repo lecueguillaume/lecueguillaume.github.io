@@ -9,6 +9,8 @@ date:   2019-01-15
 
 #*cours 1* : [Introduction à l'optimisation différentiable](/assets/intro_opti_diff.pdf)
 
+#*cours 2* : [Fonctions différentiable de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
+
 
 ##**Examens 2016-2017**
 
