@@ -11,6 +11,8 @@ date:   2019-01-15
 
 #*cours 2* : [Fonctions différentiable de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
 
+#*cours 3* : [Conditions nécessaires d'optimalité pour les problèmes d'optimisation différentiable](/assets\CN_opti_diff.pdf)
+
 
 ##**Examens 2016-2017**
 
