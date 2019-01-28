@@ -5,9 +5,70 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Jan 2019 15:15:27 +0100</pubDate>
-    <lastBuildDate>Fri, 25 Jan 2019 15:15:27 +0100</lastBuildDate>
+    <pubDate>Mon, 28 Jan 2019 13:17:02 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Jan 2019 13:17:02 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2019.</title>
+        <description>&lt;!-- &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Planning des soutenances&lt;/font&gt; --&gt;
+
+&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_17_18.pdf)--&gt;
+
+&lt;!-- &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Liste des articles proposés&lt;/font&gt; --&gt;
+
+&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets_2018.pdf)--&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d&#39;inscription : vendredi 22 février à midi&lt;/font&gt;
+&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen. Les élèves s’inscrivant tôt auront leur sujet plus tôt.)&lt;/p&gt;
+
+&lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.) (obligatoire)&lt;/li&gt;
+  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
+  &lt;li&gt;reproduire les simulations&lt;/li&gt;
+  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
+  &lt;li&gt;proposer des parallèles avec d’autres sujets. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La validation et l’évaluation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pour ceux désireux de faire des simulations : d’un notebook (très) commenté (en anglais de préférence) en python; &lt;/li&gt;
+  &lt;li&gt;Pour ceux désireux de ne faire que de la théorie : d’un mémoire d’au plus 10 pages (en Latex);&lt;/li&gt;
+  &lt;li&gt;(pour tous) d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La note attribuée à chaque élève dépend :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a) &lt;/li&gt;
+  &lt;li&gt;des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/li&gt;
+  &lt;li&gt;Une bonne balance entre théorie et application est aussi bien vue&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux élèves constituant le groupe. S’ils le souhaitent, les élèves sont invités  à préciser s’ils souhaitent un sujet :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;théorique et appliqué&lt;/li&gt;
+  &lt;li&gt;théorique&lt;/li&gt;
+  &lt;li&gt;appliqué&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;
+
+&lt;p&gt;L’organisation des soutenances (= dates de passage de chaque groupe) se fera pendant les deux derniers cours (5/03 et 12/03).&lt;/p&gt;
+
+&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l’administration dont ils dépendent. Poster un commentaire sur ce blog n’a pas de valeur administrative. &lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
+        <link>http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
     
       <item>
         <title>cours d&#39;optimisation différentiable</title>
@@ -260,50 +321,6 @@ with open(filename, &quot;r&quot;) as f:
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
         <link>http://lecueguillaume.github.io//2017/06/19/conf/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/conf/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Installation de CVXPY sous windows.</title>
-        <description>&lt;p&gt;a) On suppose que Anaconda et CVXOPT sont installés&lt;/p&gt;
-
-&lt;p&gt;b) Aller sur &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/&quot;&gt;librairies python pour windows&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;c) Télécharger :&lt;/p&gt;
-
-&lt;p&gt;1) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;ecos pour win64 et python 3.5&lt;/a&gt; télécharger 
-    * ecos‑2.0.4‑cp35‑cp35m‑win_amd64.whl *&lt;/p&gt;
-
-&lt;p&gt;2) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;SCS&lt;/a&gt; télécharger 
-    * scs‑1.2.6‑cp35‑cp35m‑win_amd64.whl *&lt;/p&gt;
-
-&lt;p&gt;3) &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/#ecos&quot;&gt;cvxpy pour win64 et python 3.5&lt;/a&gt;
-    * cvxpy‑0.4.9‑py3‑none‑any.whl * &lt;/p&gt;
-
-&lt;p&gt;d) ouvrir un éditeur de commandes en mode admin&lt;/p&gt;
-
-&lt;p&gt;e) taper &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier ecos&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;f) taper &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier SCS&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;g) taper &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install &quot;chemin du fichier cvxpy&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;f) tester en tapant “python” puis &lt;enter&gt; dans le terminal et en exécutant la ligne de code suivante: &quot;import cvxpy&quot;. Si l&#39;installation est réussie, le prompt revient sans erreur.&lt;/enter&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 14 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2017/03/14/installation-cvxpy/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/03/14/installation-cvxpy/</guid>
         
         
       </item>
