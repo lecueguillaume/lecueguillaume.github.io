@@ -10,9 +10,9 @@ date:   2019-01-28
 
 
 
-<!-- <font face="verdana" size='8' color='red'> Liste des articles proposés</font> -->
+ <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
 
-<!-- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_2018.pdf)-->
+ [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf)
 
 
 <font face="verdana" size='8' color='red'> Date limite d'inscription : vendredi 22 février à midi</font>
