@@ -7,11 +7,13 @@ date:   2019-01-15
 
 ##**Notes de cours**
 
-#*cours 1* : [Introduction à l'optimisation différentiable](/assets/intro_opti_diff.pdf)
+#*Chapitre 1* : [Introduction à l'optimisation différentiable](/assets/intro_opti_diff.pdf)
 
-#*cours 2* : [Fonctions différentiable de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
+#*Chapitre 2* : [Fonctions différentiable de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
 
-#*cours 3* : [Conditions nécessaires d'optimalité pour les problèmes d'optimisation différentiable](/assets\CN_opti_diff.pdf)
+#*Chapitre 3* : [Conditions nécessaires d'optimalité pour les problèmes d'optimisation différentiable](/assets/CN_opti_diff.pdf)
+
+#*Chapitre 4* : [Théorème d'Euler/Pénao/Kantorovitch, hypothèse de qualification et preuve du théorème de KKT](/assets/euler_kkt.pdf)
 
 
 ##**Examens 2016-2017**
