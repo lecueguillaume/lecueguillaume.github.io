@@ -38,8 +38,9 @@ Submitted, 2017.
 Submitted, 2017.
 
 0. G. Lecué and M. Lerasle\\
-[Robust Machine Learning by median of means: theory and practice](/assets/robust_ML_MOM.pdf)\\
-Submitted, 2017.\\
+[Robust Machine Learning by median of means: theory and practice](/assets/minmax_mom_aos_2018_06_26.pdf)\\
+To appear in **The annals of statistics**, 2017.\\
+Supplementary material available [here](/assets/supp_mat_lecue_lerasle.pdf)\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. S. Foucart and G. Lecué\\
