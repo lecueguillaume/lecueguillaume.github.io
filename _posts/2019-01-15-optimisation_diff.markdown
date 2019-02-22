@@ -9,11 +9,13 @@ date:   2019-01-15
 
 #*Chapitre 1* : [Introduction à l'optimisation différentiable](/assets/intro_opti_diff.pdf)
 
-#*Chapitre 2* : [Fonctions différentiable de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
+#*Chapitre 2* : [Fonctions différentiables de plusieurs variables](/assets/fcts_plusieures_variables.pdf)
 
 #*Chapitre 3* : [Conditions nécessaires d'optimalité pour les problèmes d'optimisation différentiable](/assets/CN_opti_diff.pdf)
 
 #*Chapitre 4* : [Théorème d'Euler/Pénao/Kantorovitch, hypothèse de qualification et preuve du théorème de KKT](/assets/euler_kkt.pdf)
+
+#*Chapitre 5* : [Conditions suffisantes de qualification d'une contrainte en un point](/assets/cond_suff_qualif.pdf)
 
 
 ##**Examens 2016-2017**
