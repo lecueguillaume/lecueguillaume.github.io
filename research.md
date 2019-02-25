@@ -50,8 +50,9 @@ Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 
 0. P. Alquier, V. Cottet and G. Lecué\\
-[Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_01_27.pdf)\\
+[Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/1bitMatrixCompletion_2017_11_30.pdf)\\
 To appear in **The annals of Statistics**\\
+Supplementary material [here](/assets/supp_mat_alquier_cottet_lecue.pdf)\\
 Python notebooks available [here](https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion)
 
 
