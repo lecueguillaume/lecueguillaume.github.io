@@ -48,7 +48,7 @@ Les élèves souhaitant passer cet examen sont invités à mettre en commentaire
 
 Cependant, même si les organisateurs feront leur maximum pour répondre à l'ensemble de ces requêtes, il se peut qu'elles ne soient pas toutes satisfaites lors de l'attribution des sujets.
 
-L'organisation des soutenances (= dates de passage de chaque groupe) se fera pendant les deux derniers cours (5/03 et 12/03).
+L'organisation des soutenances (= dates de passage de chaque groupe) se fera pendant les deux derniers cours (5/03 et 12/03).  <font face="verdana" size='5' color='red'>Les projets seront à rendre pour le vendredi 22 mars à midi au plus tard. Les soutenances auront lieu du lundi 25 mars au mardi 2 avril.</font>
 
 ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l'administration dont ils dépendent. Poster un commentaire sur ce blog n'a pas de valeur administrative. 
 

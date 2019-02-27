@@ -30,12 +30,12 @@ Submitted, 2018.
 
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Ground clutter processing for airborne radar in a Compressed Sensing context](/assets/ground-clutter-processing.pdf)\\
-Submitted, 2017.
+CoSeRa 2018: Compressive Sensing Radar.
 
 
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Periodic Patterns Frequency Hopping Waveforms : from conventional Matched Filtering to a new Compressed Sensing Approach](/assets/periodic-patterns-frequency.pdf)\\
-Submitted, 2017.
+IRS 2018: Internal Radar Symposium.
 
 0. G. Lecué and M. Lerasle\\
 [Robust Machine Learning by median of means: theory and practice](/assets/minmax_mom_aos_2018_06_26.pdf)\\
