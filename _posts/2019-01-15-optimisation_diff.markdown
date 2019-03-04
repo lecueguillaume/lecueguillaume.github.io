@@ -17,6 +17,8 @@ date:   2019-01-15
 
 #*Chapitre 5* : [Conditions suffisantes de qualification d'une contrainte en un point](/assets/cond_suff_qualif.pdf)
 
+#*Chapitre 6* : [Conditions nécessaires et suffisantes d'optimalité en optimisation convexe et différentiable](/assets/CNS_OCD.pdf)
+
 
 ##**Examens 2016-2017**
 

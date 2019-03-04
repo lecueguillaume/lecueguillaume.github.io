@@ -30,12 +30,12 @@ Submitted, 2018.
 
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Ground clutter processing for airborne radar in a Compressed Sensing context](/assets/ground-clutter-processing.pdf)\\
-CoSeRa 2018: Compressive Sensing Radar.
+**CoSeRa 2018**: Compressive Sensing Radar.
 
 
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Periodic Patterns Frequency Hopping Waveforms : from conventional Matched Filtering to a new Compressed Sensing Approach](/assets/periodic-patterns-frequency.pdf)\\
-IRS 2018: Internal Radar Symposium.
+**IRS 2018**: Internal Radar Symposium.
 
 0. G. Lecué and M. Lerasle\\
 [Robust Machine Learning by median of means: theory and practice](/assets/minmax_mom_aos_2018_06_26.pdf)\\
@@ -58,7 +58,7 @@ Python notebooks available [here](https://github.com/lecueguillaume/notebooks_py
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Towards the study of least squares estimators with convex penalty ](/assets/conv_penalty_SMF.pdf)\\
- In Séminaire et Congrès, number 31. Société mathématique de France, 2017.
+ In **Séminaire et Congrès**, number 31. Société mathématique de France, 2017.
 
 
 0. G. Lecué and M. Lerasle\\
@@ -113,7 +113,7 @@ To appear in **Topics in Learning Theory - Societe Mathématique de France**, (S
 
 9. D. Chafaï, O. Guédon,   G. Lecué and A. Pajor.\\
 [Interactions between compressed sensing, Random matrices and high-dimensional geometry](/assets/CSbook.pdf)\\
-Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 pages.
+Collection **Panoramas et synth&egrave;se** of the Société mathématique de France. Volume 37 (2012), 182 pages.
 
 
 10. G. Lecué and S. Mendelson.\\
@@ -127,7 +127,7 @@ Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 page
 
 12. G. Lecué and S. Mendelson.\\
 [General non-exact oracle inequalities in the unbounded case](/assets/LM9.pdf)\\
-**Annals of Statistics**, 40 (2), p. 832-860.  2012. \\ 
+**The Annals of Statistics**, 40 (2), p. 832-860.  2012. \\ 
  [Supplementary material to "General non-exact oracle inequalities in the unbounded case](/assets/LM9-supplementary-file.pdf)
 
 
@@ -178,7 +178,7 @@ Collection "Panoramas et synth&egrave;se" of the SMF. Volume 37 (2012), 182 page
 
 24. G. Lecué.\\
 [Simultaneous adaptation to the margin and to complexity in classification](/assets/AOS1.pdf)\\
-**Annals of  Statistics**, Vol. 35, No. 4. p. 1698-1721. August 2007.
+**The Annals of  Statistics**, Vol. 35, No. 4. p. 1698-1721. August 2007.
 
 25. G. Lecué.\\
 [Optimal oracle inequality for aggregation of classifiers under low noise condition](/assets/COLT1.pdf)\\
