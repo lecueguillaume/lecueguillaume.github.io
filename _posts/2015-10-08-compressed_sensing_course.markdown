@@ -18,7 +18,7 @@ date:   2015-10-08
 #TP : diagrammes de transition de phase
 [Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
 
-<!--[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) -->
+[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
 
 #Chapitre 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf) 
@@ -35,7 +35,7 @@ date:   2015-10-08
 [Notebook -- énoncé](/assets/tp_completion.ipynb)
 [logo ensae](/assets/ensae.png)
 
-<!-- [Notebook -- corrigé](/assets/completion.ipynb)-->
+[Notebook -- corrigé](/assets/completion.ipynb)
 
 
 <!--#Chapitre 6 : Forward-Backward splitting methods
