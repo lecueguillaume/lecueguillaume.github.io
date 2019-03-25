@@ -19,6 +19,8 @@ date:   2019-01-15
 
 #*Chapitre 6* : [Conditions nécessaires et suffisantes d'optimalité en optimisation convexe et différentiable](/assets/CNS_OCD.pdf)
 
+#*Chapitre 7* : [Dualité Lagrangienne](/assets/dualite_lagrangienne.pdf)
+
 
 ##**Examens 2016-2017**
 
