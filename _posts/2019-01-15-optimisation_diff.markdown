@@ -38,3 +38,7 @@ date:   2019-01-15
 #*examen 2016-2017*  : [examen](/assets/exam_2018.pdf)
 
 #*rattrapage 2016-2017*  : [rattrapage](/assets/rattrapage_2018_corrige.pdf)
+
+##**Examens 2018-2019**
+
+#*mi-parcours 2018-2019*  : [mi-parcours](/assets/mi_parcours_2019_corrige.pdf)
