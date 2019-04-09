@@ -5,9 +5,81 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2019 10:26:12 +0200</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 10:26:12 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Apr 2019 13:14:58 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2019 13:14:58 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Présentation du master Data Science de l&#39;X-ENSAE-Telecom-ENSTA.</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr&quot;&gt;site du master DS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr&quot;&gt;Inscription sur le site du master DS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectif du master DS :&lt;/strong&gt;
+Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l’information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Régle de validation :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Une année de formation compte au moins 60 ECTS.&lt;/li&gt;
+  &lt;li&gt;Acquérir 40 ECTS de cours, dont le cours « DATA CAMP » (cours obligatoire de 2.5 ECTS) ;&lt;/li&gt;
+  &lt;li&gt;Le stage est réputé acquis lorsque la note de stage est supérieure ou égale à 10/20 et vaut 20 ECTS. Il doit être long d’au moins 14 semaines.&lt;/li&gt;
+  &lt;li&gt;Une UE est réputée acquise lorsque la note est supérieure ou égale à 10/20. &lt;/li&gt;
+  &lt;li&gt;Les UE ne sont pas compensables&lt;/li&gt;
+  &lt;li&gt;Le redoublement n’est pas autorisé en dessous de 30 ECTS de cours.&lt;/li&gt;
+  &lt;li&gt;Il est indispensable de s’inscrire sur le Moodle pour suivre les cours du Master&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Régles d’équivalence ECTS Master DS &amp;lt;-&amp;gt; ENSAE :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;sens Master DS —&amp;gt; ENSAE :&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Les éléves de l’ENSAE ont le droit de faire valider 16 ECTS du Master DS à l’ENSAE (à répartir comme vous le voulez sur les deux semestres), ce qui vous permet de réduire un peu le nombre de cours à suivre et donc la surcharge de travail. Attention, ceci n’est possible que si vous vous inscrivez dans la voie Data Science en voie SA (Statistique et Apprentissage) à l’ENSAE. &lt;/p&gt;
+
+&lt;p&gt;Pour le premier semestre, vous devez me communiquer vos choix d’équivalences d’ECTS dans le sens Master DS –&amp;gt; ENSAE avant la fin du mois d’octobre (disons, le 20 pour fixer les idées). Attention, un cours de 4 ECTS ou plus au Master DS n’est compté que 4 ECTS à l’ENSAE, un cours de moins de 4 ECTS au Master DS est compté 2 ECTS à l’ENSAE.&lt;/p&gt;
+
+&lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (5 ECTS), et “Introduction to Graphical Models” (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, envoyez-moi un message en me précisant simplement : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;sens ENSAE  —&amp;gt; Master DS :&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;10 ECTS des cours de l’ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n’y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l’ENSAE que vous souhaitez faire compter au Master DS au 1er semestre.&lt;/p&gt;
+
+&lt;p&gt;Quelques conseils :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;n’hésitez pas à utiliser 10 ou 12 ECTS (M2 -&amp;gt; ENSAE) dès le premier semestre. Le second semestre est souvent vécu comme moins chargé par les étudiants. Il y a surtout plus de matières évaluées par des mémoires au second semestre, ce qui rend plus facile de lisser la charge de travail dans le temps.&lt;/li&gt;
+  &lt;li&gt;il y a quelques restrictions sur les équivalences : vous ne pouvez pas remplacer un cours obligatoire de l’ENSAE par un cours de M2; vous ne pouvez pas valider de cours non maths/stats/info (cours de langue par exemple) dans le sens ENSAE -&amp;gt; M2, vous ne pouvez pas valider un cours du Master DS à l’ENSAE si vous y avez déjà suivi un cours strictement équivalent, etc. De façon à être sûr que votre choix est valide, n’attendez pas le dernier moment pour me le soumettre.&lt;/li&gt;
+  &lt;li&gt;Il y a des cours qui apparaissent dans les deux formations (ENSAE et Master DS), par exemple, mon cours de “compressed sensing”. Pour ces cours, vous pouvez choisir de les valider seulement pour l’ENSAE, seulement pour le master DS ou pour les deux. Dans ce dernier cas, les ECTS que vous rapportent ce cours sont à amputer sur votre cotât de points d’équivalence.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autres formations en data science :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/&quot;&gt;Master MVA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FAQ :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+
+ &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Planning des soutenances&lt;/font&gt; 
+
+ [&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_18_19.pdf)
+
+
+
+ &lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Liste des articles proposés&lt;/font&gt; 
+
+ [&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;blue&#39;&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets.pdf)
+
+
+&lt;font face=&quot;verdana&quot; size=&#39;8&#39; color=&#39;red&#39;&gt; Date limite d&#39;inscription : vendredi 22 février à midi&lt;/font&gt; --&gt;
+
+</description>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2019/04/09/master-ds/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/04/09/master-ds/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2019.</title>
@@ -64,8 +136,8 @@
 
 </description>
         <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
-        <link>http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs/</guid>
+        <link>http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs%20copie/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/01/28/organisation-soutenance-cours-cs%20copie/</guid>
         
         
       </item>
@@ -319,20 +391,6 @@ with open(filename, &quot;r&quot;) as f:
         <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
         <link>http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Structured Regularization for High-Dimensional Data Analysis</title>
-        <description>&lt;p&gt;Yohann de Castro, Gabriel Peyré and I have been organizing a &lt;a href=&quot;https://regularize-in-paris.github.io&quot;&gt;conference&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The video are available online &lt;a href=&quot;https://www.youtube.com/playlist?list=PL9kd4mpdvWcBcQTUxwsvaInymvH-WM73i&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//2017/06/19/conf/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/conf/</guid>
         
         
       </item>

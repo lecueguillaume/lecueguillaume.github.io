@@ -1,0 +1,76 @@
+---
+layout: post
+title:  Présentation du master Data Science de l'X-ENSAE-Telecom-ENSTA.
+comments: true
+date:   2019-04-09
+---
+
+[site du master DS](https://datascience-x-master-paris-saclay.fr)
+
+[Inscription sur le site du master DS](https://datascience-x-master-paris-saclay.fr)
+
+**Objectif du master DS :**
+Former des *datascientists* en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l'information.
+
+**Régle de validation :**
+
+1. Une année de formation compte au moins 60 ECTS.
+2. Acquérir 40 ECTS de cours, dont le cours « DATA CAMP » (cours obligatoire de 2.5 ECTS) ;
+3. Le stage est réputé acquis lorsque la note de stage est supérieure ou égale à 10/20 et vaut 20 ECTS. Il doit être long d'au moins 14 semaines.
+4. Une UE est réputée acquise lorsque la note est supérieure ou égale à 10/20. 
+5. Les UE ne sont pas compensables
+6. Le redoublement n’est pas autorisé en dessous de 30 ECTS de cours.
+7. Il est indispensable de s’inscrire sur le Moodle pour suivre les cours du Master
+
+**Régles d'équivalence ECTS Master DS <-> ENSAE :**
+
+
+*sens Master DS ---> ENSAE :*
+
+Les éléves de l'ENSAE ont le droit de faire valider 16 ECTS du Master DS à l'ENSAE (à répartir comme vous le voulez sur les deux semestres), ce qui vous permet de réduire un peu le nombre de cours à suivre et donc la surcharge de travail. Attention, ceci n'est possible que si vous vous inscrivez dans la voie Data Science en voie SA (Statistique et Apprentissage) à l'ENSAE. 
+
+Pour le premier semestre, vous devez me communiquer vos choix d'équivalences d'ECTS dans le sens Master DS --> ENSAE avant la fin du mois d'octobre (disons, le 20 pour fixer les idées). Attention, un cours de 4 ECTS ou plus au Master DS n'est compté que 4 ECTS à l'ENSAE, un cours de moins de 4 ECTS au Master DS est compté 2 ECTS à l'ENSAE.
+
+Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l'ENSAE le cours "Optimisation for Data Science" (5 ECTS), et "Introduction to Graphical Models" (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l'ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l'ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, envoyez-moi un message en me précisant simplement : "remplacer entrepreneuriat 1 (3) et compta nat (3) par "Optimisation for Data Science" (4) et "Introduction to Graphical Models" (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre.
+
+*sens ENSAE  ---> Master DS :*
+
+10 ECTS des cours de l'ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n'y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l'ENSAE que vous souhaitez faire compter au Master DS au 1er semestre.
+
+
+Quelques conseils :
+
+1. n'hésitez pas à utiliser 10 ou 12 ECTS (M2 -> ENSAE) dès le premier semestre. Le second semestre est souvent vécu comme moins chargé par les étudiants. Il y a surtout plus de matières évaluées par des mémoires au second semestre, ce qui rend plus facile de lisser la charge de travail dans le temps.
+2. il y a quelques restrictions sur les équivalences : vous ne pouvez pas remplacer un cours obligatoire de l'ENSAE par un cours de M2; vous ne pouvez pas valider de cours non maths/stats/info (cours de langue par exemple) dans le sens ENSAE -> M2, vous ne pouvez pas valider un cours du Master DS à l'ENSAE si vous y avez déjà suivi un cours strictement équivalent, etc. De façon à être sûr que votre choix est valide, n'attendez pas le dernier moment pour me le soumettre.
+3. Il y a des cours qui apparaissent dans les deux formations (ENSAE et Master DS), par exemple, mon cours de "compressed sensing". Pour ces cours, vous pouvez choisir de les valider seulement pour l'ENSAE, seulement pour le master DS ou pour les deux. Dans ce dernier cas, les ECTS que vous rapportent ce cours sont à amputer sur votre cotât de points d'équivalence.
+
+
+
+**Autres formations en data science :**
+
+[Master MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)
+
+**FAQ :**
+
+
+
+
+
+<!-- 
+
+ <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
+
+ [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_18_19.pdf)
+
+
+
+ <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
+
+ [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets.pdf)
+
+
+<font face="verdana" size='8' color='red'> Date limite d'inscription : vendredi 22 février à midi</font> -->
+
+
+
+ 
