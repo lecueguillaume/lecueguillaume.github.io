@@ -19,22 +19,22 @@ Submitted, 2018. Python notebook and codes available [here](https://github.com/l
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Statistical Learning with Lipschitz and convex loss functions](/assets/MOM_Lipschitz.pdf)\\
-Submitted, 2018. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
+To appear in **Probability theory and related fields**. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
 [MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/ICML19.pdf)\\
-Submitted, 2018.
+**ICML 2019**
 
 
 0. G. Lecué, M. Lerasle and T. Matthieu\\
 [Robust classification via MOM minimization](/assets/MomClassif_2018_07_03.pdf)\\
-Submitted, 2018.\\
+Under revision in **Machine Learning research**\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 
 0. R. Deswarte and G. Lecué\\
 [minimax regularization](/assets/minimax_reg_2018_05_14.pdf)\\
-Submitted, 2018.
+Under revision in **Journal of complexity**
 
 0. Ph. Mesnard, C. Enderli and G. Lecué\\
 [Ground clutter processing for airborne radar in a Compressed Sensing context](/assets/ground-clutter-processing.pdf)\\
