@@ -4,6 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+0. J. Depersin and G. Lecué\\
+[Robust subgaussian estimator of a mean vector in nearly linear time](/assets/mom_sdp_v2.pdf)\\
+Submitted, 2019.
+
+0. G. Chinot, G. Lecué and  M. Lerasle\\
+[Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_Lipschitz_reg.pdf)\\
+Submitted, 2019.
+
 
 0. J. Kwon, G. Lecué and  M. Lerasle\\
 [Median of means principle as a divide-and-conquer procedure for robustness, sub-sampling and hyper-parameters tuning](/assets/MOMKLL.pdf)\\
@@ -14,7 +22,7 @@ Submitted, 2018. Python notebook and codes available [here](https://github.com/l
 Submitted, 2018. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
-[MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/MONK.pdf)\\
+[MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/ICML19.pdf)\\
 Submitted, 2018.
 
 

@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Apr 2019 13:14:58 +0200</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 13:14:58 +0200</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2019 09:37:11 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Jun 2019 09:37:11 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -52,11 +52,39 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
   &lt;li&gt;Il y a des cours qui apparaissent dans les deux formations (ENSAE et Master DS), par exemple, mon cours de “compressed sensing”. Pour ces cours, vous pouvez choisir de les valider seulement pour l’ENSAE, seulement pour le master DS ou pour les deux. Dans ce dernier cas, les ECTS que vous rapportent ce cours sont à amputer sur votre cotât de points d’équivalence.&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;&lt;strong&gt;Validation du stage de fin d’études pour l’ENSAE et du stage du master DS&lt;/strong&gt;
+Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l’ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d’organiser les soutenances en présence d’un permanent de l’ENSAE.&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Autres formations en data science :&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/&quot;&gt;Master MVA&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;FAQ :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Question : Eléve en 3A de l’ENSAE, est-il possible de faire le master DS et une alternance en entreprise en paralèlle ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Réponse&lt;/em&gt; : Le Master Data Science représente une surcharge de travail très importante par rapport à la 3A qui n’est pas compatible avec une alternance. Par ailleurs, les cours du Master DS ne sont pas regroupés sur certains jours de la semaine contrairement aux cours de l’ENSAE en 3A qui ont été organisés pour laisser aux éléves la possibilité de faire soit un master, soit un double diplôme soit une alternance (mais pas plusieurs choses en même temps).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Question : Serait-il possible de savoir si le cours de Stats2 enseigné en 2ème année de l’ENSAE est considéré comme un cours pré-requis pour le master DS? 
+J’ai suivi tout le cours de M. Tsybakov, j’ai assisté aux séances de TD. Je me demandais si l’évaluation en elle-même était obligatoire comme modalité.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Réponse&lt;/em&gt; : Il n’y a rien dans les textes qui vous interdise de postuler à un master DS si vous n’avez pas validé le cours de Mr. Tsybakov. Cependant, mes collègues et moi (qui sommes dans les jury de sélection aux 3 master DS (MVA, StatML, et master DS)) accordont beaucoup d’importance aux deux cours de Mr. Tsybakov ‘Statistiques 2’ et de Mr. Alquier ‘Introduction au machine learning’ lors du processus de sélection des étudiants de l’ENSAE pour un master DS. Il est très fortement recommandé de suivre et valider ces deux cours pour entrer dans un master DS. De même le cour de Nicolas Chopin ‘Simulation et Monte-Carlo’ et le séminaire de modélisation Statistiques de Cristina Butucea sont fortement recommandés.&lt;/p&gt;
+
+&lt;p&gt;Par ailleurs, pour entrer dans un master DS (MVA, StatML ou Master DS) il est fortement recommandé de choisir la voie de spécialisation de 3A ‘voie Data science, statistique et apprentissage’. Pour cette voie là il y a 3 cours marqué “obligatoires” à faire valider en 2A :
+1.  introduction au machine learning, 
+2.  statistique 2, 
+3. simulation et Monte Carlo,
+et des cours conseillés :
+1. Python,
+2. Introduction aux processus,
+3. Séminaire de modélisation statistique.&lt;/p&gt;
+
+&lt;p&gt;En fait, les cours “obligatires” sont juste très fortement recommandé et jusqu’à maintenant, aucun éléve s’est vu refuser l’accés à une voie parce qu’il n’a pas validé un cours obligatoire. &lt;/p&gt;
+
+&lt;p&gt;Il est cependant possible (mais fortement déconseillé) de s’inscrire dans une autre voie que celle ‘voie Data science, statistique et apprentissage’ pour suivre un master DS. Dans ce cas, il n’y a plus d’équivalence d’ECTS ENSAE/Master et les emplois du temps ne sont pas forcément évident à faire conincider.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/wp-content/uploads/2018/09/ensae-brique-2A-2018-2019.pdf&quot;&gt;plaquette des cours de 2A&lt;/a&gt;
+&lt;a href=&quot;https://www.ensae.fr/cycle-ingenieur/2a/&quot;&gt;descriptif de la 2A&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- 
 
