@@ -5,9 +5,21 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Jun 2019 09:45:50 +0200</pubDate>
-    <lastBuildDate>Fri, 28 Jun 2019 09:45:50 +0200</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2019 17:28:20 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2019 17:28:20 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Interview de Michel Talagrand par Gilles Godefroy</title>
+        <description>&lt;p&gt;A l’occasion de la remise du &lt;a href=&quot;https://www.sorbonne-universite.fr/en/newsroom/actualites/michel-talagrand-winner-shaw-prize&quot;&gt;prix Shaw&lt;/a&gt; à Michel Talagrand, la SMF (Gazette - avril 2019 - (160)) a publié un interview de M. Talagrand conduit par Gilles Godefroy, &lt;a href=&quot;https://www.sorbonne-universite.fr/sites/default/files/upload/2019-05/Talagrand2019.pdf&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2019/07/08/interview_michel_talagrand/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/07/08/interview_michel_talagrand/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Présentation du master Data Science de l&#39;X-ENSAE-Telecom-ENSTA.</title>
@@ -364,61 +376,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Mon, 04 Sep 2017 13:59:13 +0200</pubDate>
         <link>http://lecueguillaume.github.io//2017/09/04/rappels-stats/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2017/09/04/rappels-stats/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Restore variables after notebook crashed</title>
-        <description>&lt;h1 id=&quot;recover-variables-after-a-cell-in-a-python-notebook-fails&quot;&gt;Recover variables after a cell in a python notebook fails&lt;/h1&gt;
-&lt;p&gt;After python lost connexion with my browser (here safari) while using Jupyter notebook&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;WebSocket ping timeout after 91539 ms
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I wanted to recover some variables like a dictionary. I should have use the &lt;strong&gt;try: except:&lt;/strong&gt; protocole but I did not so I end up with a notebook not working and variables that I was not able to get back. Here is a solution that worked for me:&lt;/p&gt;
-
-&lt;p&gt;1) I interrupted the kernel&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Kernel interrupted: d3d55f0d-52f1-4660-a43b-1fedb698452f
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;(I got the address of the kernel. Note that it is different from the Kernel address when it started: f757186e-0570-467a-918e-934bb48dee45)&lt;/p&gt;
-
-&lt;p&gt;2) I went to the terminal and typed:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ipython console --existing d3d55f0d-52f1-4660-a43b-1fedb698452f.json
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This opened an ipython consol (you can replace &lt;em&gt;ipython&lt;/em&gt; with &lt;em&gt;jupyter&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;3) I listed all the local variables to check that my &lt;em&gt;dictionary&lt;/em&gt; was in there:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;locals()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I was pretty happy to see my variable &lt;em&gt;dict_final&lt;/em&gt; in the list.&lt;/p&gt;
-
-&lt;p&gt;4) then I &lt;em&gt;pickle.dump&lt;/em&gt; my dictionary in the consol:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;import pickle
-filename = &#39;dict_final.p&#39;
-with open(filename, &quot;wb&quot;) as f:
-    pickle.dump(dict_final, f)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;5) Once my variable has been pickled down, I can load it in any other notebook where I want to use it via (in a notebook):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;import pickle
-filename = &#39;dict_final.p&#39;
-with open(filename, &quot;r&quot;) as f:
-    pickle.load(dict_final, f)
-&lt;/code&gt;&lt;/pre&gt;
-
-</description>
-        <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/06/19/recover_variables_python/</guid>
         
         
       </item>
