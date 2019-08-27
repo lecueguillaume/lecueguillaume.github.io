@@ -46,7 +46,7 @@ Quelques conseils :
 
 
 **Validation du stage de fin d'études pour l'ENSAE et du stage du master DS**
-Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l'ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d'organiser les soutenances en présence d'un permanent de l'ENSAE.
+Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l'ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d'organiser les soutenances en présence d'un permanent de l'ENSAE. Pour l'ENSAE, il faut que la soutenance ait lieu entre mi-octobre et mi-novembre.
 
 
 **Autres formations en data science :**
