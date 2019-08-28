@@ -5,9 +5,23 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jul 2019 17:28:20 +0200</pubDate>
-    <lastBuildDate>Mon, 08 Jul 2019 17:28:20 +0200</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2019 16:02:25 +0200</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2019 16:02:25 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Python code for Median of Means estimators</title>
+        <description>&lt;p&gt;Several implementation of Median of means estimators are available in the following:
+1) &lt;a href=&quot;https://github.com/CharlesLaroche/MOM_API&quot;&gt;Charles Laroche repository&lt;/a&gt; for  LASSO, ElasticNet, SVM, linear regresion, cross-validation and deep neural network. All MOM estimators use the “BaseEstimator” class from sklearn.
+2) [Timothee]&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2019/07/16/code_for_MOM/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2019/07/16/code_for_MOM/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Interview de Michel Talagrand par Gilles Godefroy</title>
@@ -50,11 +64,11 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 
 &lt;p&gt;Pour le premier semestre, vous devez me communiquer vos choix d’équivalences d’ECTS dans le sens Master DS –&amp;gt; ENSAE avant la fin du mois d’octobre (disons, le 20 pour fixer les idées). Attention, un cours de 4 ECTS ou plus au Master DS n’est compté que 4 ECTS à l’ENSAE, un cours de moins de 4 ECTS au Master DS est compté 2 ECTS à l’ENSAE.&lt;/p&gt;
 
-&lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (5 ECTS), et “Introduction to Graphical Models” (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, envoyez-moi un message en me précisant simplement : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre.&lt;/p&gt;
+&lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (5 ECTS), et “Introduction to Graphical Models” (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, je vous enverrai courant mi-octobre, un google form à remplir dans lequel vous pouvez écrire : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre. Pour le deuxième semestre, vos choix d’équivalence devront être faits avant le 15 février dans le même google form. Je transmettrai ensuite cette liste à la direction des études après vérification de la cohérence de vos choix.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;sens ENSAE  —&amp;gt; Master DS :&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;10 ECTS des cours de l’ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n’y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l’ENSAE que vous souhaitez faire compter au Master DS au 1er semestre.&lt;/p&gt;
+&lt;p&gt;10 ECTS des cours de l’ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n’y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l’ENSAE que vous souhaitez faire compter au Master DS au 1er semestre et deuxième semestre dans cette même google form (dont le lien vous sera envoyé mi-octobre).&lt;/p&gt;
 
 &lt;p&gt;Quelques conseils :&lt;/p&gt;
 
@@ -65,7 +79,7 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;strong&gt;Validation du stage de fin d’études pour l’ENSAE et du stage du master DS&lt;/strong&gt;
-Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l’ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d’organiser les soutenances en présence d’un permanent de l’ENSAE.&lt;/p&gt;
+Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l’ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d’organiser les soutenances en présence d’un permanent de l’ENSAE. Pour l’ENSAE, il faut que la soutenance ait lieu entre mi-octobre et mi-novembre. Pour le master, la soutenance doit avoir lieu avant la mi-octobre pour être diplomé en première session et avant la mi-décembre pour être diplomé en deuxième session. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Autres formations en data science :&lt;/strong&gt;&lt;/p&gt;
 
@@ -346,36 +360,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Sun, 07 Jan 2018 12:59:13 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rappels de statistiques mathématiques</title>
-        <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2018pdf--notebook-downloadassetscdfempiriqueipynb--notebook-githttpnbviewerjupyterorggithublecueguillaumelecueguillaumegithubioblobmasterassetscdfempiriqueipynb&quot;&gt;&lt;strong&gt;Cours 1&lt;/strong&gt; : &lt;a href=&quot;/assets/cours1_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-2---slidesassetscours2ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 2&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours2_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;cours-3---slidesassetscours3ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 3&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours3_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-4---slidesassetscours4ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 4&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours4_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-5--slidesassetscours5ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 5&lt;/strong&gt; : &lt;a href=&quot;/assets/cours5_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-6---slidesassetscours6ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 6&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours6_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-7---slidesassetscours7ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 7&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours7_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;cours-8---slidesassetscours8ensae2018pdf--notebook-downloadassetslinearregressionipynb--notebook-githttpnbviewerjupyterorggithublecueguillaumenotebookspythonblobmastercoursstatistiqueslinearregressionipynb--dataassetsdatapngnbreglinzip&quot;&gt;&lt;strong&gt;Cours 8&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours8_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/linear_regression.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb&quot;&gt;notebook git&lt;/a&gt; | &lt;a href=&quot;/assets/data_png_nb_reg_lin.zip&quot;&gt;data&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h1 id=&quot;recueil-dexercices-corrigs--pdfassetsexosrappelsstatsensaepdf&quot;&gt;Recueil d’exercices corrigés : &lt;a href=&quot;/assets/exos_rappels_stats_ensae.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/h1&gt;
-
-</description>
-        <pubDate>Mon, 04 Sep 2017 13:59:13 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//2017/09/04/rappels-stats/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/09/04/rappels-stats/</guid>
         
         
       </item>
