@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Aug 2019 16:02:25 +0200</pubDate>
-    <lastBuildDate>Wed, 28 Aug 2019 16:02:25 +0200</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2019 11:52:27 +0200</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2019 11:52:27 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,6 +14,9 @@
         <description>&lt;p&gt;Several implementation of Median of means estimators are available in the following:
 1) &lt;a href=&quot;https://github.com/CharlesLaroche/MOM_API&quot;&gt;Charles Laroche repository&lt;/a&gt; for  LASSO, ElasticNet, SVM, linear regresion, cross-validation and deep neural network. All MOM estimators use the “BaseEstimator” class from sklearn.
 2) [Timothee]&lt;/p&gt;
+
+&lt;p&gt;Other approach for robust mean estimation:
+1) smoothed random perturbations estimator from Matthew J. Holland &lt;a href=&quot;https://github.com/feedbackward/1dim&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 16 Jul 2019 00:00:00 +0200</pubDate>
@@ -36,10 +39,12 @@
       </item>
     
       <item>
-        <title>Présentation du master Data Science de l&#39;X-ENSAE-Telecom-ENSTA.</title>
+        <title>Master Data Science de l&#39;X-ENSAE-Telecom-ENSTA.</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr&quot;&gt;site du master DS&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr&quot;&gt;Inscription sur le site du master DS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/presentation_cours_ensae_Master_DS_2018.pdf&quot;&gt;Présentation des cours de l’ENSAE&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Objectif du master DS :&lt;/strong&gt;
 Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l’information.&lt;/p&gt;
@@ -80,6 +85,9 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 
 &lt;p&gt;&lt;strong&gt;Validation du stage de fin d’études pour l’ENSAE et du stage du master DS&lt;/strong&gt;
 Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l’ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d’organiser les soutenances en présence d’un permanent de l’ENSAE. Pour l’ENSAE, il faut que la soutenance ait lieu entre mi-octobre et mi-novembre. Pour le master, la soutenance doit avoir lieu avant la mi-octobre pour être diplomé en première session et avant la mi-décembre pour être diplomé en deuxième session. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription des éléves extérieurs aux cours de l’ENSAE&lt;/strong&gt;
+Pour les élèves de l’IPParis inscrits au Master DS voici comment faire pour pouvoir accéder à l’ENSAE, assister aux cours et y passer des examens &lt;a href=&quot;/assets/Courrier aux masters partenaires.pdf&quot;&gt;Courrier du pôle vie etudiants de l’ENSAE&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Autres formations en data science :&lt;/strong&gt;&lt;/p&gt;
 
@@ -260,20 +268,6 @@ et des cours conseillés :
       </item>
     
       <item>
-        <title>Présentation des cours en Data Science de l&#39;ENSAE ouverts au Master DS</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/presentation_cours_ensae_Master_DS_2018.key&quot;&gt;Keynote ici&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/presentation_cours_ensae_Master_DS_2018.pptx&quot;&gt;PowerPoint ici&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
-        <link>http://lecueguillaume.github.io//2018/09/12/presentation_cours_ensae/</link>
-        <guid isPermaLink="true">http://lecueguillaume.github.io//2018/09/12/presentation_cours_ensae/</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>cours d&#39;optimisation différentiable</title>
         <description>&lt;h2 id=&quot;notes-de-cours&quot;&gt;&lt;strong&gt;Notes de cours&lt;/strong&gt;&lt;/h2&gt;
 
@@ -360,6 +354,36 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Sun, 07 Jan 2018 12:59:13 +0100</pubDate>
         <link>http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</link>
         <guid isPermaLink="true">http://lecueguillaume.github.io//2018/01/07/workshop_eco_stat/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rappels de statistiques mathématiques</title>
+        <description>&lt;h1 id=&quot;cours-1--slidesassetscours1ensae2018pdf--notebook-downloadassetscdfempiriqueipynb--notebook-githttpnbviewerjupyterorggithublecueguillaumelecueguillaumegithubioblobmasterassetscdfempiriqueipynb&quot;&gt;&lt;strong&gt;Cours 1&lt;/strong&gt; : &lt;a href=&quot;/assets/cours1_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-2---slidesassetscours2ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 2&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours2_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;cours-3---slidesassetscours3ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 3&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours3_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-4---slidesassetscours4ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 4&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours4_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-5--slidesassetscours5ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 5&lt;/strong&gt; : &lt;a href=&quot;/assets/cours5_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-6---slidesassetscours6ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 6&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours6_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-7---slidesassetscours7ensae2018pdf&quot;&gt;&lt;strong&gt;Cours 7&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours7_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;cours-8---slidesassetscours8ensae2018pdf--notebook-downloadassetslinearregressionipynb--notebook-githttpnbviewerjupyterorggithublecueguillaumenotebookspythonblobmastercoursstatistiqueslinearregressionipynb--dataassetsdatapngnbreglinzip&quot;&gt;&lt;strong&gt;Cours 8&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours8_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt; | &lt;a href=&quot;/assets/linear_regression.ipynb&quot;&gt;notebook download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb&quot;&gt;notebook git&lt;/a&gt; | &lt;a href=&quot;/assets/data_png_nb_reg_lin.zip&quot;&gt;data&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h1 id=&quot;recueil-dexercices-corrigs--pdfassetsexosrappelsstatsensaepdf&quot;&gt;Recueil d’exercices corrigés : &lt;a href=&quot;/assets/exos_rappels_stats_ensae.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/h1&gt;
+
+</description>
+        <pubDate>Mon, 04 Sep 2017 13:59:13 +0200</pubDate>
+        <link>http://lecueguillaume.github.io//2017/09/04/rappels-stats/</link>
+        <guid isPermaLink="true">http://lecueguillaume.github.io//2017/09/04/rappels-stats/</guid>
         
         
       </item>

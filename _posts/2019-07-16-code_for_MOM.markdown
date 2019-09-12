@@ -10,6 +10,10 @@ Several implementation of Median of means estimators are available in the follow
 2) [Timothee]
 
 
+Other approach for robust mean estimation:
+1) smoothed random perturbations estimator from Matthew J. Holland [here](https://github.com/feedbackward/1dim).
+
+
 
 
  

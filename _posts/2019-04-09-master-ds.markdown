@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Présentation du master Data Science de l'X-ENSAE-Telecom-ENSTA.
+title:  Master Data Science de l'X-ENSAE-Telecom-ENSTA.
 comments: true
 date:   2019-04-09
 ---
@@ -8,6 +8,8 @@ date:   2019-04-09
 [site du master DS](https://datascience-x-master-paris-saclay.fr)
 
 [Inscription sur le site du master DS](https://datascience-x-master-paris-saclay.fr)
+
+[Présentation des cours de l'ENSAE](/assets/presentation_cours_ensae_Master_DS_2018.pdf)
 
 **Objectif du master DS :**
 Former des *datascientists* en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l'information.
@@ -47,6 +49,9 @@ Quelques conseils :
 
 **Validation du stage de fin d'études pour l'ENSAE et du stage du master DS**
 Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l'ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d'organiser les soutenances en présence d'un permanent de l'ENSAE. Pour l'ENSAE, il faut que la soutenance ait lieu entre mi-octobre et mi-novembre. Pour le master, la soutenance doit avoir lieu avant la mi-octobre pour être diplomé en première session et avant la mi-décembre pour être diplomé en deuxième session. 
+
+**Inscription des éléves extérieurs aux cours de l'ENSAE**
+Pour les élèves de l'IPParis inscrits au Master DS voici comment faire pour pouvoir accéder à l'ENSAE, assister aux cours et y passer des examens [Courrier du pôle vie etudiants de l'ENSAE](/assets/Courrier aux masters partenaires.pdf) 
 
 
 **Autres formations en data science :**
