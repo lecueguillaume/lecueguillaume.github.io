@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://lecueguillaume.github.io//</link>
     <atom:link href="http://lecueguillaume.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Sep 2019 11:52:27 +0200</pubDate>
-    <lastBuildDate>Thu, 12 Sep 2019 11:52:27 +0200</lastBuildDate>
+    <pubDate>Thu, 26 Sep 2019 15:01:14 +0200</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2019 15:01:14 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -49,7 +49,7 @@
 &lt;p&gt;&lt;strong&gt;Objectif du master DS :&lt;/strong&gt;
 Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l’information.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Régle de validation :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Régle de validation du master DS :&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Une année de formation compte au moins 60 ECTS.&lt;/li&gt;
@@ -63,7 +63,7 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 
 &lt;p&gt;&lt;strong&gt;Régles d’équivalence ECTS Master DS &amp;lt;-&amp;gt; ENSAE :&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;sens Master DS —&amp;gt; ENSAE :&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;sens Master DS —&amp;gt; ENSAE&lt;/strong&gt; :&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Les éléves de l’ENSAE ont le droit de faire valider 16 ECTS du Master DS à l’ENSAE (à répartir comme vous le voulez sur les deux semestres), ce qui vous permet de réduire un peu le nombre de cours à suivre et donc la surcharge de travail. Attention, ceci n’est possible que si vous vous inscrivez dans la voie Data Science en voie SA (Statistique et Apprentissage) à l’ENSAE. &lt;/p&gt;
 
@@ -71,7 +71,7 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 
 &lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (5 ECTS), et “Introduction to Graphical Models” (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, je vous enverrai courant mi-octobre, un google form à remplir dans lequel vous pouvez écrire : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre. Pour le deuxième semestre, vos choix d’équivalence devront être faits avant le 15 février dans le même google form. Je transmettrai ensuite cette liste à la direction des études après vérification de la cohérence de vos choix.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;sens ENSAE  —&amp;gt; Master DS :&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;sens ENSAE  —&amp;gt; Master DS&lt;/strong&gt; :&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;10 ECTS des cours de l’ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n’y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l’ENSAE que vous souhaitez faire compter au Master DS au 1er semestre et deuxième semestre dans cette même google form (dont le lien vous sera envoyé mi-octobre).&lt;/p&gt;
 
@@ -87,7 +87,7 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 Les élèves de 3eme année du cycle ingénieur doivent partir en stage de fin d’études (ce stage est obligatoire pour l’ENSAE et doit durer au moins 14 semaines). Pour ceux qui suivent un master en parallèle, la direction des études de l’ENSAE accepte que le mémoire de recherche et sa soutenance remplacent le rapport de stage et sa soutenance si un enseignant ENSAE permanent est présent à la soutenance de mémoire. Il faut donc faire en sorte que mémoire et rapport de stage coïncident et d’organiser les soutenances en présence d’un permanent de l’ENSAE. Pour l’ENSAE, il faut que la soutenance ait lieu entre mi-octobre et mi-novembre. Pour le master, la soutenance doit avoir lieu avant la mi-octobre pour être diplomé en première session et avant la mi-décembre pour être diplomé en deuxième session. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Inscription des éléves extérieurs aux cours de l’ENSAE&lt;/strong&gt;
-Pour les élèves de l’IPParis inscrits au Master DS voici comment faire pour pouvoir accéder à l’ENSAE, assister aux cours et y passer des examens &lt;a href=&quot;/assets/Courrier aux masters partenaires.pdf&quot;&gt;Courrier du pôle vie etudiants de l’ENSAE&lt;/a&gt; &lt;/p&gt;
+Pour les élèves de l’IPParis inscrits au Master DS voici comment faire pour pouvoir accéder à l’ENSAE, assister aux cours et y passer des examens : &lt;a href=&quot;/assets/Courrier aux masters partenaires.pdf&quot;&gt;Courrier du pôle vie etudiants de l’ENSAE&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Autres formations en data science :&lt;/strong&gt;&lt;/p&gt;
 
@@ -95,14 +95,14 @@ Pour les élèves de l’IPParis inscrits au Master DS voici comment faire pour 
 
 &lt;p&gt;&lt;strong&gt;FAQ :&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Question : Eléve en 3A de l’ENSAE, est-il possible de faire le master DS et une alternance en entreprise en paralèlle ?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Question&lt;/strong&gt; : Eléve en 3A de l’ENSAE, est-il possible de faire le master DS et une alternance en entreprise en paralèlle ?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Réponse&lt;/em&gt; : Le Master Data Science représente une surcharge de travail très importante par rapport à la 3A qui n’est pas compatible avec une alternance. Par ailleurs, les cours du Master DS ne sont pas regroupés sur certains jours de la semaine contrairement aux cours de l’ENSAE en 3A qui ont été organisés pour laisser aux éléves la possibilité de faire soit un master, soit un double diplôme soit une alternance (mais pas plusieurs choses en même temps).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : Le Master Data Science représente une surcharge de travail très importante par rapport à la 3A qui n’est pas compatible avec une alternance. Par ailleurs, les cours du Master DS ne sont pas regroupés sur certains jours de la semaine contrairement aux cours de l’ENSAE en 3A qui ont été organisés pour laisser aux éléves la possibilité de faire soit un master, soit un double diplôme soit une alternance (mais pas plusieurs choses en même temps).&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Question : Serait-il possible de savoir si le cours de Stats2 enseigné en 2ème année de l’ENSAE est considéré comme un cours pré-requis pour le master DS? 
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Question&lt;/strong&gt; : Serait-il possible de savoir si le cours de Stats2 enseigné en 2ème année de l’ENSAE est considéré comme un cours pré-requis pour le master DS? 
 J’ai suivi tout le cours de M. Tsybakov, j’ai assisté aux séances de TD. Je me demandais si l’évaluation en elle-même était obligatoire comme modalité.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Réponse&lt;/em&gt; : Il n’y a rien dans les textes qui vous interdise de postuler à un master DS si vous n’avez pas validé le cours de Mr. Tsybakov. Cependant, mes collègues et moi (qui sommes dans les jury de sélection aux 3 master DS (MVA, StatML, et master DS)) accordont beaucoup d’importance aux deux cours de Mr. Tsybakov ‘Statistiques 2’ et de Mr. Alquier ‘Introduction au machine learning’ lors du processus de sélection des étudiants de l’ENSAE pour un master DS. Il est très fortement recommandé de suivre et valider ces deux cours pour entrer dans un master DS. De même le cour de Nicolas Chopin ‘Simulation et Monte-Carlo’ et le séminaire de modélisation Statistiques de Cristina Butucea sont fortement recommandés.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : Il n’y a rien dans les textes qui vous interdise de postuler à un master DS si vous n’avez pas validé le cours de Mr. Tsybakov. Cependant, mes collègues et moi (qui sommes dans les jury de sélection aux 3 master DS (MVA, StatML, et master DS)) accordont beaucoup d’importance aux deux cours de Mr. Tsybakov ‘Statistiques 2’ et de Mr. Alquier ‘Introduction au machine learning’ lors du processus de sélection des étudiants de l’ENSAE pour un master DS. Il est très fortement recommandé de suivre et valider ces deux cours pour entrer dans un master DS. De même le cour de Nicolas Chopin ‘Simulation et Monte-Carlo’ et le séminaire de modélisation Statistiques de Cristina Butucea sont fortement recommandés.&lt;/p&gt;
 
 &lt;p&gt;Par ailleurs, pour entrer dans un master DS (MVA, StatML ou Master DS) il est fortement recommandé de choisir la voie de spécialisation de 3A ‘voie Data science, statistique et apprentissage’. Pour cette voie là il y a 3 cours marqué “obligatoires” à faire valider en 2A :
 1.  introduction au machine learning, 
@@ -115,10 +115,16 @@ et des cours conseillés :
 
 &lt;p&gt;En fait, les cours “obligatires” sont juste très fortement recommandé et jusqu’à maintenant, aucun éléve s’est vu refuser l’accés à une voie parce qu’il n’a pas validé un cours obligatoire. &lt;/p&gt;
 
-&lt;p&gt;Il est cependant possible (mais fortement déconseillé) de s’inscrire dans une autre voie que celle ‘voie Data science, statistique et apprentissage’ pour suivre un master DS. Dans ce cas, il n’y a plus d’équivalence d’ECTS ENSAE/Master et les emplois du temps ne sont pas forcément évident à faire conincider.&lt;/p&gt;
+&lt;p&gt;Il est cependant possible (mais fortement déconseillé) de s’inscrire dans une autre voie que celle ‘voie Data science, statistique et apprentissage’ pour suivre un master DS. Dans ce cas, il n’y a plus d’équivalence d’ECTS ENSAE/Master et les emplois du temps ne sont pas forcément évident à faire coïncider.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/wp-content/uploads/2018/09/ensae-brique-2A-2018-2019.pdf&quot;&gt;plaquette des cours de 2A&lt;/a&gt;
-&lt;a href=&quot;https://www.ensae.fr/cycle-ingenieur/2a/&quot;&gt;descriptif de la 2A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/wp-content/uploads/2018/09/ensae-brique-2A-2018-2019.pdf&quot;&gt;plaquette des cours de 2A&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/cycle-ingenieur/2a/&quot;&gt;descriptif de la 2A&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Question&lt;/strong&gt; : Le cours de statistiques en grande dimension est présent dans les 2 cursus, mais ne rapporte pas le même nombre de crédits ECTS (4 à l’ensae contre 2.5 au master). Je voudrais confirmer que si je prends ce cours seulement pour l’ensae, je pourrais transférer 4 credits vers le master au S1 ? 
+Dans le cas où je prendrais cette matière dans les deux cursus, d’après les règles, je devrais retirer les crédits que rapporte ce cours à mes points d’équivalences utilisables : devrais-je retirer 4 ou 2.5 ? et dans quel sens ensae -&amp;gt; master ou master -&amp;gt; ensae ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : C’est une application des règles à la lettre : si un étudiant prend ce cours à l’ENSAE uniquement ça lui rapporte 4 ECTS, au M2 uniquement ça lui rapporte 2.5 ECTS, si l’étudiant veut le faire compter pour les deux, il doit dépenser des crédits “M2-&amp;gt;ENSAE” ou “ENSAE-&amp;gt;M2”. Si il dépense sur les 10 annuels de “ENSAE -&amp;gt; M2” ça lui coûte 2.5 parce que ça comptera 2.5 au M2, si il dépense sur les 16 annuels “M2 -&amp;gt; ENSAE” ça lui coûte 4 car ça rapportera 4 à l’ENSAE.&lt;/p&gt;
 
 &lt;!-- 
 
