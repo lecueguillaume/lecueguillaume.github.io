@@ -5,7 +5,9 @@ comments: true
 date:   2019-04-09
 ---
 
-[site du master DS](https://datascience-x-master-paris-saclay.fr)
+[Site du master DS](https://datascience-x-master-paris-saclay.fr)
+
+[Présentation des cours du master](https://www.ensae.fr/master-data-science/)
 
 [Inscription sur le site du master DS](https://datascience-x-master-paris-saclay.fr)
 
@@ -24,6 +26,8 @@ Former des *datascientists* en charge de récupérer, stocker, organiser, traite
 6. Le redoublement n’est pas autorisé en dessous de 30 ECTS de cours.
 7. Il est indispensable de s’inscrire sur le Moodle pour suivre les cours du Master
 
+[Contrat pédagogique](https://datascience-x-master-paris-saclay.fr/le-master/contrat-pedagogique/)
+
 **Régles d'équivalence ECTS Master DS <-> ENSAE :**
 
 
@@ -38,6 +42,8 @@ Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez f
 *__sens ENSAE  ---> Master DS__ :*
 
 10 ECTS des cours de l'ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n'y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l'ENSAE que vous souhaitez faire compter au Master DS au 1er semestre et deuxième semestre dans cette même google form (dont le lien vous sera envoyé mi-octobre).
+
+[Lien intranet Masters](https://intraensae.ensae.fr/_layouts/15/start.aspx#/SitePages/Autres%20Masters%20Recherche.aspx)
 
 
 Quelques conseils :
@@ -92,6 +98,10 @@ Il est cependant possible (mais fortement déconseillé) de s'inscrire dans une 
 Dans le cas où je prendrais cette matière dans les deux cursus, d'après les règles, je devrais retirer les crédits que rapporte ce cours à mes points d'équivalences utilisables : devrais-je retirer 4 ou 2.5 ? et dans quel sens ensae -> master ou master -> ensae ?*
 
 *__Réponse__* : C'est une application des règles à la lettre : si un étudiant prend ce cours à l'ENSAE uniquement ça lui rapporte 4 ECTS, au M2 uniquement ça lui rapporte 2.5 ECTS, si l'étudiant veut le faire compter pour les deux, il doit dépenser des crédits "M2->ENSAE" ou "ENSAE->M2". Si il dépense sur les 10 annuels de "ENSAE -> M2" ça lui coûte 2.5 parce que ça comptera 2.5 au M2, si il dépense sur les 16 annuels "M2 -> ENSAE" ça lui coûte 4 car ça rapportera 4 à l'ENSAE.
+
+*__Question__ : Je souhaiterais savoir s’il est possible de transférer quelques ECTS de cours du S1 du master vers l’ENSAE pour le S2 (dans la limite de 16 ECTS sur l’année). Dans mon cas, j’envisage qu'il me reste à transférer pour le S2 8 ECTS du master vers l’ENSAE mais que je ne choisisse que 3 cours du master, donc 6 ECTS éligibles au transfert.*
+
+*__Réponse__* :  On peut utiliser l'intégralité des équivalents 16 ECTS M2 -> ENSAE dès le premier semestre. Par contre, l'ENSAE exige 30 ou + ECTS par semestre. Ca peut vouloir dire au premier semestre 16 ECTS du M2 et 14 de l'ENSAE, mais il faut 30 ou + pour chaque semestre. Par ailleurs, il n'y a pas d'échange possible S1 <-> S2. On ne peut donc pas prendre des cours du master au S1 et les faire valider pour le S2 de l'ENSAE.
 
 
 
