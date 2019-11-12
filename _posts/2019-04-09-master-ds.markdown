@@ -13,6 +13,8 @@ date:   2019-04-09
 
 [Présentation des cours de l'ENSAE](/assets/presentation_cours_ensae_Master_DS_2018.pdf)
 
+[Nombre d'ECTS des cours du master DS](https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/)
+
 **Objectif du master DS :**
 Former des *datascientists* en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l'information.
 
