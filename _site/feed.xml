@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 14:29:34 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 14:29:34 +0100</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 09:14:33 +0100</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 09:14:33 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,9 +15,9 @@
 
 &lt;p&gt;1) &lt;a href=&quot;https://github.com/CharlesLaroche/MOM_API&quot;&gt;Charles Laroche repository&lt;/a&gt; for  LASSO, ElasticNet, SVM, linear regresion, cross-validation and deep neural network. All MOM estimators use the “BaseEstimator” class from sklearn.&lt;/p&gt;
 
-&lt;p&gt;2) A notebook for the &lt;a href=&quot;/assets/MOM_search_tab.pdf&quot;&gt;paper&lt;/a&gt; available &lt;a href=&quot;/assets/search_tab_mean_estimate.ipynb&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!--(2) A notebook for the [paper](/assets/MOM_search_tab.pdf) available [here](/assets/search_tab_mean_estimate.ipynb))--&gt;
 
-&lt;p&gt;3) My github repository &lt;a href=&quot;https://github.com/lecueguillaume/MOMpower&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2) My github repository &lt;a href=&quot;https://github.com/lecueguillaume/MOMpower&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Other approach for robust mean estimation:&lt;/p&gt;
 
