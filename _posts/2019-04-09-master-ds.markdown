@@ -87,7 +87,7 @@ et des cours conseillés :
 2. Introduction aux processus,
 3. Séminaire de modélisation statistique.
 
-En fait, les cours "obligatires" sont juste très fortement recommandé et jusqu'à maintenant, aucun éléve s'est vu refuser l'accés à une voie parce qu'il n'a pas validé un cours obligatoire. 
+En fait, les cours "obligatoires" sont seulement très fortement recommandés et jusqu'à maintenant, aucun éléve ne s'est vu refusé l'accés à une voie parce qu'il n'a pas validé un cours obligatoire. 
 
 Il est cependant possible (mais fortement déconseillé) de s'inscrire dans une autre voie que celle 'voie Data science, statistique et apprentissage' pour suivre un master DS. Dans ce cas, il n'y a plus d'équivalence d'ECTS ENSAE/Master et les emplois du temps ne sont pas forcément évident à faire coïncider.
 
@@ -99,12 +99,20 @@ Il est cependant possible (mais fortement déconseillé) de s'inscrire dans une 
 *__Question__ : Le cours de statistiques en grande dimension est présent dans les 2 cursus, mais ne rapporte pas le même nombre de crédits ECTS (4 à l'ensae contre 2.5 au master). Je voudrais confirmer que si je prends ce cours seulement pour l'ensae, je pourrais transférer 4 credits vers le master au S1 ? 
 Dans le cas où je prendrais cette matière dans les deux cursus, d'après les règles, je devrais retirer les crédits que rapporte ce cours à mes points d'équivalences utilisables : devrais-je retirer 4 ou 2.5 ? et dans quel sens ensae -> master ou master -> ensae ?*
 
-*__Réponse__* : C'est une application des règles à la lettre : si un étudiant prend ce cours à l'ENSAE uniquement ça lui rapporte 4 ECTS, au M2 uniquement ça lui rapporte 2.5 ECTS, si l'étudiant veut le faire compter pour les deux, il doit dépenser des crédits "M2->ENSAE" ou "ENSAE->M2". Si il dépense sur les 10 annuels de "ENSAE -> M2" ça lui coûte 2.5 parce que ça comptera 2.5 au M2, si il dépense sur les 16 annuels "M2 -> ENSAE" ça lui coûte 4 car ça rapportera 4 à l'ENSAE.
+*__Réponse__* : C'est une application des règles à la lettre : si un étudiant prend ce cours à l'ENSAE uniquement ça lui rapporte 4 ECTS; au M2 uniquement ça lui rapporte 2.5 ECTS. Si l'étudiant veut le faire compter pour les deux, il doit dépenser des crédits "M2->ENSAE" ou "ENSAE->M2". S'il dépense sur les 10 annuels de "ENSAE -> M2" ça lui coûte 2.5 parce que ça comptera 2.5 au M2, si il dépense sur les 16 annuels "M2 -> ENSAE" ça lui coûte 4 car ça rapportera 4 à l'ENSAE.
 
 *__Question__ : Je souhaiterais savoir s’il est possible de transférer quelques ECTS de cours du S1 du master vers l’ENSAE pour le S2 (dans la limite de 16 ECTS sur l’année). Dans mon cas, j’envisage qu'il me reste à transférer pour le S2 8 ECTS du master vers l’ENSAE mais que je ne choisisse que 3 cours du master, donc 6 ECTS éligibles au transfert.*
 
 *__Réponse__* :  On peut utiliser l'intégralité des équivalents 16 ECTS M2 -> ENSAE dès le premier semestre. Par contre, l'ENSAE exige 30 ou + ECTS par semestre. Ca peut vouloir dire au premier semestre 16 ECTS du M2 et 14 de l'ENSAE, mais il faut 30 ou + pour chaque semestre. Par ailleurs, il n'y a pas d'échange possible S1 <-> S2. On ne peut donc pas prendre des cours du master au S1 et les faire valider pour le S2 de l'ENSAE.
 
+**__Question__* :Concernant le stage de 3A, pouvez-vous me dire s'il y a des démarches particulières à effectuer auprès du master, ou dois-je seulement me contenter de celles de l'ENSAE comme pour les autres stages ?
+
+*__Réponse__* : Concernant le stage de fin d'année, il n'y a pas de démarches particulières à faire auprès du master DS, il suffit simplement de remplir votre fiche de stage sur Enex et d'envoyer un mail à Nicoletta Bourgeois indiquant les dates de stage + sujet + lieu du stage + responsable de stage. Toute la partie administrative, en particulier la rédaction de la convention de stage est faite par le bureau des stages de l'ENSAE. Il faut aussi indiquer au service des stages de l'ENSAE que votre stage compte pour le master DS (c'est pour l'organisation des soutenances). Concernant le rapport de stage et sa soutenance, je vous renvoie aux règles énoncées plus haut.
+
+**__Question__** : Ayant récemment reçu une proposition de CDI, je voulais avoir l'assurance qu'il est possible d'effectuer directement un CDI valant pour stage du Master Datascience de Polytechnique. Je sais qu'il est possible côté ENSAE de commencer directement en CDI, mais je voulais savoir si c'est le cas également du master.
+
+
+*__Réponse__* : Oui, vous pouvez faire votre stage en CDI. Il faut juste ne pas oublier de faire sa soutenance de stage.
 
 
 
