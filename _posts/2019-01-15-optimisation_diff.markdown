@@ -21,6 +21,8 @@ date:   2019-01-15
 
 #*Chapitre 7* : [Dualité Lagrangienne](/assets/dualite_lagrangienne.pdf)
 
+#*Liste d'exercices* : [polycopié d'exercices](/assets/td-doptimisation-ensae.pdf)
+
 
 ##**Examens 2016-2017**
 
@@ -33,12 +35,15 @@ date:   2019-01-15
 
 ##**Examens 2017-2018**
 
-#*mi-parcours 2016-2017*  : [mi-parcours](/assets/mi_parcours_2018_corrige.pdf)
+#*mi-parcours 2017-2018*  : [mi-parcours](/assets/mi_parcours_2018_corrige.pdf)
 
-#*examen 2016-2017*  : [examen](/assets/exam_2018.pdf)
+#*examen 2017-2018*  : [examen](/assets/exam_2018.pdf)
 
-#*rattrapage 2016-2017*  : [rattrapage](/assets/rattrapage_2018_corrige.pdf)
+#*rattrapage 2017-2018*  : [rattrapage](/assets/rattrapage_2018_corrige.pdf)
 
 ##**Examens 2018-2019**
 
 #*mi-parcours 2018-2019*  : [mi-parcours](/assets/mi_parcours_2019_corrige.pdf)
+
+#*examen 2018-2019*  : [examen](/assets/exam_2019.pdf)
+

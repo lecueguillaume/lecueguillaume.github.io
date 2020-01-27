@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jan 2020 13:21:42 +0100</pubDate>
-    <lastBuildDate>Fri, 17 Jan 2020 13:21:42 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2020 16:52:24 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2020 16:52:24 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -255,6 +255,8 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d’après les
 
 &lt;p&gt;#&lt;em&gt;Chapitre 7&lt;/em&gt; : &lt;a href=&quot;/assets/dualite_lagrangienne.pdf&quot;&gt;Dualité Lagrangienne&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;#&lt;em&gt;Liste d’exercices&lt;/em&gt; : &lt;a href=&quot;/assets/td-doptimisation-ensae.pdf&quot;&gt;polycopié d’exercices&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;##&lt;strong&gt;Examens 2016-2017&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;#&lt;em&gt;mi-parcours 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2017_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
@@ -265,15 +267,18 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d’après les
 
 &lt;p&gt;##&lt;strong&gt;Examens 2017-2018&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;em&gt;mi-parcours 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2018_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#&lt;em&gt;mi-parcours 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2018_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;em&gt;examen 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2018.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#&lt;em&gt;examen 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2018.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;em&gt;rattrapage 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2018_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#&lt;em&gt;rattrapage 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2018_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;##&lt;strong&gt;Examens 2018-2019&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;#&lt;em&gt;mi-parcours 2018-2019&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2019_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#&lt;em&gt;examen 2018-2019&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2019.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2019/01/15/optimisation_diff/</link>

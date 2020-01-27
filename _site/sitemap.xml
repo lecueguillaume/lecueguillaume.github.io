@@ -385,6 +385,10 @@
 <lastmod>2018-06-25T15:33:34+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/examen_2019.pdf</loc>
+<lastmod>2019-06-17T09:17:52+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/exos_cs.pdf</loc>
 <lastmod>2017-03-16T15:35:05+01:00</lastmod>
 </url>
@@ -587,6 +591,10 @@
 <url>
 <loc>http://localhost:4000/assets/supp_mat_lecue_mendelson.pdf</loc>
 <lastmod>2017-01-03T11:34:17+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/td-doptimisation-ensae.pdf</loc>
+<lastmod>2018-03-22T10:23:54+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research.html</loc>
