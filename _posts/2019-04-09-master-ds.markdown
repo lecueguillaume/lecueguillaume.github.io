@@ -115,6 +115,9 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d'après les r
 *__Réponse__* : Oui, vous pouvez faire votre stage en CDI. Il faut juste ne pas oublier de faire sa soutenance de stage.
 
 
+**__Question__** : Est-il possible de transférer un nombre limité d'ECTS d'une matière ? Je m'explique, mettons que j'ai pris Optimal Transport, valant 3 ECTS, mais qu'il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d'Optimal Transport vers le master ?
+
+*__Réponse__* :
 
 
 <!-- 

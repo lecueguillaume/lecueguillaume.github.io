@@ -5,9 +5,72 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jan 2020 16:52:24 +0100</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 16:52:24 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Feb 2020 12:17:31 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Feb 2020 12:17:31 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2020.</title>
+        <description>&lt;!--  &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Planning des soutenances&lt;/font&gt; 
+
+ [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_18_19.pdf)
+
+
+
+ &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Liste des articles proposés&lt;/font&gt; 
+
+ [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets.pdf) --&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d'inscription : vendredi 28 février à midi&lt;/font&gt;
+&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen. Les élèves s’inscrivant tôt auront leur sujet plus tôt.)&lt;/p&gt;
+
+&lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.) (obligatoire)&lt;/li&gt;
+  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
+  &lt;li&gt;reproduire les simulations&lt;/li&gt;
+  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
+  &lt;li&gt;proposer des parallèles avec d’autres sujets.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La validation et l’évaluation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pour ceux désireux de faire des simulations : d’un notebook (très) commenté (en anglais de préférence) en python;&lt;/li&gt;
+  &lt;li&gt;Pour ceux désireux de ne faire que de la théorie : d’un mémoire d’au plus 10 pages (en Latex);&lt;/li&gt;
+  &lt;li&gt;(pour tous) d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La note attribuée à chaque élève dépend :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a)&lt;/li&gt;
+  &lt;li&gt;des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/li&gt;
+  &lt;li&gt;Une bonne balance entre théorie et application est aussi bien vue&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à &lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; mettre en commentaire  de ce post &lt;/font&gt;, les noms des deux élèves constituant le groupe. S’ils le souhaitent, les élèves sont invités  à préciser s’ils souhaitent un sujet :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;théorique et appliqué&lt;/li&gt;
+  &lt;li&gt;théorique&lt;/li&gt;
+  &lt;li&gt;appliqué&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;
+
+&lt;p&gt;L’organisation des soutenances (= dates de passage de chaque groupe) se fera pendant les deux avant derniers cours (10/03 et 17/03).  &lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt;Les projets seront à rendre pour le lundi 23 mars à midi au plus tard. Les soutenances auront lieu du mercredi 25 mars au mardi 7 avril.&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l’administration dont ils dépendent. Poster un commentaire sur ce blog n’a pas de valeur administrative.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/02/06/organisation-soutenance-cours-cs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/06/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Python code for Median of Means estimators</title>
@@ -152,6 +215,10 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d’après les
 &lt;p&gt;&lt;strong&gt;__Question__&lt;/strong&gt; : Ayant récemment reçu une proposition de CDI, je voulais avoir l’assurance qu’il est possible d’effectuer directement un CDI valant pour stage du Master Datascience de Polytechnique. Je sais qu’il est possible côté ENSAE de commencer directement en CDI, mais je voulais savoir si c’est le cas également du master.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : Oui, vous pouvez faire votre stage en CDI. Il faut juste ne pas oublier de faire sa soutenance de stage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;__Question__&lt;/strong&gt; : Est-il possible de transférer un nombre limité d’ECTS d’une matière ? Je m’explique, mettons que j’ai pris Optimal Transport, valant 3 ECTS, mais qu’il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d’Optimal Transport vers le master ?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; :&lt;/p&gt;
 
 &lt;!-- 
 
@@ -394,53 +461,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Sun, 07 Jan 2018 12:59:13 +0100</pubDate>
         <link>http://localhost:4000/2018/01/07/workshop_eco_stat/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/07/workshop_eco_stat/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rappels de statistiques mathématiques</title>
-        <description>&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#&lt;strong&gt;Cours 1&lt;/strong&gt; : &lt;a href=&quot;/assets/cours1_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;/assets/cdf_empirique.ipynb&quot;&gt;notebook download&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/lecueguillaume.github.io/blob/master/assets/cdf_empirique.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 2&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours2_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt; 
-&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/rm_quantile.ipynb&quot;&gt;notebook Robbins-Monro git&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;/assets/rm_quantile.ipynb&quot;&gt;notebook qqplot download&lt;/a&gt; | &lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/box_qqplots.ipynb&quot;&gt;notebook qqplot git&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 3&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours3_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 4&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours4_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 5&lt;/strong&gt; : &lt;a href=&quot;/assets/cours5_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 6&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours6_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;strong&gt;Cours 7&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours7_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;#&lt;strong&gt;Cours 8&lt;/strong&gt;  : &lt;a href=&quot;/assets/cours8_ensae_2018.pdf&quot;&gt;slides&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;/assets/linear_regression.ipynb&quot;&gt;notebook download&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/cours_statistiques/linear_regression.ipynb&quot;&gt;notebook git&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;/assets/data_png_nb_reg_lin.zip&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;#Recueil d’exercices corrigés : &lt;a href=&quot;/assets/exos_rappels_stats_ensae.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Sep 2017 13:59:13 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/04/rappels-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/04/rappels-stats/</guid>
         
         
       </item>
