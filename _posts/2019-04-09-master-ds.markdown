@@ -105,19 +105,29 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d'après les r
 
 *__Réponse__* :  On peut utiliser l'intégralité des équivalents 16 ECTS M2 -> ENSAE dès le premier semestre. Par contre, l'ENSAE exige 30 ou + ECTS par semestre. Ca peut vouloir dire au premier semestre 16 ECTS du M2 et 14 de l'ENSAE, mais il faut 30 ou + pour chaque semestre. Par ailleurs, il n'y a pas d'échange possible S1 <-> S2. On ne peut donc pas prendre des cours du master au S1 et les faire valider pour le S2 de l'ENSAE.
 
-**__Question__* :Concernant le stage de 3A, pouvez-vous me dire s'il y a des démarches particulières à effectuer auprès du master, ou dois-je seulement me contenter de celles de l'ENSAE comme pour les autres stages ?
+*__Question__ :Concernant le stage de 3A, pouvez-vous me dire s'il y a des démarches particulières à effectuer auprès du master, ou dois-je seulement me contenter de celles de l'ENSAE comme pour les autres stages ?*
 
 *__Réponse__* : Concernant le stage de fin d'année, il n'y a pas de démarches particulières à faire auprès du master DS, il suffit simplement de remplir votre fiche de stage sur Enex et d'envoyer un mail à Nicoletta Bourgeois indiquant les dates de stage + sujet + lieu du stage + responsable de stage. Toute la partie administrative, en particulier la rédaction de la convention de stage est faite par le bureau des stages de l'ENSAE. Il faut aussi indiquer au service des stages de l'ENSAE que votre stage compte pour le master DS (c'est pour l'organisation des soutenances). Concernant le rapport de stage et sa soutenance, je vous renvoie aux règles énoncées plus haut.
 
-**__Question__** : Ayant récemment reçu une proposition de CDI, je voulais avoir l'assurance qu'il est possible d'effectuer directement un CDI valant pour stage du Master Datascience de Polytechnique. Je sais qu'il est possible côté ENSAE de commencer directement en CDI, mais je voulais savoir si c'est le cas également du master.
+*__Question__ : Ayant récemment reçu une proposition de CDI, je voulais avoir l'assurance qu'il est possible d'effectuer directement un CDI valant pour stage du Master Datascience de Polytechnique. Je sais qu'il est possible côté ENSAE de commencer directement en CDI, mais je voulais savoir si c'est le cas également du master.*
 
 
 *__Réponse__* : Oui, vous pouvez faire votre stage en CDI. Il faut juste ne pas oublier de faire sa soutenance de stage.
 
 
-**__Question__** : Est-il possible de transférer un nombre limité d'ECTS d'une matière ? Je m'explique, mettons que j'ai pris Optimal Transport, valant 3 ECTS, mais qu'il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d'Optimal Transport vers le master ?
+*__Question__ : Est-il possible de transférer un nombre limité d'ECTS d'une matière ? Je m'explique, mettons que j'ai pris Optimal Transport, valant 3 ECTS, mais qu'il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d'Optimal Transport vers le master ?*
 
-*__Réponse__* :
+*__Réponse__* : Non, ce n'est pas possible.
+
+
+*__Question__ : Il me reste 6 ECTS à faire passer de l'ensae vers le master au semestre 2. Toutefois je n'ai qu'une matière à 3 ECTS, et d'autres à 4 ECTS, que je peux faire passer (donc je ne peux pas atteindre 6). Est-il possible de prendre une matière à 3 ECTS, une matière à 4 ECTS, et de les faire compter pour 3 et 3 (pour faire 6)? Exemple : je voudrais écrire :
+De l'ENSAE vers le M2:
+Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et Projet informatique (3). (alors que le Projet informatique compte en fait pour 4 ECTS à l'ensae.)*
+
+*__Réponse__* : Ok, dans ce cas. Il faut que tu précises de la manière suivante : 
+De l'ENSAE vers le M2:
+Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et Projet informatique (vaut 4 à l'ENSAE mais à ne compter que pour 3 du côté master DS).
+
 
 
 <!-- 
