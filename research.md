@@ -9,7 +9,7 @@ permalink: /research/
 Submitted, 2019.
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
-[Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_Lipschitz_reg.pdf)\\
+[Robust high dimensional learning for Lipschitz and convex losses](/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf)\\
 Submitted, 2019.
 
 

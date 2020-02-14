@@ -169,6 +169,10 @@
 <lastmod>2011-10-06T13:35:53+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf</loc>
+<lastmod>2019-07-03T10:32:43+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/Courrier%20aux%20masters%20partenaires.pdf</loc>
 <lastmod>2019-09-10T13:35:00+02:00</lastmod>
 </url>
@@ -259,10 +263,6 @@
 <url>
 <loc>http://localhost:4000/assets/MOMLeCam.pdf</loc>
 <lastmod>2018-12-06T15:59:43+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/MOM_Lipschitz.pdf</loc>
-<lastmod>2018-10-03T09:17:52+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/MOM_Lipschitz_reg.pdf</loc>
@@ -467,6 +467,10 @@
 <url>
 <loc>http://localhost:4000/assets/liste_projets.pdf</loc>
 <lastmod>2019-02-25T10:18:40+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/liste_projets_19_20.pdf</loc>
+<lastmod>2020-02-14T16:35:31+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/liste_projets_2018.pdf</loc>
