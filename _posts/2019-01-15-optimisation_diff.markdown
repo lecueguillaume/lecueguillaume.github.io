@@ -45,5 +45,5 @@ date:   2019-01-15
 
 #*mi-parcours 2018-2019*  : [mi-parcours](/assets/mi_parcours_2019_corrige.pdf)
 
-#*examen 2018-2019*  : [examen](/assets/exam_2019.pdf)
+#*examen 2018-2019*  : [examen](/assets/examen_2019.pdf)
 

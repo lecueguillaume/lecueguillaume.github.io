@@ -9,8 +9,9 @@ permalink: /research/
 Submitted, 2019.
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
-[Robust high dimensional learning for Lipschitz and convex losses](/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf)\\
+[Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_JMLR_2019_07_11.pdf)\\
 Submitted, 2019.
+
 
 
 0. J. Kwon, G. Lecué and  M. Lerasle\\
@@ -18,7 +19,7 @@ Submitted, 2019.
 Submitted, 2018. Python notebook and codes available [here](https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection)
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
-[Statistical Learning with Lipschitz and convex loss functions](/assets/MOM_Lipschitz.pdf)\\
+[Statistical Learning with Lipschitz and convex loss functions](/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf)\\
 To appear in **Probability theory and related fields**. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
