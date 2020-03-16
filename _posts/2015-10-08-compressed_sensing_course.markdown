@@ -42,7 +42,8 @@ date:   2015-10-08
 <!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)-->
 
-
+#Chapitre 7 : Méthodes spectrales pour la détection de communautés
+[notes de cours](/assets/detection_communautes.pdf)
 
 <!-- #TP : basis pursuit via Douglas-Rachford
 [notebook](/assets/phase_transition.ipynb) -->
