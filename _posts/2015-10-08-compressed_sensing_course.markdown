@@ -36,8 +36,8 @@ date:   2015-10-08
 [Notebook -- énoncé](/assets/tp_completion.ipynb)
 [logo ensae](/assets/ensae.png)
 
-<!-- [Notebook -- corrigé](/assets/completion.ipynb)
- -->
+[Notebook -- corrigé](/assets/completion.ipynb)
+
 
 <!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)-->

@@ -4,10 +4,10 @@ title:  Organisation des soutenances de mémoires pour le cours de Compressed Se
 comments: true
 date:   2020-02-06
 ---
-<!--  <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
+  <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
 
- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_18_19.pdf)
- -->
+ [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_19_20.pdf)
+ 
 
 
  <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
