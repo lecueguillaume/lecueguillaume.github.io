@@ -24,6 +24,12 @@ On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prend
 
 **Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices.  
 
+**Emploi du temps :**
+
+1) *Groupe 10 :* a) Eléves de A à J (inclus) de 13h30 à 14h30 b) Eléves de J à Z de 14h30 à 15h30
+
+2) *Groupe 23 :* a) Eléves de A à E (inclus) de 15h45 à 16h45 b) Eléves de F à Z de 16h45 à 17h45
+
 
 
 #PC0 : Présentation de l'organisation
