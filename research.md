@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+
+0. S. Chrétien, M. Cucuringu, G. Lecué and L. Neirac\\
+[Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/stats_sdp.pdf)\\
+Submittted, 2020.
+
 0. J. Depersin and G. Lecué\\
 [Robust subgaussian estimator of a mean vector in nearly linear time](/assets/mom_sdp_v2.pdf)\\
 Submitted, 2019.
@@ -24,7 +29,7 @@ To appear in **Probability theory and related fields**. Python notebook availabl
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
 [MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/ICML19.pdf)\\
-**ICML 2019**
+**ICML 2019**. See [PMLR](http://proceedings.mlr.press/v97/lerasle19a.html) for supplementary files and code.
 
 
 0. G. Lecué, M. Lerasle and T. Matthieu\\

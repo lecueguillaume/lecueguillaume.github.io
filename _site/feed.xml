@@ -5,9 +5,85 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 08:47:20 +0100</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 08:47:20 +0100</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2020 10:09:45 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2020 10:09:45 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>MAP361-Aléatoire</title>
+        <description>&lt;p&gt;#Une &lt;strong&gt;description détaillée&lt;/strong&gt; du cours se trouve sur la page Moodle du cours&lt;/p&gt;
+
+&lt;p&gt;#&lt;strong&gt;Polycopié&lt;/strong&gt; &lt;a href=&quot;/assets/polymap361.pdf&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour les PCs, chaque vendredi après-midi, je posterai sur cette page une &lt;strong&gt;feuille d’exercices corrigés&lt;/strong&gt; en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC). En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de &lt;strong&gt;devoir maison&lt;/strong&gt; contenant un ou deux exercices. Pour chaque groupe, il y aura la moitié du groupe qui devra faire cet exercice et me le rendre pour le mercredi suivant à midi au plus tard (soit 5 jours après l’avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l’avoir rendu).&lt;/p&gt;
+
+&lt;p&gt;On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exemple pour la PC2 :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1) vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves (environs 6 par groupe) devant me rendre leur DM avec le numéro d’exercice qu’ils doivent corriger.&lt;/p&gt;
+
+&lt;p&gt;2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf&lt;/p&gt;
+
+&lt;p&gt;3) mercredi 29 avril avant midi : les élèves désignés plus haut me rende leur exercice corrigé de la feuille DM2.pdf&lt;/p&gt;
+
+&lt;p&gt;4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour ceux qui connaissent latex ou qui veulent l’apprendre :&lt;/strong&gt;  voici un &lt;a href=&quot;/assets/template_exos.tex&quot;&gt;template latex&lt;/a&gt; pour le rendu des DMs. C’est celui qui nous utilisons pour la rédaction des feuilles d’exercices.&lt;/p&gt;
+
+&lt;p&gt;#PC0 : Présentation de l’organisation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/pres_100420.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PC0.pdf&quot;&gt;feuille d’exercices corrigés&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
+[notes de cours](/assets/lecture_ell_0_cs.pdf)
+
+#Chapitre 3 : Null Space Property et Restricted Isometry Property
+[notes de cours](/assets/lecture_nsp_rip_cs.pdf)
+
+#TP : diagrammes de transition de phase
+[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
+
+[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
+
+ 
+#Chapitre 4 : La méthode du simplexe
+[notes de cours](/assets/simplexe_method.pdf) 
+
+#Chapitre 5 : Méthodes de points intérieurs
+[notes de cours](/assets/points_interieurs_method.pdf)
+
+#Chapitre 6 : Complétion de matrices et système de recommandation
+[notes de cours](/assets/10_matrice_completion.pdf)
+
+
+
+#TP : completion de matrice
+[Notebook -- énoncé](/assets/tp_completion.ipynb)
+[logo ensae](/assets/ensae.png)
+
+[Notebook -- corrigé](/assets/completion.ipynb) 
+
+
+#Chapitre 6 : Forward-Backward splitting methods
+[notes de cours](/assets/fbs_method.pdf)
+
+#Chapitre 7 : Méthodes spectrales pour la détection de communautés
+[notes de cours](/assets/detection_communautes.pdf) 
+
+#TP : basis pursuit via Douglas-Rachford
+[notebook](/assets/phase_transition.ipynb) 
+
+#Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)--&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/04/10/MAP361/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/10/MAP361/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2020.</title>
@@ -115,6 +191,8 @@
 &lt;p&gt;&lt;a href=&quot;/assets/presentation_cours_ensae_Master_DS_2018.pdf&quot;&gt;Présentation des cours de l’ENSAE&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/&quot;&gt;Nombre d’ECTS des cours du master DS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/cycle-ingenieur/3a/catalogue-cours/&quot;&gt;Nombre d’ECTS des cours de 3A à l’ENSAE&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Objectif du master DS :&lt;/strong&gt;
 Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l’information.&lt;/p&gt;
@@ -453,20 +531,6 @@ Cependant, même si les organisateurs feront leur maximum pour répondre à l’
         <pubDate>Mon, 29 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2018/01/29/organisation-soutenance-cours-cs/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/29/organisation-soutenance-cours-cs/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Groupe de travail en économétrie et statistiques du CREST</title>
-        <description>&lt;p&gt;&lt;strong&gt;Exposé 1&lt;/strong&gt; : mercredi 17 janvier 2018 en salle 3105 à 14h: Guillaume Lecué sur &lt;em&gt;Techniques de bornes de risque non-asymptotiques en apprentissage statistiques&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exposé 2&lt;/strong&gt; : mercredi 25 janvier 2018 en salle 3105 à 14h: Xavier d’Haultfoeuille sur &lt;em&gt;revue des méthodes d’évaluation de politiques publiques&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 07 Jan 2018 12:59:13 +0100</pubDate>
-        <link>http://localhost:4000/2018/01/07/workshop_eco_stat/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/07/workshop_eco_stat/</guid>
         
         
       </item>

@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "MAP361-Aléatoire"
+date:   2020-04-10
+---
+
+#Une **description détaillée** du cours se trouve sur la page Moodle du cours
+
+#**Polycopié** [ici](/assets/polymap361.pdf)
+
+Pour les PCs, chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC). En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices. Pour chaque groupe, il y aura la moitié du groupe qui devra faire cet exercice et me le rendre pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
+
+On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).
+
+**Exemple pour la PC2 :**
+
+1) vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves (environs 6 par groupe) devant me rendre leur DM avec le numéro d'exercice qu'ils doivent corriger.
+
+2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf
+
+3) mercredi 29 avril avant midi : les élèves désignés plus haut me rende leur exercice corrigé de la feuille DM2.pdf
+
+4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves.
+
+**Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices.  
+
+
+
+#PC0 : Présentation de l'organisation
+
+[slides](/assets/pres_100420.pdf)
+
+[feuille d'exercices corrigés](/assets/PC0.pdf) 
+
+<!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
+[notes de cours](/assets/lecture_ell_0_cs.pdf)
+
+#Chapitre 3 : Null Space Property et Restricted Isometry Property
+[notes de cours](/assets/lecture_nsp_rip_cs.pdf)
+
+#TP : diagrammes de transition de phase
+[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
+
+[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
+
+ 
+#Chapitre 4 : La méthode du simplexe
+[notes de cours](/assets/simplexe_method.pdf) 
+
+#Chapitre 5 : Méthodes de points intérieurs
+[notes de cours](/assets/points_interieurs_method.pdf)
+
+#Chapitre 6 : Complétion de matrices et système de recommandation
+[notes de cours](/assets/10_matrice_completion.pdf)
+
+
+
+#TP : completion de matrice
+[Notebook -- énoncé](/assets/tp_completion.ipynb)
+[logo ensae](/assets/ensae.png)
+
+[Notebook -- corrigé](/assets/completion.ipynb) 
+
+
+#Chapitre 6 : Forward-Backward splitting methods
+[notes de cours](/assets/fbs_method.pdf)
+
+#Chapitre 7 : Méthodes spectrales pour la détection de communautés
+[notes de cours](/assets/detection_communautes.pdf) 
+
+#TP : basis pursuit via Douglas-Rachford
+[notebook](/assets/phase_transition.ipynb) 
+
+#Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)-->
