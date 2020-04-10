@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "MAP361-Aléatoire"
+comments: true
 date:   2020-04-10
 ---
 
@@ -8,27 +9,37 @@ date:   2020-04-10
 
 #**Polycopié** [ici](/assets/polymap361.pdf)
 
-Pour les PCs, chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC). En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices. Pour chaque groupe, il y aura la moitié du groupe qui devra faire cet exercice et me le rendre pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
+Pour les PCs, chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC). En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices. Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) -- voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves) devra faire un exercice de la feuille DMX.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
 
-On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).
+On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).
 
 **Exemple pour la PC2 :**
 
-1) vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves (environs 6 par groupe) devant me rendre leur DM avec le numéro d'exercice qu'ils doivent corriger.
+1) vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves [10.a) et 23.a)] ou [10.b) et 23.b)] -- en alternance une semaine sur deux --  devant me rendre leur DM avec le numéro d'exercice qu'ils doivent corriger.
 
 2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf
 
-3) mercredi 29 avril avant midi : les élèves désignés plus haut me rende leur exercice corrigé de la feuille DM2.pdf
+3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d'un exo désigné ici de la feuille DM2.pdf en me l'envoyant par email (à l'adresse guillaume.lecue@ensae.fr)
 
-4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves.
+4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution.
 
 **Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices.  
 
 **Emploi du temps :**
 
-1) *Groupe 10 :* a) Eléves de A à J (inclus) de 13h30 à 14h30 b) Eléves de J à Z de 14h30 à 15h30
+1) *Groupe 10 :* a) Élèves de A à J (inclus) de 13h30 à 14h30 b) Élèves de J à Z de 14h30 à 15h30
 
-2) *Groupe 23 :* a) Eléves de A à E (inclus) de 15h45 à 16h45 b) Eléves de F à Z de 16h45 à 17h45
+2) *Groupe 23 :* a) Élèves de A à E (inclus) de 15h45 à 16h45 b) Élèves de F à Z de 16h45 à 17h45
+
+**Division des groupes pour les DMs :**
+
+Groupe 10.a) Élèves du groupe 10 de A à J (inclus)
+
+Groupe 10.b) Élèves du groupe 10 de J à 
+
+Groupe 23.a) Élèves du groupe 23 de A à E (inclus)
+
+Groupe 23.b) Élèves du groupe 23 de F à Z
 
 
 
@@ -36,7 +47,7 @@ On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prend
 
 [slides](/assets/pres_100420.pdf)
 
-[feuille d'exercices corrigés](/assets/PC0.pdf) 
+[feuille d'exercices corrigés PC0.pdf](/assets/PC0.pdf) 
 
 <!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
@@ -51,30 +62,35 @@ On commence les DMs pour la deuxième PC. Vous aurez donc tous 4 notes. Je prend
 
  
 #Chapitre 4 : La méthode du simplexe
-[notes de cours](/assets/simplexe_method.pdf) 
-
-#Chapitre 5 : Méthodes de points intérieurs
-[notes de cours](/assets/points_interieurs_method.pdf)
-
-#Chapitre 6 : Complétion de matrices et système de recommandation
-[notes de cours](/assets/10_matrice_completion.pdf)
+[notes de cours](/assets/simplexe_method.pdf) -->
 
 
 
-#TP : completion de matrice
-[Notebook -- énoncé](/assets/tp_completion.ipynb)
-[logo ensae](/assets/ensae.png)
+# **FAQ** (N'hésitez pas à poser des questions dans les commentaires en bas.)
 
-[Notebook -- corrigé](/assets/completion.ipynb) 
+**Question : est ce que le binôme pour le projet doit faire partie d'un même groupe de PC ?**
+
+Non, les binômes pour les projets sont indépendants des groupes de PC. Vous pouvez donc choisir de vous mettre en binôme avec qui vous voulez dans la promo.
+
+**Question : Il y aura des exercices aujourd'hui (vendredi 10 avril) ? Si oui quand est ce que la vidéo du cours sera disponible ?**
+
+Pas d'exercices aujourd'hui. La première feuille d'exercices sera disponible (sur cette page web) au plus tard le vendredi 17 avril. La première vidéo de l'amphi sera disponible sur le moodle à la date et horaire de l'amphi tels qu'ils doivent apparaître dans votre emploi du temps (en cours de vérification par l'administration -- voir la deuxième question suivante).
+
+**Question : Est ce obligatoire le jupyter notebook ou ne peut on pas rendre les fichiers pythons directement ?**
 
 
-#Chapitre 6 : Forward-Backward splitting methods
-[notes de cours](/assets/fbs_method.pdf)
+Non, pas obligatoire mais très fortement conseillé. Il est encore éventuellement possible de faire .py + rapport pdf mais ça demande plus de travail et c'est déconseillé. C'est peut être justifiable pour les projets ayant une forte composante théorique avec pas mal de formules. Dans ce cas, la mise en forme limitée de markdown/latex dans le notebook peut-être un peu gênante. Même dans ce cas. il est préférable de faire un notebook avec éventuellement un pdf complémentaire... 
 
-#Chapitre 7 : Méthodes spectrales pour la détection de communautés
-[notes de cours](/assets/detection_communautes.pdf) 
+**Question : Je ne vois pas de créneau pour les amphis de MAP sur synapses**
 
-#TP : basis pursuit via Douglas-Rachford
-[notebook](/assets/phase_transition.ipynb) 
+Les élèves doivent avoir les créneaux de l'amphi de MAP361 dans leur emploi du temps, sinon ils ne sauront pas quand regarder la vidéo. Les amphis sont remplacés par les vidéos des cours de l'an dernier.  On va vérifier cela.
 
-#Feuille d'exercices : [énoncés](/assets/exos_cs.pdf)-->
+**Question : c'est quoi le projet Python ? Est-il possible d’avoir une description de ce qu’on attend de nous ?**
+
+Arvind Singh s'en charge. Les élèves auront le catalogue des projets fin avril au plus tard. La page moodle dédiée au MAP361P sera très bientôt actualisée : d'ici le milieu de la semaine prochaine et la liste des projets devrait être consultable d'ici 10 jours (mais les vœux commenceraient le 4 mai). 
+
+
+**Question : Est-ce que les étudiants peuvent changer de groupes ? Pour passer de niveau modéré à intensif ?**
+
+Si c'est pour changer de niveau, je pense que les élèves devraient être autorisés à changer de groupe. Mais ça doit passer par la scolarité 1A, on gère pas cela.
+
