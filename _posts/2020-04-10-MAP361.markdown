@@ -62,6 +62,14 @@ Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Z
 
 [feuille d'exercices corrigés PC0.pdf](/assets/PC0.pdf) 
 
+# **PC1 : conditionement, indépendance, Borel-Cantelli**
+
+[PC1](/assets/PC1.pdf) -- On corrigera les exercices 4, 5 et 7 lors de la PC du lundi 20 avril.
+
+[PC1 exos complémenatires](/assets/PC1_sup.pdf) 
+
+Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 (feuille disponible au plus tard vendredi 24 avril).
+
 <!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
 
@@ -76,10 +84,10 @@ Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Z
  
 #Chapitre 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf) -->
-# **PC1** 
-(PC1.pdf disponible avant le vendredi 17 avril -- pas de DM pour cette première PC)
+<!-- # **PC1** 
+(PC1.pdf disponible avant le vendredi 17 avril -- pas de DM pour cette première PC) -->
 
-# **FAQ** (N'hésitez pas à poser des questions dans les commentaires en bas.)
+# **FAQ** (N'hésitez pas à poser des questions dans les commentaires en bas ou en m'adressant un mail.)
 
 **Question : est ce que le binôme pour le projet doit faire partie d'un même groupe de PC ?**
 

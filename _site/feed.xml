@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Apr 2020 15:12:36 +0200</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2020 15:12:36 +0200</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2020 14:38:08 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2020 14:38:08 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -65,6 +65,14 @@
 
 &lt;p&gt;&lt;a href=&quot;/assets/PC0.pdf&quot;&gt;feuille d’exercices corrigés PC0.pdf&lt;/a&gt;&lt;/p&gt;
 
+&lt;h1 id=&quot;pc1--conditionement-indépendance-borel-cantelli&quot;&gt;&lt;strong&gt;PC1 : conditionement, indépendance, Borel-Cantelli&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PC1.pdf&quot;&gt;PC1&lt;/a&gt; – On corrigera les exercices 4, 5 et 7 lors de la PC du lundi 20 avril.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PC1_sup.pdf&quot;&gt;PC1 exos complémenatires&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 (feuille disponible au plus tard vendredi 24 avril).&lt;/p&gt;
+
 &lt;!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
 [notes de cours](/assets/lecture_ell_0_cs.pdf)
 
@@ -79,10 +87,10 @@
  
 #Chapitre 4 : La méthode du simplexe
 [notes de cours](/assets/simplexe_method.pdf) --&gt;
-&lt;h1 id=&quot;pc1&quot;&gt;&lt;strong&gt;PC1&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;(PC1.pdf disponible avant le vendredi 17 avril – pas de DM pour cette première PC)&lt;/p&gt;
+&lt;!-- # **PC1** 
+(PC1.pdf disponible avant le vendredi 17 avril -- pas de DM pour cette première PC) --&gt;
 
-&lt;h1 id=&quot;faq-nhésitez-pas-à-poser-des-questions-dans-les-commentaires-en-bas&quot;&gt;&lt;strong&gt;FAQ&lt;/strong&gt; (N’hésitez pas à poser des questions dans les commentaires en bas.)&lt;/h1&gt;
+&lt;h1 id=&quot;faq-nhésitez-pas-à-poser-des-questions-dans-les-commentaires-en-bas-ou-en-madressant-un-mail&quot;&gt;&lt;strong&gt;FAQ&lt;/strong&gt; (N’hésitez pas à poser des questions dans les commentaires en bas ou en m’adressant un mail.)&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Question : est ce que le binôme pour le projet doit faire partie d’un même groupe de PC ?&lt;/strong&gt;&lt;/p&gt;
 
