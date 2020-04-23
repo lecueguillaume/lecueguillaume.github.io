@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Apr 2020 18:29:43 +0200</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2020 18:29:43 +0200</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2020 12:16:26 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2020 12:16:26 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;Chaque vendredi après-midi, je posterai sur cette page une &lt;strong&gt;feuille d’exercices corrigés&lt;/strong&gt; en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC) le lundi après-midi (voir l’emploi du temps pour savoir à quel créneau chaque élève est affecté).&lt;/p&gt;
 
-&lt;p&gt;En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de &lt;strong&gt;devoir maison&lt;/strong&gt; contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) – voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devra faire un exercice de la feuille DM?.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l’avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l’avoir rendu).&lt;/p&gt;
+&lt;p&gt;En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de &lt;strong&gt;devoir maison&lt;/strong&gt; contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) – voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devra faire un exercice de la feuille DMX.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l’avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l’avoir rendu).&lt;/p&gt;
 
 &lt;p&gt;On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).&lt;/p&gt;
 
@@ -43,25 +43,32 @@
 
 &lt;p&gt;&lt;strong&gt;Division des sous-groupes pour les DMs :&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Groupe 10.a).i) : Debussche, Dereka, Devaux, Donvez, Dumond&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Groupe i) :&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Groupe 10.a).ii) : Durand, Duval, Gachod, Giudicelli, Illouz&lt;/p&gt;
+&lt;p&gt;Groupe 10.a).i) : Debussche, Dereka, Devaux, Donvez, Dumond&lt;/p&gt;
 
 &lt;p&gt;Groupe 10.b).i) : Ji, Kheroua, Lachaise, Litschgy, Morozov&lt;/p&gt;
 
-&lt;p&gt;Groupe 10.b).ii) : Perminov, Pham, Rizk, Somerville, Viénot&lt;/p&gt;
-
 &lt;p&gt;Groupe 23.a).i) : André, Andrews, Auffray, Bergerès, Boudjema, Bruant&lt;/p&gt;
 
-&lt;p&gt;Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault&lt;/p&gt;
-
 &lt;p&gt;Groupe 23.b).i) : Jaaidan, Kahn, Lakhal, Lefebvre, Magloire, Matta&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Groupe ii) :&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Groupe 10.a).ii) : Durand, Duval, Gachod, Giudicelli, Illouz&lt;/p&gt;
+
+&lt;p&gt;Groupe 10.b).ii) : Perminov, Pham, Rizk, Somerville, Viénot&lt;/p&gt;
+
+&lt;p&gt;Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault&lt;/p&gt;
 
 &lt;p&gt;Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Zhioua&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Formation des binômes pour le projet python&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix “je me débrouille” ou “j’ai besoin d’aide pour trouver un binôme”. Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l’heure actuelle – samedi 18 avril), surtout s’ils veulent qu’on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu “j’ai besoin d’aide” pour leur trouver un binôme et on laissera les autres se débrouiller.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
+&lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;pc0--présentation-de-lorganisation&quot;&gt;&lt;strong&gt;PC0 : Présentation de l’organisation&lt;/strong&gt;&lt;/h1&gt;
 
@@ -77,22 +84,14 @@
 
 &lt;p&gt;Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 (feuille disponible au plus tard vendredi 24 avril).&lt;/p&gt;
 
-&lt;!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
-[notes de cours](/assets/lecture_ell_0_cs.pdf)
+&lt;h1 id=&quot;pc2--tribus-et-espace-de-probabilité--variables-aléatoires-réelles--densité&quot;&gt;&lt;strong&gt;PC2 : Tribus et espace de probabilité – variables aléatoires réelles – densité&lt;/strong&gt;&lt;/h1&gt;
 
-#Chapitre 3 : Null Space Property et Restricted Isometry Property
-[notes de cours](/assets/lecture_nsp_rip_cs.pdf)
+&lt;p&gt;&lt;a href=&quot;/assets/PC2.pdf&quot;&gt;PC2&lt;/a&gt;&lt;/p&gt;
 
-#TP : diagrammes de transition de phase
-[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
+&lt;p&gt;&lt;a href=&quot;/assets/DM2.pdf&quot;&gt;DM2&lt;/a&gt; – à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 29 avril à midi. Vous pouvez utiliser le template latex plus haut pour votre rendu.&lt;/p&gt;
 
-[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
-
- 
-#Chapitre 4 : La méthode du simplexe
-[notes de cours](/assets/simplexe_method.pdf) --&gt;
-&lt;!-- # **PC1** 
-(PC1.pdf disponible avant le vendredi 17 avril -- pas de DM pour cette première PC) --&gt;
+&lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
+&lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;faq-nhésitez-pas-à-poser-des-questions-dans-les-commentaires-en-bas-ou-en-madressant-un-mail&quot;&gt;&lt;strong&gt;FAQ&lt;/strong&gt; (N’hésitez pas à poser des questions dans les commentaires en bas ou en m’adressant un mail.)&lt;/h1&gt;
 

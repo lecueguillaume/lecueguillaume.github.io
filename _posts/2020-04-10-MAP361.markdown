@@ -13,7 +13,7 @@ date:   2020-04-10
 
 Chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC) le lundi après-midi (voir l'emploi du temps pour savoir à quel créneau chaque élève est affecté). 
 
-En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) -- voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devra faire un exercice de la feuille DM?.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
+En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) -- voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devra faire un exercice de la feuille DMX.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
 
 On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).
 
@@ -37,19 +37,23 @@ On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendra
 
 **Division des sous-groupes pour les DMs :**
 
-Groupe 10.a).i) : Debussche, Dereka, Devaux, Donvez, Dumond
+*Groupe i) :* 
 
-Groupe 10.a).ii) : Durand, Duval, Gachod, Giudicelli, Illouz
+Groupe 10.a).i) : Debussche, Dereka, Devaux, Donvez, Dumond
 
 Groupe 10.b).i) : Ji, Kheroua, Lachaise, Litschgy, Morozov
 
-Groupe 10.b).ii) : Perminov, Pham, Rizk, Somerville, Viénot
-
 Groupe 23.a).i) : André, Andrews, Auffray, Bergerès, Boudjema, Bruant
 
-Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault
-
 Groupe 23.b).i) : Jaaidan, Kahn, Lakhal, Lefebvre, Magloire, Matta
+
+*Groupe ii) :* 
+
+Groupe 10.a).ii) : Durand, Duval, Gachod, Giudicelli, Illouz
+
+Groupe 10.b).ii) : Perminov, Pham, Rizk, Somerville, Viénot
+
+Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault
 
 Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Zhioua
 
@@ -57,8 +61,8 @@ Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Z
 
 Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix "je me débrouille" ou "j'ai besoin d'aide pour trouver un binôme". Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu "j'ai besoin d'aide" pour leur trouver un binôme et on laissera les autres se débrouiller.
 
-
-
+**-------------------------------------------------------------**
+**-------------------------------------------------------------**
 
 # **PC0 : Présentation de l'organisation**
 
@@ -74,22 +78,14 @@ Il y a un sondage en ligne sur la formation des binômes pour les projets, avec 
 
 Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 (feuille disponible au plus tard vendredi 24 avril).
 
-<!-- #Chapitre 2 : Notions de compléxité algorithmique et de relaxation convexe
-[notes de cours](/assets/lecture_ell_0_cs.pdf)
+# **PC2 : Tribus et espace de probabilité -- variables aléatoires réelles -- densité**
 
-#Chapitre 3 : Null Space Property et Restricted Isometry Property
-[notes de cours](/assets/lecture_nsp_rip_cs.pdf)
+[PC2](/assets/PC2.pdf)
 
-#TP : diagrammes de transition de phase
-[Notebook -- énoncé](/assets/tp_diagramme_transition_phase.zip)
+[DM2](/assets/DM2.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 29 avril à midi. Vous pouvez utiliser le template latex plus haut pour votre rendu.
 
-[Notebook -- corrigé](/assets/phase_transition_cvx.ipynb) 
-
- 
-#Chapitre 4 : La méthode du simplexe
-[notes de cours](/assets/simplexe_method.pdf) -->
-<!-- # **PC1** 
-(PC1.pdf disponible avant le vendredi 17 avril -- pas de DM pour cette première PC) -->
+**-------------------------------------------------------------**
+**-------------------------------------------------------------**
 
 # **FAQ** (N'hésitez pas à poser des questions dans les commentaires en bas ou en m'adressant un mail.)
 
