@@ -185,6 +185,10 @@
 <lastmod>2020-04-23T11:46:04+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/DM2_solution.pdf</loc>
+<lastmod>2020-04-23T11:45:45+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/EJS1.pdf</loc>
 <lastmod>2008-09-05T20:22:22+02:00</lastmod>
 </url>
@@ -403,6 +407,10 @@
 <url>
 <loc>http://localhost:4000/assets/dualite_lagrangienne.pdf</loc>
 <lastmod>2020-03-06T10:47:09+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/elements_integration.pdf</loc>
+<lastmod>2020-04-27T20:49:14+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/erm_phase_recovery.pdf</loc>

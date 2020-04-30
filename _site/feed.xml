@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Apr 2020 12:16:26 +0200</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2020 12:16:26 +0200</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 17:16:16 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 17:16:16 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,6 +14,8 @@
         <description>&lt;p&gt;#Une &lt;strong&gt;description détaillée&lt;/strong&gt; du cours se trouve sur la page Moodle du cours&lt;/p&gt;
 
 &lt;p&gt;#&lt;strong&gt;Polycopié&lt;/strong&gt; &lt;a href=&quot;/assets/polymap361.pdf&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#&lt;strong&gt;Quelques rappels condensés en théorie de la mesure&lt;/strong&gt; &lt;a href=&quot;/assets/elements_integration.pdf&quot;&gt;ici&lt;/a&gt;. Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours est reste optionnelle.&lt;/p&gt;
 
 &lt;p&gt;#&lt;strong&gt;Organisation des Pcs&lt;/strong&gt;&lt;/p&gt;
 
@@ -29,7 +31,7 @@
 
 &lt;p&gt;2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf&lt;/p&gt;
 
-&lt;p&gt;3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d’un exo désigné de la feuille DM2.pdf en me l’envoyant par email (à l’adresse guillaume.lecue@ensae.fr)&lt;/p&gt;
+&lt;p&gt;3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d’un exo désigné de la feuille DM2.pdf en me l’envoyant par email à l’adresse guillaume.lecue@ensae.fr et en nommant le fichier sous la forme &lt;em&gt;dm2_groupe_10_NOM&lt;/em&gt; (où vous remplacer NOM par votre nom et 10 par 23 si vous êtes dans le groupe 23).&lt;/p&gt;
 
 &lt;p&gt;4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution.&lt;/p&gt;
 
@@ -63,6 +65,10 @@
 
 &lt;p&gt;Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Zhioua&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Notes des DMs&lt;/strong&gt; Les notes des DMs sont consultables au lien suivant&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/124Okow1orRjekZZZNqfA_8WlKtTqOfxobRe8MZWQJQo/edit?usp=sharing&quot;&gt;Notes des DMs&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Formation des binômes pour le projet python&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix “je me débrouille” ou “j’ai besoin d’aide pour trouver un binôme”. Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l’heure actuelle – samedi 18 avril), surtout s’ils veulent qu’on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu “j’ai besoin d’aide” pour leur trouver un binôme et on laissera les autres se débrouiller.&lt;/p&gt;
@@ -89,6 +95,8 @@
 &lt;p&gt;&lt;a href=&quot;/assets/PC2.pdf&quot;&gt;PC2&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/DM2.pdf&quot;&gt;DM2&lt;/a&gt; – à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 29 avril à midi. Vous pouvez utiliser le template latex plus haut pour votre rendu.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/DM2_solution.pdf&quot;&gt;DM2-solution&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
 &lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;

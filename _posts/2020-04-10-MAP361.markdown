@@ -9,6 +9,9 @@ date:   2020-04-10
 
 #**Polycopié** [ici](/assets/polymap361.pdf)
 
+#**Quelques rappels condensés en théorie de la mesure** [ici](/assets/elements_integration.pdf). Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours est reste optionnelle.
+
+
 #**Organisation des Pcs**
 
 Chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC) le lundi après-midi (voir l'emploi du temps pour savoir à quel créneau chaque élève est affecté). 
@@ -23,9 +26,9 @@ On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendra
 
 2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf
 
-3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d'un exo désigné de la feuille DM2.pdf en me l'envoyant par email (à l'adresse guillaume.lecue@ensae.fr)
+3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d'un exo désigné de la feuille DM2.pdf en me l'envoyant par email à l'adresse guillaume.lecue@ensae.fr et en nommant le fichier sous la forme *dm2_groupe_10_NOM* (où vous remplacer NOM par votre nom et 10 par 23 si vous êtes dans le groupe 23). 
 
-4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution.
+4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution. 
 
 **Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices.  
 
@@ -57,6 +60,10 @@ Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault
 
 Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Zhioua
 
+**Notes des DMs** Les notes des DMs sont consultables au lien suivant 
+
+[Notes des DMs](https://docs.google.com/spreadsheets/d/124Okow1orRjekZZZNqfA_8WlKtTqOfxobRe8MZWQJQo/edit?usp=sharing)
+
 **Formation des binômes pour le projet python**
 
 Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix "je me débrouille" ou "j'ai besoin d'aide pour trouver un binôme". Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu "j'ai besoin d'aide" pour leur trouver un binôme et on laissera les autres se débrouiller.
@@ -83,6 +90,8 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 [PC2](/assets/PC2.pdf)
 
 [DM2](/assets/DM2.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 29 avril à midi. Vous pouvez utiliser le template latex plus haut pour votre rendu.
+
+[DM2-solution](/assets/DM2_solution.pdf)
 
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**
