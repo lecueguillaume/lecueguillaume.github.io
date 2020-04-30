@@ -93,6 +93,13 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 
 [DM2-solution](/assets/DM2_solution.pdf)
 
+# **PC3 : Variables aléatoires réelles -- Vecteurs aléatoires**
+
+[PC3](/assets\PC3.pdf)
+
+[DM3](/assets/DM3.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 6 mai à midi. Vous pouvez utiliser le template latex plus haut pour votre solution.
+
+
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**
 
