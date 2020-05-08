@@ -30,7 +30,9 @@ On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendra
 
 4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution. 
 
-**Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices.  
+**Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices. 
+
+**Pour ceux qui ne connaissent pas Latex et qui ne vont pas l'apprendre,** vous pouvez m'envoyer vos DM dans un notebook python (en markdown). 
 
 **Emploi du temps :**
 
@@ -64,9 +66,10 @@ Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Z
 
 [Notes des DMs](https://docs.google.com/spreadsheets/d/124Okow1orRjekZZZNqfA_8WlKtTqOfxobRe8MZWQJQo/edit?usp=sharing)
 
+<!-- 
 **Formation des binômes pour le projet python**
 
-Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix "je me débrouille" ou "j'ai besoin d'aide pour trouver un binôme". Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu "j'ai besoin d'aide" pour leur trouver un binôme et on laissera les autres se débrouiller.
+Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix "je me débrouille" ou "j'ai besoin d'aide pour trouver un binôme". Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu "j'ai besoin d'aide" pour leur trouver un binôme et on laissera les autres se débrouiller. -->
 
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**
@@ -95,10 +98,17 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 
 # **PC3 : Variables aléatoires réelles -- Vecteurs aléatoires**
 
-[PC3](/assets\PC3.pdf)
+[PC3](/assets/PC3.pdf)
 
 [DM3](/assets/DM3.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 6 mai à midi. Vous pouvez utiliser le template latex plus haut pour votre solution.
 
+[DM3-solution](/assets/DM3_solution.pdf)
+
+# **PC4 : Vecteurs aléatoires à densité - lois conditionnelles**
+
+[PC4](/assets/PC4.pdf)
+
+[DM4](/assets/DM4.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 13 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
 
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**

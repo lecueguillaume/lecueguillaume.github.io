@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2020 21:55:40 +0200</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 21:55:40 +0200</lastBuildDate>
+    <pubDate>Fri, 08 May 2020 18:23:01 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2020 18:23:01 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -36,6 +36,8 @@
 &lt;p&gt;4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pour ceux qui connaissent latex ou qui veulent l’apprendre :&lt;/strong&gt;  voici un &lt;a href=&quot;/assets/template_exos.tex&quot;&gt;template latex&lt;/a&gt; pour le rendu des DMs. C’est celui qui nous utilisons pour la rédaction des feuilles d’exercices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour ceux qui ne connaissent pas Latex et qui ne vont pas l’apprendre,&lt;/strong&gt; vous pouvez m’envoyer vos DM dans un notebook python (en markdown).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Emploi du temps :&lt;/strong&gt;&lt;/p&gt;
 
@@ -69,9 +71,10 @@
 
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/124Okow1orRjekZZZNqfA_8WlKtTqOfxobRe8MZWQJQo/edit?usp=sharing&quot;&gt;Notes des DMs&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Formation des binômes pour le projet python&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- 
+**Formation des binômes pour le projet python**
 
-&lt;p&gt;Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix “je me débrouille” ou “j’ai besoin d’aide pour trouver un binôme”. Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l’heure actuelle – samedi 18 avril), surtout s’ils veulent qu’on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu “j’ai besoin d’aide” pour leur trouver un binôme et on laissera les autres se débrouiller.&lt;/p&gt;
+Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix &quot;je me débrouille&quot; ou &quot;j'ai besoin d'aide pour trouver un binôme&quot;. Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu &quot;j'ai besoin d'aide&quot; pour leur trouver un binôme et on laissera les autres se débrouiller. --&gt;
 
 &lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
 &lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;
@@ -100,9 +103,17 @@
 
 &lt;h1 id=&quot;pc3--variables-aléatoires-réelles--vecteurs-aléatoires&quot;&gt;&lt;strong&gt;PC3 : Variables aléatoires réelles – Vecteurs aléatoires&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets\PC3.pdf&quot;&gt;PC3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/PC3.pdf&quot;&gt;PC3&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/DM3.pdf&quot;&gt;DM3&lt;/a&gt; – à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 6 mai à midi. Vous pouvez utiliser le template latex plus haut pour votre solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/DM3_solution.pdf&quot;&gt;DM3-solution&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;pc4--vecteurs-aléatoires-à-densité---lois-conditionnelles&quot;&gt;&lt;strong&gt;PC4 : Vecteurs aléatoires à densité - lois conditionnelles&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PC4.pdf&quot;&gt;PC4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/DM4.pdf&quot;&gt;DM4&lt;/a&gt; – à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 13 mai à midi. Il est préférable  d’utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
 &lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;
