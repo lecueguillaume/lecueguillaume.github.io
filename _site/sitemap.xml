@@ -209,6 +209,14 @@
 <lastmod>2020-05-12T13:25:07+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/DM5_solution.pdf</loc>
+<lastmod>2020-05-12T13:24:31+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/DM6.pdf</loc>
+<lastmod>2020-05-22T07:45:12+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/EJS1.pdf</loc>
 <lastmod>2008-09-05T20:22:22+02:00</lastmod>
 </url>
@@ -347,6 +355,10 @@
 <url>
 <loc>http://localhost:4000/assets/PC5.pdf</loc>
 <lastmod>2020-05-12T13:40:53+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/PC6.pdf</loc>
+<lastmod>2020-05-23T08:09:57+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/PresentationCOLT07.pdf</loc>

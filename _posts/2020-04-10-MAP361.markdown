@@ -9,7 +9,7 @@ date:   2020-04-10
 
 #**Polycopié** [ici](/assets/polymap361.pdf)
 
-#**Quelques rappels condensés en théorie de la mesure** [ici](/assets/elements_integration.pdf). Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours est reste optionnelle.
+#**Quelques rappels condensés en théorie de la mesure** [ici](/assets/elements_integration.pdf). Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours et reste optionnelle.
 
 
 #**Organisation des Pcs**
@@ -117,6 +117,14 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 [PC5](/assets/PC5.pdf)
 
 [DM5](/assets/DM5.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 20 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[DM5-solution](/assets/DM5_solution.pdf)
+
+# **PC6 : Convergences et lois des grands nombres**
+
+[PC6](/assets/PC6.pdf)
+
+[DM6](/assets/DM6.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 27 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
 
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**

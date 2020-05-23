@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 May 2020 18:22:18 +0200</pubDate>
-    <lastBuildDate>Wed, 13 May 2020 18:22:18 +0200</lastBuildDate>
+    <pubDate>Sat, 23 May 2020 09:25:10 +0200</pubDate>
+    <lastBuildDate>Sat, 23 May 2020 09:25:10 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;p&gt;#&lt;strong&gt;Polycopié&lt;/strong&gt; &lt;a href=&quot;/assets/polymap361.pdf&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;strong&gt;Quelques rappels condensés en théorie de la mesure&lt;/strong&gt; &lt;a href=&quot;/assets/elements_integration.pdf&quot;&gt;ici&lt;/a&gt;. Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours est reste optionnelle.&lt;/p&gt;
+&lt;p&gt;#&lt;strong&gt;Quelques rappels condensés en théorie de la mesure&lt;/strong&gt; &lt;a href=&quot;/assets/elements_integration.pdf&quot;&gt;ici&lt;/a&gt;. Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours et reste optionnelle.&lt;/p&gt;
 
 &lt;p&gt;#&lt;strong&gt;Organisation des Pcs&lt;/strong&gt;&lt;/p&gt;
 
@@ -122,6 +122,14 @@ Il y a un sondage en ligne sur la formation des binômes pour les projets, avec 
 &lt;p&gt;&lt;a href=&quot;/assets/PC5.pdf&quot;&gt;PC5&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/DM5.pdf&quot;&gt;DM5&lt;/a&gt; – à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 20 mai à midi. Il est préférable  d’utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/DM5_solution.pdf&quot;&gt;DM5-solution&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;pc6--convergences-et-lois-des-grands-nombres&quot;&gt;&lt;strong&gt;PC6 : Convergences et lois des grands nombres&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PC6.pdf&quot;&gt;PC6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/DM6.pdf&quot;&gt;DM6&lt;/a&gt; – à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 27 mai à midi. Il est préférable  d’utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;————————————————————-&lt;/strong&gt;
 &lt;strong&gt;————————————————————-&lt;/strong&gt;&lt;/p&gt;
