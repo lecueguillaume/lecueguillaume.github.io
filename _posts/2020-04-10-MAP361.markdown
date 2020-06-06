@@ -126,6 +126,14 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 
 [DM6](/assets/DM6.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 27 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
 
+[DM6-solution](/assets/DM6_solution.pdf)
+
+# **PC7 : Convergences en loi et TCL**
+
+[PC7](/assets/PC7.pdf)
+
+[DM7](/assets/DM7.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 10 juin à midi. Il est préférable d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**
 
