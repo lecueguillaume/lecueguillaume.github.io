@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2020 09:24:30 +0200</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2020 09:24:30 +0200</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2020 17:29:53 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2020 17:29:53 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -283,7 +283,7 @@ Il y a un sondage en ligne sur la formation des binômes pour les projets, avec 
 
 &lt;p&gt;&lt;a href=&quot;https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/&quot;&gt;Nombre d’ECTS des cours du master DS&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/cycle-ingenieur/3a/catalogue-cours/&quot;&gt;Nombre d’ECTS des cours de 3A à l’ENSAE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ensae.fr/formation/cycle-ingenieur/3a/catalogue-cours/&quot;&gt;Nombre d’ECTS des cours de 3A à l’ENSAE&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Objectif du master DS :&lt;/strong&gt;
 Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l’information.&lt;/p&gt;
@@ -310,7 +310,9 @@ Former des &lt;em&gt;datascientists&lt;/em&gt; en charge de récupérer, stocker
 
 &lt;p&gt;Pour le premier semestre, vous devez me communiquer vos choix d’équivalences d’ECTS dans le sens Master DS –&amp;gt; ENSAE avant la fin du mois d’octobre (disons, le 20 pour fixer les idées). Attention, un cours de 4 ECTS ou plus au Master DS n’est compté que 4 ECTS à l’ENSAE, un cours de moins de 4 ECTS au Master DS est compté 2 ECTS à l’ENSAE.&lt;/p&gt;
 
-&lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (5 ECTS), et “Introduction to Graphical Models” (2.5 ECTS). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE. Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (3 ECTS) et Comptabilité Nationale (3 ECTS). Ensuite, je vous enverrai courant mi-octobre, un google form à remplir dans lequel vous pouvez écrire : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre. Pour le deuxième semestre, vos choix d’équivalence devront être faits avant le 15 février dans le même google form. Je transmettrai ensuite cette liste à la direction des études après vérification de la cohérence de vos choix.&lt;/p&gt;
+&lt;p&gt;Un exemple pratique sur la façon de procéder : imaginons que vous souhaitiez faire compter à l’ENSAE le cours “Optimisation for Data Science” (vaut 5 ECTS au master), et “Introduction to Graphical Models” (vaut 2.5 ECTS au master). Ces cours compteront respectivement 4 et 2 ECTS à l’ENSAE (en suivant la règle de déflation donnée plus haut). Selectionnez dans Pamplemousse pour 6 ECTS de cours que vous ne souhaitez pas suivre à l’ENSAE, au hasard : Entrepreneuriat 1 (vaut 3 ECTS à l’ENSAE) et Comptabilité Nationale (vaut 3 ECTS à l’ENSAE). Cette opération va défalquer 6 points d’équivalence sur votre quota de 16 ECTS d’équivalence Master–&amp;gt;ENSAE. (Attention au cours qui apparaissent dans les deux formations avec des ECTS différents; voir la troisième question du FAQ : il faut défalquer le nombre d’ECTS que le cours rapporte dans la formation d’arrivée).&lt;/p&gt;
+
+&lt;p&gt;Ensuite, je vous enverrai courant mi-octobre, un google form à remplir dans lequel vous pouvez écrire : “remplacer entrepreneuriat 1 (3) et compta nat (3) par “Optimisation for Data Science” (4) et “Introduction to Graphical Models” (2). Je vérifierai alors vos choix puis les transmettrai à la direction des études. Les changements apparaîtront sur Pamplemousse début novembre. Pour le deuxième semestre, vos choix d’équivalence devront être faits avant le 15 février dans le même google form. Je transmettrai ensuite cette liste à la direction des études de l’ENSAE et au master après vérification de la cohérence de vos choix. &lt;em&gt;&lt;strong&gt;Attention&lt;/strong&gt; :&lt;/em&gt; je ne fais que vérifier la cohérence pédagogique de vos choix d’équivalence, je ne vérifie pas le nombre d’ECTS, leurs équivalents ECTS après déflation et le nombre total des ECTS. Vous êtes seuls responsables en cas d’erreur de calcul sur le nombre d’ECTS. Lisez donc bien toute cette page et en particulier le FAQ vous expliquant les règles d’équivalence.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;sens ENSAE  —&amp;gt; Master DS&lt;/strong&gt; :&lt;/em&gt;&lt;/p&gt;
 
@@ -383,9 +385,9 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d’après les
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : Oui, vous pouvez faire votre stage en CDI. Il faut juste ne pas oublier de faire sa soutenance de stage.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Question&lt;/strong&gt; : Est-il possible de transférer un nombre limité d’ECTS d’une matière ? Je m’explique, mettons que j’ai pris Optimal Transport, valant 3 ECTS, mais qu’il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d’Optimal Transport vers le master ?&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *__Question__ : Est-il possible de transférer un nombre limité d'ECTS d'une matière ? Je m'explique, mettons que j'ai pris Optimal Transport, valant 3 ECTS, mais qu'il ne me reste que 2 crédits ECTS sur mon compteur. Puis-je alors transférer 2 des 3 crédits d'Optimal Transport vers le master ?*
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/em&gt; : Non, ce n’est pas possible.&lt;/p&gt;
+*__Réponse__* : Non, ce n'est pas possible. --&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Question&lt;/strong&gt; : Il me reste 6 ECTS à faire passer de l’ensae vers le master au semestre 2. Toutefois je n’ai qu’une matière à 3 ECTS, et d’autres à 4 ECTS, que je peux faire passer (donc je ne peux pas atteindre 6). Est-il possible de prendre une matière à 3 ECTS, une matière à 4 ECTS, et de les faire compter pour 3 et 3 (pour faire 6)? Exemple : je voudrais écrire :
 De l’ENSAE vers le M2:
