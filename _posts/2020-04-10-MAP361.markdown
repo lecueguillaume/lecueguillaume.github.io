@@ -144,6 +144,21 @@ Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 
 
 [Question](/assets/questions.pdf)
 
+[DM8-solution](/assets/DM8_solution.pdf)
+
+# **PC9 : Intervalle de confiance**
+
+[PC9](/assets/PC9.pdf)
+
+[DM9](/assets/DM9.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 24 juin à midi. Il est préférable d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+
+# **Survey / feedback
+
+Si vous avez un peu de temps, pourriez-vous remplir ce [survey](https://docs.google.com/forms/d/e/1FAIpQLSdVM_BVD8AP4Qa2oxJRFu86X5WH5hsAWn1H0xCW41T5SBFfUA/viewform?usp=sf_link) ?
+
+
+
 **-------------------------------------------------------------**
 **-------------------------------------------------------------**
 
