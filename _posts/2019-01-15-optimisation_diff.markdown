@@ -47,3 +47,7 @@ date:   2019-01-15
 
 #*examen 2018-2019*  : [examen](/assets/examen_2019.pdf)
 
+##**Examens 2019-2020**
+
+#*mi-parcours 2019-2020*  : [mi-parcours](/assets/mi_parcours_2020_corrige.pdf)
+
