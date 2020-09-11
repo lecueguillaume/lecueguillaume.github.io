@@ -321,6 +321,10 @@
 <lastmod>2013-11-14T17:15:56+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/MCC%202020-2021.pdf</loc>
+<lastmod>2020-09-11T10:38:18+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/MOMKLL.pdf</loc>
 <lastmod>2018-12-06T10:10:45+01:00</lastmod>
 </url>
@@ -415,6 +419,10 @@
 <url>
 <loc>http://localhost:4000/assets/Princeton-05-12.pdf</loc>
 <lastmod>2012-05-23T23:58:19+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/Reglement%20des%20etudes%20des%20masters%20%20IP%20Paris-CA%20IP%20Paris%2020200707.pdf</loc>
+<lastmod>2020-09-04T10:23:07+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Talagrand2019.pdf</loc>
@@ -518,7 +526,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/exos_rappels_stats_ensae.pdf</loc>
-<lastmod>2019-08-27T15:28:37+02:00</lastmod>
+<lastmod>2020-08-31T11:05:38+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/exos_rappels_stats_ensae_sans_correction.pdf</loc>
@@ -675,6 +683,10 @@
 <url>
 <loc>http://localhost:4000/assets/presentation_cours_ensae_Master_DS_2018.pdf</loc>
 <lastmod>2019-09-12T11:48:55+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/presentation_cours_ensae_Master_DS_2020.pdf</loc>
+<lastmod>2020-09-10T17:18:33+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/questions.pdf</loc>

@@ -5,18 +5,24 @@ comments: true
 date:   2019-04-09
 ---
 
-[Site du master DS](https://datascience-x-master-paris-saclay.fr)
+[Site du master DS](https://www.ip-paris.fr/master-2-data-science/)
 
 [Présentation des cours du master](https://www.ensae.fr/master-data-science/)
 
-[Inscription sur le site du master DS](https://datascience-x-master-paris-saclay.fr)
+[contenu des cours du master](https://moodle.polytechnique.fr/course/index.php?categoryid=720)
 
-[Présentation des cours de l'ENSAE](/assets/presentation_cours_ensae_Master_DS_2018.pdf)
+<!--[Inscription sur le site du master DS](https://datascience-x-master-paris-saclay.fr)-->
 
-[Nombre d'ECTS des cours du master DS](https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/)
+[Présentation des cours de l'ENSAE](/assets/presentation_cours_ensae_Master_DS_2020.pdf)
+
+<!--[Nombre d'ECTS des cours du master DS](https://datascience-x-master-paris-saclay.fr/le-master/structure-des-enseignements/)-->
 
 
 [Nombre d'ECTS des cours de 3A à l'ENSAE](https://www.ensae.fr/formation/cycle-ingenieur/3a/catalogue-cours/)
+
+[Nombre d'ECTS des cours du master DS](/assets/MCC 2020-2021.pdf)
+
+[Calendier scolaire ENSAE](https://www.ensae.fr/vie-ecole/calendrier-scolaire/)
 
 **Objectif du master DS :**
 Former des *datascientists* en charge de récupérer, stocker, organiser, traiter des bases de données afin d’en tirer de l'information.
@@ -31,7 +37,9 @@ Former des *datascientists* en charge de récupérer, stocker, organiser, traite
 6. Le redoublement n’est pas autorisé en dessous de 30 ECTS de cours.
 7. Il est indispensable de s’inscrire sur le Moodle pour suivre les cours du Master
 
-[Contrat pédagogique](https://datascience-x-master-paris-saclay.fr/le-master/contrat-pedagogique/)
+<!--[Contrat pédagogique](https://datascience-x-master-paris-saclay.fr/le-master/contrat-pedagogique/)-->
+
+[règlement des études « cadre » IPParis tel qu’il a été voté en CA IPParis en juillet](/assets/Reglement des etudes des masters  IP Paris-CA IP Paris 20200707.pdf) Attention : à l’ENSAE une UE est un "groupe de cours"; dans ce texte une UE est 1 cours, et un groupe de cours est appelé "Bloc d’UE".
 
 **Régles d'équivalence ECTS Master DS <-> ENSAE :**
 
@@ -55,20 +63,20 @@ Ensuite, je vous enverrai courant mi-octobre, un google form à remplir dans leq
 
 10 ECTS des cours de l'ENSAE peuvent être utilisés pour valider 10 ECTS au Master DS. Dans ce sens, il n'y a pas de déflation des ECTS. Il faudra aussi me communiquer le choix des cours de l'ENSAE que vous souhaitez faire compter au Master DS au 1er semestre et deuxième semestre dans cette même google form (dont le lien vous sera envoyé mi-octobre).
 
-[Lien intranet Masters](https://intraensae.ensae.fr/_layouts/15/start.aspx#/SitePages/Autres%20Masters%20Recherche.aspx)
+<!--[Lien intranet Masters](https://intraensae.ensae.fr/_layouts/15/start.aspx#/SitePages/Autres%20Masters%20Recherche.aspx)-->
 
 
 Quelques conseils :
 
 1. n'hésitez pas à utiliser 10 ou 12 ECTS (M2 -> ENSAE) dès le premier semestre. Le second semestre est souvent vécu comme moins chargé par les étudiants. Il y a surtout plus de matières évaluées par des mémoires au second semestre, ce qui rend plus facile de lisser la charge de travail dans le temps.
-2. il y a quelques restrictions sur les équivalences : vous ne pouvez pas remplacer un cours obligatoire de l'ENSAE par un cours de M2; vous ne pouvez pas valider de cours non maths/stats/info (cours de langue par exemple) dans le sens ENSAE -> M2, vous ne pouvez pas valider un cours du Master DS à l'ENSAE si vous y avez déjà suivi un cours strictement équivalent, etc. De façon à être sûr que votre choix est valide, n'attendez pas le dernier moment pour me le soumettre.
-3. Il y a des cours qui apparaissent dans les deux formations (ENSAE et Master DS), par exemple, mon cours de "compressed sensing". Pour ces cours, vous pouvez choisir de les valider seulement pour l'ENSAE, seulement pour le master DS ou pour les deux. Dans ce dernier cas, les ECTS que vous rapportent ce cours sont à amputer sur votre cotât de points d'équivalence.
+2. il y a quelques restrictions sur les équivalences : vous ne pouvez pas remplacer un cours obligatoire de l'ENSAE par un cours de M2; vous ne pouvez pas valider de cours non maths/stats/info (cours de langue par exemple) dans le sens ENSAE -> M2, vous ne pouvez pas valider un cours du Master DS à l'ENSAE si vous y avez déjà suivi un cours strictement équivalent, etc. De façon à être sûr que votre choix est valide, n'attendez pas le dernier moment pour me le soumettre dans la google form.
+3. Il y a des cours qui apparaissent dans les deux formations (ENSAE et Master DS), par exemple, mon cours de "compressed sensing". Pour ces cours, vous pouvez choisir de les valider seulement pour l'ENSAE, seulement pour le master DS ou pour les deux. Dans ce dernier cas, les ECTS que vous rapportent ce cours sont à amputer sur un des deux  cotâts de points d'équivalence (c'est vous qui le choississez). Ces cours étant particuliers, vous pouvez lire les instructions qui suivent pour plus de détails.
 
 
 
 
 **Régles particulières pour les cours ouverts dans les deux formations**
-Il y a des cours (il y en avait 6 en 2020) qui sont ouverts dans les deux formations, par exemple le cours "Introduction mathématique au Compressed sensing" et "transport optimal". Prenons l'exemple du cours de "transport optimal" (TP). Ce cours rapporte 3 ECTS à l'ENSAE et 2.5 ECTS au Master. Ce cours n'étant pas obligatoire, vous avez 5 possibilités :
+Il y a des cours (il y en avait 8 en 2020) qui sont ouverts dans les deux formations, par exemple le cours "Introduction mathématique au Compressed sensing" et "transport optimal". Prenons l'exemple du cours de "transport optimal" (OT). Ce cours rapporte 3 ECTS à l'ENSAE et 2.5 ECTS au Master. Ce cours n'étant pas obligatoire, vous avez 5 possibilités :
 
 a) vous ne choisissez pas ce cours ni à l'ENSAE ni au master; il ne vous rapporte aucun ECTS dans aucune des deux formations et vous ne devez déduire aucun point d'équivalence dans aucun des deux quotas.
 
@@ -80,7 +88,7 @@ d) vous choisissez ce cours dans les deux formations; cela vous rapporte 3 ECTS 
 
 e) vous choisissez ce cours dans les deux formations; cela vous rapporte 3 ECTS à l'ENSAE, 2.5 ECTS au master et vous choisissez de déduire des points d'équivalence dans le sens Master-->ENSAE. Vous devez alors déduire 3 points d'équivalence de votre quota de 16 points d'équivalence Master-->ENSAE (car celà vous rapporte 3 ECTS à l'ENSAE) et 0 de votre quota ENSAE-->Master.
 
-*__Attention__ :* Vous devez faire très attention à déduire le bon nombre de points de vos deux quotas concernant ces cours apparaissant dans le catalogue des deux formations. L'idée est de déduire de vos quota le nombre de points qu'un cours vous rapporte dans la formation d'arrivée. Ne vous trompez pas ! en cas d'erreur, vous êtes seuls responsables et si vous avez mal géré vos points d'équivalence, il se peut que vous n'ayez pas assez de points pour valider l'une ou l'autre des deux formations. Pour être bien au clair concernant ces cours, je vous demanderai dans le google doc de vos choix d'équivalence de me donner vos choix concernant ces cours ouverts dans les deux formations.
+*__Attention__ :* Vous devez faire très attention à déduire le bon nombre de points de vos deux quotas concernant ces cours apparaissant dans le catalogue des deux formations. L'idée est de déduire de vos quota le nombre de points qu'un cours vous rapporte dans la formation d'arrivée. Ne vous trompez pas ! en cas d'erreur, vous êtes seuls responsables et si vous avez mal géré vos points d'équivalence, il se peut que vous n'ayez pas assez de points pour valider l'une ou l'autre des deux formations en fin d'année (ce qui est trop tard pour être rattrapé). Pour être bien au clair concernant ces cours, je vous demanderai dans le google doc de vos choix d'équivalence de me donner vos choix concernant spécifiquement ces cours ouverts dans les deux formations.
 
 
 **Validation du stage de fin d'études pour l'ENSAE et du stage du master DS**
@@ -133,6 +141,12 @@ Dans le cas où je prendrais cette matière dans les deux cursus, d'après les r
 
 *__Réponse__* :  On peut utiliser l'intégralité des équivalents 16 ECTS M2 -> ENSAE dès le premier semestre. Par contre, l'ENSAE exige 30 ou + ECTS par semestre. Ca peut vouloir dire au premier semestre 16 ECTS du M2 et 14 de l'ENSAE, mais il faut 30 ou + pour chaque semestre. Par ailleurs, il n'y a pas d'échange possible S1 <-> S2. On ne peut donc pas prendre des cours du master au S1 et les faire valider pour le S2 de l'ENSAE.
 
+*__Question__ : Je me pose la question par rapport à la validation des cours de la P2 du Master, qui se chevauchent entre le S1 et le S2 de l'Ensae ; savez-vous pour quel semestre de l'Ensae le transfert d'ECTS Master->Ensae sera valable en P2 du master ?*
+
+*__Réponse__* : Les cours du P1 et P2 du master DS sont à faire valider au S1 de l'ENSAE. Ceux du P3 sont à faire valider au S2.
+
+
+
 *__Question__ :Concernant le stage de 3A, pouvez-vous me dire s'il y a des démarches particulières à effectuer auprès du master, ou dois-je seulement me contenter de celles de l'ENSAE comme pour les autres stages ?*
 
 *__Réponse__* : Concernant le stage de fin d'année, il n'y a pas de démarches particulières à faire auprès du master DS, il suffit simplement de remplir votre fiche de stage sur Enex et d'envoyer un mail à Nicoletta Bourgeois indiquant les dates de stage + sujet + lieu du stage + responsable de stage. Toute la partie administrative, en particulier la rédaction de la convention de stage est faite par le bureau des stages de l'ENSAE. Il faut aussi indiquer au service des stages de l'ENSAE que votre stage compte pour le master DS (c'est pour l'organisation des soutenances). Concernant le rapport de stage et sa soutenance, je vous renvoie aux règles énoncées plus haut.
@@ -156,6 +170,15 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
 De l'ENSAE vers le M2:
 Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et Projet informatique (vaut 4 à l'ENSAE mais à ne compter que pour 3 du côté master DS).
 
+*__Question__ : Lorsque l'on décide de faire valider des ECTS d'un programme vers un autre (en décomptant dans le quotas d'ECTS correspondant), les ECTS du programme de départ sont aussi validés ? Par exemple si on suit un cours de 3 ECTS au Master et que l'on souhaite le faire valider à l'ENSAE, on décompte 2 ECTS de son quotas de 16 ECTS Master -> ENSAE et ce cours nous valide 3 ECTS au Master ET 2 ECTS à l'ENSAE c'est bien ça ?*
+
+*__Réponse__* : Oui, c'est bien ça, le cours rapporte des ECTS dans les deux formations lorsque vous utilisez un des vos quotats.
+
+
+*__Question__ : Les cours Deep Learning 1 et Deep Learning 2 du Master sont ils considérés strictement équivalents au cours de l'ENSAE Deep Learning : Models and Optimization ?*
+
+
+*__Réponse__* : Le contenu de ces cours se trouve dans les liens suivants [DL1-Master](https://moodle.polytechnique.fr/course/view.php?id=10252), [DL2-Master](https://moodle.polytechnique.fr/course/view.php?id=10245) et [DL-ENSAE](https://www.ensae.fr/courses/reseaux-de-neurones/). Les 3 cours couvrent des aspects différents du DL ; vous pouvez alors les suivre tous les trois.
 
 
 <!-- 
