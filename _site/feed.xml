@@ -5,9 +5,68 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jan 2021 15:07:03 +0100</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2021 15:07:03 +0100</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2021 10:28:03 +0100</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2021 10:28:03 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Organization of the defenses for the compressed sensing course -- year 2021.</title>
+        <description>&lt;p&gt;&lt;!--  &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Planning des soutenances&lt;/font&gt;  --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_19_20.pdf) --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Liste des articles proposés&lt;/font&gt;  --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets_19_20.pdf) --&gt;&lt;/p&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Group registration deadline : Monday 22 of February at noon&lt;/font&gt;
+&lt;p&gt;(It is a real ‘deadline’: students not registered at that time will not be allowed to sit their exam. Early birds registration is strongly advised: students will have their exam subject soon after their registration. Do not wait too long for your registration!)&lt;/p&gt;
+
+&lt;p&gt;Students who want to sit this exam are invited to &lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; write a comment at the end of this post &lt;/font&gt;, containing the names (first and last names) of the two members of the group. If some students want to study some particular subject they may also indicate it in their comment. Students may also indicate if they want to do more “theory” or more “applied math” or a “good balance between theory and applications”. Nevertheless, I’m not sure to find a subject in the scope of the request but I will do my best.&lt;/p&gt;
+
+&lt;p&gt;If some student have some difficulties to find a colleague to work with on this exam you can write your name in the first column of this &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1kKdArXOpqIXzLfURuOK65Jcb8moGKbrVvlx9M7l_2E4/edit?usp=sharing&quot;&gt;Google sheet&lt;/a&gt; or contact someone in this Google sheet by your own to construct your group (in that case,  do not forget to erase your name from the Google sheet once you have created your group). I will pair students in this Google sheet on Friday 19th February (check your teammate in the Google sheet on Friday 19th February).&lt;/p&gt;
+
+&lt;p&gt;Soon after registration, every group of two students will be given one or more research articles connected with the course (check regularly on this webpage if a project has been given to your group).&lt;/p&gt;
+
+&lt;p&gt;Several levels of involvement may be considered:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;discussion on the paper (problem, procedures, results, algorithms, simulations study, key ideas, etc.)&lt;/li&gt;
+  &lt;li&gt;proof of the main mathematical results&lt;/li&gt;
+  &lt;li&gt;redo the simulations study&lt;/li&gt;
+  &lt;li&gt;personal input on the subject (new mathematical results, new simulations results, new databases, make some parallel with other scientific domains, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Depending on the involvement of the group of two students, there are two ways to validate the course:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The best is to provide a very well commented (in markdown) python notebook which will serve as a report containing a simulation study, the problem, some maths, etc..&lt;/li&gt;
+  &lt;li&gt;For those who don’t want to do simulation, a pdf report is also OK (but a simulation study is a good thing to have in the report)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the end of the defense, some questions on the main key ideas of the course will be asked to each student individually in the group.&lt;/p&gt;
+
+&lt;p&gt;Each student will have its own personal grade depending on:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;the work of the group on the subject (quality of the report and the code, level of understanding of the problem and the solution, the math and the algorithms)&lt;/li&gt;
+  &lt;li&gt;the personal answers to the questions on the course&lt;/li&gt;
+  &lt;li&gt;a good balance between theory and practice is good&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Defenses will take place in the week between Monday 29 February to Friday 2 of March. I will post on this webpage a Google sheet where each group will have the opportunity to tell me about their availability during this week.&lt;/p&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt;Defense supports (notebook or pdf report) will have to be sent to me via email before Thursday 25 of March.&lt;/font&gt;
+&lt;p&gt;Indicate in the title of the email “Report for the Compressed sensing course - group number XX - john doe and jane doe”&lt;/p&gt;
+
+&lt;p&gt;Beware that the validation of this course depends on your registration to this course at your own administration. It is not enough to post a comment to be registered at this course regarding your cursus.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/01/28/organisation-soutenance-cours-cs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/28/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
     
       <item>
         <title>MAP361-Aléatoire</title>
@@ -640,56 +699,6 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
         <pubDate>Tue, 27 Feb 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2018/02/27/optimisation_diff-copie/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/27/optimisation_diff-copie/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2018.</title>
-        <description>&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Planning des soutenances&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/planning_soutenance_cs_17_18.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/liste_projets_2018.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d'inscription : vendredi 2 mars&lt;/font&gt;
-&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen. Les éléves s’inscrivant tôt auront leur sujet plus tôt.)&lt;/p&gt;
-
-&lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.) (obligatoire)&lt;/li&gt;
-  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
-  &lt;li&gt;reproduire les simulations&lt;/li&gt;
-  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
-  &lt;li&gt;proposer des parallèles avec d’autres sujets.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La validation et l’évaluation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;d’un mémoire d’au plus 10 pages (en Latex) concernant la partie mathématique (si abordée)&lt;/li&gt;
-  &lt;li&gt;D’un notebook (très) commenté (en anglais de préférence) en python (s’il y a des simulations)&lt;/li&gt;
-  &lt;li&gt;d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La note attribuée à chaque élève dépend :&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a)&lt;/li&gt;
-  &lt;li&gt;des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux personnes constituant le groupe. S’ils le souhaitent, les élèves sont invités  à proposer une ou des requêtes particulières sur le type ou le ou les article(s) qu’ils souhaitent étudier. Ca peut être, par exemple, un sujet précis, des liens vers des articles, une thématique, une orientation ‘plus mathématique’, ‘plus appliquée’, etc.. 
-Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;
-
-&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l’administration dont ils dépendent. Poster un commentaire sur ce blog n’a pas de valeur administrative.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/01/29/organisation-soutenance-cours-cs/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/29/organisation-soutenance-cours-cs/</guid>
         
         
       </item>
