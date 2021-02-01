@@ -48,7 +48,7 @@ Each student will have its own personal grade depending on:
 
 
 
-Defenses will take place in the week between Monday 29 February to Friday 2 of March. I will post on this webpage a Google sheet where each group will have the opportunity to tell me about their availability during this week.
+Defenses will take place in the week between Monday 29 March to Friday 2 of April. I will post on this webpage a Google sheet where each group will have the opportunity to tell me about their availability during this week.
 
 <font face="verdana" size='5' color='red'>Defense supports (notebook or pdf report) will have to be sent to me via email before Thursday 25 of March.</font> Indicate in the title of the email "Report for the Compressed sensing course - group number XX - john doe and jane doe" 
 
