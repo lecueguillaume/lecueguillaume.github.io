@@ -498,7 +498,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/detection_communautes.pdf</loc>
-<lastmod>2020-03-16T16:37:32+01:00</lastmod>
+<lastmod>2021-02-02T17:21:13+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/dualite_lagrangienne.pdf</loc>
@@ -582,11 +582,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/lecture_ell_0_cs.pdf</loc>
-<lastmod>2019-01-28T13:41:06+01:00</lastmod>
+<lastmod>2021-02-01T17:40:48+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/lecture_nsp_rip_cs.pdf</loc>
-<lastmod>2017-02-28T10:20:24+01:00</lastmod>
+<lastmod>2021-02-02T16:47:43+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/lecue_MOM_cirm.pdf</loc>
@@ -723,6 +723,10 @@
 <url>
 <loc>http://localhost:4000/assets/robust_ML_MOM.pdf</loc>
 <lastmod>2017-11-30T22:26:17+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/section_euclidiennes.pdf</loc>
+<lastmod>2021-02-02T10:54:04+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/simplexe_method.pdf</loc>
