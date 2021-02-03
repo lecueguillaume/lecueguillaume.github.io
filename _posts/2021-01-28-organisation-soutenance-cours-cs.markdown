@@ -10,9 +10,9 @@ date:   2021-01-28
  
 
 
- <!-- <font face="verdana" size='8' color='red'> Liste des articles proposés</font>  -->
+ <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
 
- <!-- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_19_20.pdf) -->
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_20_21.pdf)
 
 
 <font face="verdana" size='8' color='red'> Group registration deadline : Monday 22 of February at noon</font>

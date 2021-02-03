@@ -4,6 +4,13 @@ title: Research
 permalink: /research/
 ---
 
+0. J. Depersin and G. Lecué\\
+[Optimal robust mean and location estimation via convex programs with respect to any pseudo-norms](/assets/convex_prog_robust_sparse_mean.pdf)\\
+Submitted, 2021.
+
+0. J. Depersin and G. Lecué\\
+[On the robustness to adversarial corruption and to heavy-tailed data of the Stahel-Donoho median of means](/assets/SDO_median.pdf)\\
+Submitted, 2021.
 
 0. S. Chrétien, M. Cucuringu, G. Lecué and L. Neirac\\
 [Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/stats_sdp.pdf)\\
@@ -15,7 +22,7 @@ Submitted, 2019.
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_JMLR_2019_07_11.pdf)\\
-Submitted, 2019.
+**Journal of machine Learning research** (233):1−47, 2020. 
 
 
 
@@ -25,7 +32,7 @@ Submitted, 2018. Python notebook and codes available [here](https://github.com/l
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Statistical Learning with Lipschitz and convex loss functions](/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf)\\
-To appear in **Probability theory and related fields**. Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
+**Probability theory and related fields**, (233):1−47, 2020. . Python notebook available [here](https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb)
 
 0. M. Lerasle, T. Matthieu, Z. Szabo and G. Lecué\\
 [MONK -- Outliers-Robust Mean Embedding Estimation by Median-of-Means](/assets/ICML19.pdf)\\
@@ -33,7 +40,7 @@ To appear in **Probability theory and related fields**. Python notebook availabl
 
 
 0. G. Lecué, M. Lerasle and T. Matthieu\\
-[Robust classification via MOM minimization](/assets/MomClassif_2018_07_03.pdf)\\
+[Robust classification via MOM minimization](/assets/2020_Article_MOM_Classif.pdf)\\
 Under revision in **Machine Learning research**\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
@@ -52,8 +59,8 @@ Under revision in **Journal of complexity**
 **IRS 2018**: Internal Radar Symposium.
 
 0. G. Lecué and M. Lerasle\\
-[Robust Machine Learning by median of means: theory and practice](/assets/minmax_mom_aos_2018_06_26.pdf)\\
-To appear in **The annals of statistics**, 2017.\\
+[Robust Machine Learning by median of means: theory and practice](/assets/AOS1828.pdf)\\
+**The annals of statistics**, Volume 48, Number 2 (2020), 906-931..\\
 Supplementary material available [here](/assets/supp_mat_lecue_lerasle.pdf)\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
@@ -77,7 +84,7 @@ Python notebooks available [here](https://github.com/lecueguillaume/notebooks_py
 
 0. G. Lecué and M. Lerasle\\
 [Learning from MOM's principles: Le Cam's approach](/assets/MOMLeCam.pdf)\\
-To appear in **Stochastic processes and their applications**
+**Stochastic processes and their applications**, Volume 129, Issue 11, November 2019, Pages 4385-4410.
 
 0. P. Bellec, G. Lecué and A. Tsybakov\\
 [Slope meets Lasso: improved oracle bounds and optimality ](/assets/slope-lasso-final-published.pdf)\\

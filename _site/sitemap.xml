@@ -117,6 +117,10 @@
 <lastmod>2017-02-09T11:21:55+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/2020_Article_MOM_Classif.pdf</loc>
+<lastmod>2021-02-03T13:14:29+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/AOS1.pdf</loc>
 <lastmod>2008-09-05T20:25:16+02:00</lastmod>
 </url>
@@ -131,6 +135,10 @@
 <url>
 <loc>http://localhost:4000/assets/AOS1742.pdf</loc>
 <lastmod>2019-05-21T14:59:03+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/AOS1828.pdf</loc>
+<lastmod>2020-05-26T13:02:58+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/BEJ225.pdf</loc>
@@ -342,7 +350,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/MOM_JMLR_2019_07_11.pdf</loc>
-<lastmod>2019-07-12T14:19:38+02:00</lastmod>
+<lastmod>2020-12-14T09:08:18+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/MOM_Lipschitz_reg.pdf</loc>
@@ -355,10 +363,6 @@
 <url>
 <loc>http://localhost:4000/assets/MONK.pdf</loc>
 <lastmod>2019-02-20T12:10:49+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/MomClassif_2018_07_03.pdf</loc>
-<lastmod>2018-07-03T16:01:45+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/MomLasso_2016_12_17.pdf</loc>
@@ -433,6 +437,10 @@
 <lastmod>2020-09-04T10:23:07+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/SDO_median.pdf</loc>
+<lastmod>2021-01-21T10:16:11+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/Talagrand2019.pdf</loc>
 <lastmod>2019-07-08T17:19:43+02:00</lastmod>
 </url>
@@ -455,6 +463,10 @@
 <url>
 <loc>http://localhost:4000/assets/conv_penalty_SMF.pdf</loc>
 <lastmod>2017-02-01T13:36:23+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/convex_prog_robust_sparse_mean.pdf</loc>
+<lastmod>2021-02-02T16:32:11+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/cours1_ensae_2018.pdf</loc>
@@ -611,6 +623,10 @@
 <url>
 <loc>http://localhost:4000/assets/liste_projets_2018.pdf</loc>
 <lastmod>2018-03-06T15:49:26+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/liste_projets_20_21.pdf</loc>
+<lastmod>2021-02-03T13:00:10+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/logsob-Lamplighter.pdf</loc>
