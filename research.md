@@ -28,7 +28,8 @@ Submitted, 2019.
 
 0. J. Kwon, G. Lecué and  M. Lerasle\\
 [Median of means principle as a divide-and-conquer procedure for robustness, sub-sampling and hyper-parameters tuning](/assets/MOMKLL.pdf)\\
-Submitted, 2018. Python notebook and codes available [here](https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection)
+Accepted for publication in **Electronic journal of statistics.**  
+Python notebook and codes available [here](https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection)
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Statistical Learning with Lipschitz and convex loss functions](/assets/Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf)\\
@@ -60,7 +61,7 @@ Under revision in **Journal of complexity**
 
 0. G. Lecué and M. Lerasle\\
 [Robust Machine Learning by median of means: theory and practice](/assets/AOS1828.pdf)\\
-**The annals of statistics**, Volume 48, Number 2 (2020), 906-931..\\
+**The Annals of Statistics**, Volume 48, Number 2 (2020), 906-931..\\
 Supplementary material available [here](/assets/supp_mat_lecue_lerasle.pdf)\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
@@ -72,7 +73,7 @@ Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 0. P. Alquier, V. Cottet and G. Lecué\\
 [Estimation bounds and sharp oracle inequalities of regularized procedures with  Lipschitz loss functions](/assets/AOS1742.pdf)\\
-**The annals of Statistics**, 47(4):2117-2144, 2019\\
+**The Annals of Statistics**, 47(4):2117-2144, 2019\\
 Supplementary material [here](/assets/supp_mat_alquier_cottet_lecue.pdf)\\
 Python notebooks available [here](https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion)
 
@@ -126,7 +127,7 @@ To appear in **Topics in Learning Theory - Societe Mathématique de France**, (S
 
 7. G. Lecué and P. Rigollet. \\
 [Optimal learning with Q-aggregation](/assets/AOS1190.pdf)\\
-**Annals of Statistics**, 42 (2014), no. 1, 211-224.
+**The Annals of Statistics**, 42 (2014), no. 1, 211-224.
 
 8. G. Lecué.\\
 [Empirical risk minimization is optimal for the convex aggregation problem](/assets/BEJ447.pdf)\\
