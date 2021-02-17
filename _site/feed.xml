@@ -5,9 +5,63 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Feb 2021 15:00:29 +0100</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 15:00:29 +0100</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2021 13:17:51 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2021 13:17:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Conference on robustness and privacy</title>
+        <description>&lt;p&gt;We are organizing a two days virtual conference on “robustness and privacy” on March 22 and March 23, 2021.&lt;/p&gt;
+
+&lt;p&gt;The registration is free but mandatory; a Zoom link will be sent to all participants a day before the conference&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSf_yZApHaZVZ791DXR-sAP--R_bnkeJ6EEKr_F0qNDrWFmUiw/viewform?vc=0&amp;amp;c=0&amp;amp;w=1&amp;amp;flr=0&amp;amp;usp=mail_form_link&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;blue&quot;&gt; register here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Each talk will be 25 minutes long followed by a 5 minutes dicussion for questions. The conference should start on Monday 22th of March and Tuesday 23rd of March at 16:30 up to 19h30 (Paris local time).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Confirmed speakers:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;a href=&quot;https://ccanonne.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Clément Canonne &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;a href=&quot;http://www.gautamkamath.com/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Gautam Kamath &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;a href=&quot;https://perso.telecom-paristech.fr/mozharovskyi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Pavlo Mozharovskyi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;a href=&quot;https://statistics.wharton.upenn.edu/profile/suw/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Weije Su &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='5' color='red'&gt;  &lt;/font&gt;&lt;/center&gt;]() 
+ --&gt;
+
+&lt;!-- Sabato, Gao, Minsker, --&gt;
+
+&lt;!-- Daniel Kane --&gt;
+
+&lt;!-- Amandine Dubois --&gt;
+
+&lt;!-- | Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 | --&gt;
+
+&lt;p&gt;&lt;strong&gt;Some words about the conference:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Robustness&lt;/strong&gt; has been studied a lot in statistics since the seminal work of Huber. Many algorithms have also been designed in Machine Learning. However, this subject has witnessed an important renew  during the last 10 years both in the statistical and computer science communities. It involves statistics, optimization, probability and machine learning as mathematical domains.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, &lt;strong&gt;privacy&lt;/strong&gt; has received a lot of attention in the Computer science community because it is a central issue for the security of many sensitive data in finance, economics, administration and, more basically, for keeping customers’ trust in trading. It seems however possible to randomize data in order to ensure a controlled amount of privacy of the individuals while still being able to learn some patterns out of it: this is the cornerstone of privacy. Only  recently, statisticians started to analyze privacy mechanisms. In particular, they discovered several interesting common features between robustness issues and privacy. That is the main motivation on our side to organize a joint conference simultaneously on the two subjects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organization commitee:&lt;/strong&gt;
+Cristina Butucea, Victor-Emmanuel Brunel, Nicolas Chopin,  Arnak Dalalyan, Guillaume Lecué, Matthieu Lerasle, Vianney Perchet and Alexandre Tsybakov.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Info contact&lt;/strong&gt; You can email &lt;a href=&quot;https://lecueguillaume.github.io/about/&quot;&gt;me&lt;/a&gt; for more information.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Feb 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021/02/17/conf_robust_privacy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/17/conf_robust_privacy/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organization of the defenses for the compressed sensing course -- year 2021.</title>
@@ -670,35 +724,6 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
         <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2018/09/12/robust_machine_learning_pisa/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/12/robust_machine_learning_pisa/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>cours d'optimisation différentiable</title>
-        <description>&lt;p&gt;##&lt;strong&gt;Notes de cours&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;cours 1&lt;/em&gt; : &lt;a href=&quot;/assets/intro_opti_diff.pdf&quot;&gt;Introduction à l’optimisation différentiable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2016-2017&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2017_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2017_corrige.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;rattrapage 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2017_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2017-2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2018_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2018.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;rattrapage 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2018_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Feb 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2018/02/27/optimisation_diff-copie/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/27/optimisation_diff-copie/</guid>
         
         
       </item>
