@@ -22,6 +22,7 @@ Each talk will be 25 minutes long followed by a 5 minutes dicussion for question
 [<center><font face="verdana" size='5' color='red'> Tom Berrett </font></center>](https://thomasberrett.github.io) 
 [<center><font face="verdana" size='5' color='red'> Clément Canonne </font></center>](https://ccanonne.github.io)
 [<center><font face="verdana" size='5' color='red'> Yeshwanth Cherapanamjeri </font></center>](https://yeshwanth94.github.io) 
+[<center><font face="verdana" size='5' color='red'> Chao Gao </font></center>](https://www.stat.uchicago.edu/~chaogao/) 
 [<center><font face="verdana" size='5' color='red'> Sam Hopkins </font></center>](https://www.samuelbhopkins.com) 
 [<center><font face="verdana" size='5' color='red'> Gautam Kamath </font></center>](http://www.gautamkamath.com/) 
 [<center><font face="verdana" size='5' color='red'> Pavlo Mozharovskyi </font></center>](https://perso.telecom-paristech.fr/mozharovskyi/)
@@ -45,8 +46,8 @@ Each talk will be 25 minutes long followed by a 5 minutes dicussion for question
 | col 3 is | right-aligned |    $1 | -->
     
 
-
-
+**Support**
+The conference is suported by the mathematical institute of CNRS and the Médiamétrie Chair. 
 
 **Some words about the conference:**
 

@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 13:17:51 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 13:17:51 +0100</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2021 12:46:35 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2021 12:46:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,6 +24,7 @@
 &lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;a href=&quot;https://ccanonne.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Clément Canonne &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
 &lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;a href=&quot;https://www.stat.uchicago.edu/~chaogao/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Chao Gao &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;a href=&quot;http://www.gautamkamath.com/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Gautam Kamath &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;a href=&quot;https://perso.telecom-paristech.fr/mozharovskyi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Pavlo Mozharovskyi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
@@ -43,6 +44,9 @@
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 | --&gt;
+
+&lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt;
+The conference is suported by the mathematical institute of CNRS and the Médiamétrie Chair.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Some words about the conference:&lt;/strong&gt;&lt;/p&gt;
 
@@ -73,14 +77,23 @@ Cristina Butucea, Victor-Emmanuel Brunel, Nicolas Chopin,  Arnak Dalalyan, Guill
 
 &lt;p&gt;&lt;a href=&quot;/assets/liste_projets_20_21.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Group registration deadline : Monday 22 of February at noon&lt;/font&gt;
-&lt;p&gt;(It is a real ‘deadline’: students not registered at that time will not be allowed to sit their exam. Early birds registration is strongly advised: students will have their exam subject soon after their registration. Do not wait too long for your registration!)&lt;/p&gt;
+&lt;!-- 
+&lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Group registration deadline : Monday 22 of February at noon&lt;/font&gt; --&gt;
 
-&lt;p&gt;Students who want to sit this exam are invited to &lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; write a comment at the end of this post &lt;/font&gt;, containing the names (first and last names) of the two members of the group. If some students want to study some particular subject they may also indicate it in their comment. Students may also indicate if they want to do more “theory” or more “applied math” or a “good balance between theory and applications”. Nevertheless, I’m not sure to find a subject in the scope of the request but I will do my best.&lt;/p&gt;
+&lt;p&gt;We now have to organize the defenses of the projects. Please first check your group number &lt;a href=&quot;/assets/organisation_soutenance_cs_20_21_1.pdf&quot;&gt;here&lt;/a&gt;. Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.&lt;/p&gt;
 
-&lt;p&gt;If some student have some difficulties to find a colleague to work with on this exam you can write your name in the first column of this &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1kKdArXOpqIXzLfURuOK65Jcb8moGKbrVvlx9M7l_2E4/edit?usp=sharing&quot;&gt;Google sheet&lt;/a&gt; or contact someone in this Google sheet by your own to construct your group (in that case,  do not forget to erase your name from the Google sheet once you have created your group). I will pair students in this Google sheet on Friday 19th February (check your teammate in the Google sheet on Friday 19th February).&lt;/p&gt;
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Schedule of the project defense&lt;/font&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Soon after registration, every group of two students will be given one or more research articles connected with the course (check regularly on this webpage if a project has been given to your group).&lt;/p&gt;
+&lt;!-- 
+(It is a real 'deadline': students not registered at that time will not be allowed to sit their exam. Early birds registration is strongly advised: students will have their exam subject soon after their registration. Do not wait too long for your registration!) --&gt;
+
+&lt;!-- Students who want to sit this exam are invited to &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; write a comment at the end of this post &lt;/font&gt;, containing the names (first and last names) of the two members of the group. If some students want to study some particular subject they may also indicate it in their comment. Students may also indicate if they want to do more &quot;theory&quot; or more &quot;applied math&quot; or a &quot;good balance between theory and applications&quot;. Nevertheless, I'm not sure to find a subject in the scope of the request but I will do my best.
+
+If some student have some difficulties to find a colleague to work with on this exam you can write your name in the first column of this [Google sheet](https://docs.google.com/spreadsheets/d/1kKdArXOpqIXzLfURuOK65Jcb8moGKbrVvlx9M7l_2E4/edit?usp=sharing) or contact someone in this Google sheet by your own to construct your group (in that case,  do not forget to erase your name from the Google sheet once you have created your group). I will pair students in this Google sheet on Friday 19th February (check your teammate in the Google sheet on Friday 19th February). --&gt;
+
+&lt;!-- 
+Soon after registration, every group of two students will be given one or more research articles connected with the course (check regularly on this webpage if a project has been given to your group).  --&gt;
 
 &lt;p&gt;Several levels of involvement may be considered:&lt;/p&gt;
 
