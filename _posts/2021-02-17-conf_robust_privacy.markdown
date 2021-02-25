@@ -19,14 +19,22 @@ Each talk will be 25 minutes long followed by a 5 minutes dicussion for question
 
 **Confirmed speakers:**
 
+
+
+[<center><font face="verdana" size='5' color='red'> Marco Avella Medina </font></center>](https://sites.google.com/site/marcoavellamedina/home)
 [<center><font face="verdana" size='5' color='red'> Tom Berrett </font></center>](https://thomasberrett.github.io) 
 [<center><font face="verdana" size='5' color='red'> Clément Canonne </font></center>](https://ccanonne.github.io)
+[<center><font face="verdana" size='5' color='red'> Olivier Catoni </font></center>](http://ocatoni.perso.math.cnrs.fr)
 [<center><font face="verdana" size='5' color='red'> Yeshwanth Cherapanamjeri </font></center>](https://yeshwanth94.github.io) 
+[<center><font face="verdana" size='5' color='red'> John Duchi </font></center>](https://web.stanford.edu/~jduchi/) 
 [<center><font face="verdana" size='5' color='red'> Chao Gao </font></center>](https://www.stat.uchicago.edu/~chaogao/) 
 [<center><font face="verdana" size='5' color='red'> Sam Hopkins </font></center>](https://www.samuelbhopkins.com) 
 [<center><font face="verdana" size='5' color='red'> Gautam Kamath </font></center>](http://www.gautamkamath.com/) 
 [<center><font face="verdana" size='5' color='red'> Pavlo Mozharovskyi </font></center>](https://perso.telecom-paristech.fr/mozharovskyi/)
 [<center><font face="verdana" size='5' color='red'> Weije Su </font></center>](https://statistics.wharton.upenn.edu/profile/suw/) 
+
+
+
 
 <!-- [<center><font face="verdana" size='5' color='red'>  </font></center>]() 
  -->
