@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Feb 2021 09:33:18 +0100</pubDate>
-    <lastBuildDate>Thu, 25 Feb 2021 09:33:18 +0100</lastBuildDate>
+    <pubDate>Wed, 03 Mar 2021 14:14:42 +0100</pubDate>
+    <lastBuildDate>Wed, 03 Mar 2021 14:14:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,16 +22,59 @@
 &lt;p&gt;&lt;strong&gt;Confirmed speakers:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sites.google.com/site/marcoavellamedina/home&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Marco Avella Medina &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
-&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;Title: Differentially private inference via noisy optimization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We propose a general optimization-based framework for computing differentially private M-estimators and  a new method for the construction of differentially private confidence regions. Firstly, we show that robust statistics can be used in conjunction with noisy gradient descent and noisy Newton methods in order to obtain optimal private estimators with global linear or quadratic convergence, respectively. We establish global convergence guarantees, under both local strong convexity and self-concordance, showing that our private estimators converge with high probability to a neighborhood of the non-private M-estimators. The radius of this neighborhood is nearly optimal in the sense it corresponds to the statistical minimax cost of differential privacy up to a logarithmic term. Secondly, we tackle the problem of parametric inference by constructing differentially private estimators of the asymptotic variance of our private M-estimators. This naturally leads to the use of approximate pivotal statistics for the construction of confidence regions and hypothesis testing. We demonstrate the effectiveness of a bias correction that leads to enhanced small-sample empirical performance in simulations. We illustrate the benefits of our methods with synthetic numerical examples and real data.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with Casey Bradshaw and Po-Ling Loh.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://ccanonne.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Clément Canonne &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
-&lt;a href=&quot;http://ocatoni.perso.math.cnrs.fr&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Olivier Catoni &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;strong&gt;Title : Lower bounds for high-dimensional estimation under “local” information constraints&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;abstract :&lt;/em&gt; The focus of this talk is distributed parameter estimation using
+interactive protocols subject to “local information constraints.”
+Those constraints include, among others local differential privacy
+(LDP), communication constraints, and restricted measurements.&lt;/p&gt;
+
+&lt;p&gt;I’ll cover recent work which provides a general framework which lets
+us obtain tight lower bounds for both estimation and testing of
+discrete distributions. I’ll then discuss how to extend this framework
+to other parametric families, including mean estimation for product
+distributions over the hypercube and high-dimensional Gaussians.&lt;/p&gt;
+
+&lt;p&gt;Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun, and
+Himanshu Tyagi.&lt;/p&gt;
+
+&lt;p&gt;links to &lt;a href=&quot;https://arxiv.org/abs/2007.10976&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2010.06562&quot;&gt;paper 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ocatoni.perso.math.cnrs.fr&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Olivier Catoni &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://web.stanford.edu/~jduchi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; John Duchi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://www.stat.uchicago.edu/~chaogao/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Chao Gao &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;http://www.gautamkamath.com/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Gautam Kamath &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;a href=&quot;https://perso.telecom-paristech.fr/mozharovskyi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Pavlo Mozharovskyi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
-&lt;a href=&quot;https://statistics.wharton.upenn.edu/profile/suw/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Weije Su &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Title: Differentially Private Mean and Covariance Estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We cover recent progress in minimax rates for differentially private parameter estimation. As a canonical example, how much data do we need to estimate the parameters of a multivariate Gaussian distribution? A particular focus will be placed on qualitative differences with the non-private setting.&lt;/p&gt;
+
+&lt;p&gt;Links to &lt;a href=&quot;https://arxiv.org/abs/1805.00216&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2002.09464&quot;&gt;paper 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://perso.telecom-paristech.fr/mozharovskyi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Pavlo Mozharovskyi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;strong&gt;Title: Approximate computation of projection depths&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Data depth is a concept in multivariate statistics that measures the centrality of a point in a given data cloud in the Euclidean space. If the depth of a point can be represented as the minimum of the depths with respect to all one-dimensional projections of the data, then the depth satisfies the so-called projection property. Such depths form an important class that includes many of the depths that have been proposed in literature. For depths that satisfy the projection property an approximate algorithm can easily be constructed since taking the minimum of the depths with respect to only a finite number of one-dimensional projections yields an upper bound for the depth with respect to the multivariate data. Such an algorithm is particularly useful if no exact algorithm exists or if the exact algorithm has a high computational complexity, as is the case with the halfspace depth or the projection depth. To compute these depths in high dimensions, the use of an approximate algorithm with better complexity is surely preferable. Instead of focusing on a single method we provide a comprehensive and fair comparison of several methods, both already described in the literature and original.&lt;/p&gt;
+
+&lt;p&gt;Link to &lt;a href=&quot;https://arxiv.org/abs/2007.08016&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://statistics.wharton.upenn.edu/profile/suw/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Weije Su &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;&lt;/p&gt;
 
 &lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='5' color='red'&gt;  &lt;/font&gt;&lt;/center&gt;]() 
  --&gt;
@@ -42,11 +85,50 @@
 
 &lt;!-- Amandine Dubois --&gt;
 
-&lt;!-- | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 | --&gt;
+&lt;p&gt;&lt;strong&gt;Schedule (Paris local time)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;center&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;   &lt;/th&gt;
+    &lt;th style=&quot;background-color: yellow&quot;&gt;Monday 22 March&lt;/th&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Tuesday 23 March&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;16:30 -- 17:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Olivier Catoni&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Weije Su&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;17:00 -- 17:30&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Samuel Hopkins&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Tom Berrett&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;17:30 -- 18:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Pavlo Mozharovskyi&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;  Clément Canonne &lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;18:00 -- 18:30&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Gautam Kamath&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Yeshwanth Cherapanamjeri  &lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;18:30 -- 19:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Marco Avella Medina&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;  Chao Gao &lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;19:00 -- 19:30&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;John Duchi&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;   &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+
+&lt;/center&gt;
 
 &lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt;
 The conference is suported by the mathematical institute of CNRS and the Médiamétrie Chair.&lt;/p&gt;
@@ -690,7 +772,7 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
 
 &lt;p&gt;#&lt;em&gt;Chapitre 7&lt;/em&gt; : &lt;a href=&quot;/assets/dualite_lagrangienne.pdf&quot;&gt;Dualité Lagrangienne&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;em&gt;Liste d’exercices&lt;/em&gt; : &lt;a href=&quot;/assets/td-doptimisation-ensae.pdf&quot;&gt;polycopié d’exercices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#&lt;em&gt;Liste d’exercices&lt;/em&gt; : &lt;a href=&quot;/assets/td-doptimisation-ensae.pdf&quot;&gt;polycopié d’exercices&lt;/a&gt; et les &lt;a href=&quot;/assets/corrections_tds.pdf&quot;&gt;corrigés&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;##&lt;strong&gt;Examens 2016-2017&lt;/strong&gt;&lt;/p&gt;
 

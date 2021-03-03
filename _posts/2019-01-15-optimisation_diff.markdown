@@ -21,7 +21,7 @@ date:   2019-01-15
 
 #*Chapitre 7* : [Dualité Lagrangienne](/assets/dualite_lagrangienne.pdf)
 
-#*Liste d'exercices* : [polycopié d'exercices](/assets/td-doptimisation-ensae.pdf)
+#*Liste d'exercices* : [polycopié d'exercices](/assets/td-doptimisation-ensae.pdf) et les [corrigés](/assets/corrections_tds.pdf)
 
 
 ##**Examens 2016-2017**
