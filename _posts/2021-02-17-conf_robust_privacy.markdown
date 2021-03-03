@@ -107,7 +107,7 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
   <tr>
     <td>17:00 -- 17:30</td>
     <td style="background-color: yellow">Samuel Hopkins</td>
-    <th style="background-color: red">Tom Berrett</th>
+    <th style="background-color: red">Gautam Kamath </th>
   </tr>
     <tr>
     <td>17:30 -- 18:00</td>
@@ -116,7 +116,7 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
   </tr>
     <tr>
     <td>18:00 -- 18:30</td>
-    <td style="background-color: yellow">Gautam Kamath</td>
+    <td style="background-color: yellow">Tom Berrett </td>
     <th style="background-color: red"> Yeshwanth Cherapanamjeri  </th>
   </tr>
     <tr>
