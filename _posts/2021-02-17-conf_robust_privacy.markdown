@@ -126,12 +126,12 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
     <tr>
     <td>18:30 -- 19:00</td>
     <td style="background-color: yellow">Marco Avella Medina</td>
-    <th style="background-color: red">  Chao Gao </th>
+    <th style="background-color: red"> Jules Depersin  </th>
   </tr>
     <tr>
     <td>19:00 -- 19:30</td>
     <td style="background-color: yellow">John Duchi</td>
-    <th style="background-color: red">   </th>
+    <th style="background-color: red"> Chao Gao  </th>
   </tr>
 </table>
 
