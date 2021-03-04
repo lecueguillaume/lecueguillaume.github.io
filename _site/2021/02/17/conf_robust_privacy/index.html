@@ -93,24 +93,25 @@
 
 <p>This is joint work with Casey Bradshaw and Po-Ling Loh.</p>
 
-<p><a href="https://thomasberrett.github.io"><center><font face="verdana" size="5" color="red"> Tom Berrett </font></center></a> 
-<strong>TBA</strong>
-<a href="https://ccanonne.github.io"><center><font face="verdana" size="5" color="red"> Clément Canonne </font></center></a>
-<strong>Title : Lower bounds for high-dimensional estimation under “local” information constraints</strong></p>
+<p><a href="https://thomasberrett.github.io"><center><font face="verdana" size="5" color="red"> Tom Berrett </font></center></a></p>
 
-<p><em>abstract :</em> The focus of this talk is distributed parameter estimation using
-interactive protocols subject to “local information constraints.”
-Those constraints include, among others local differential privacy
-(LDP), communication constraints, and restricted measurements.</p>
+<p><strong>Title: Locally private non-asymptotic testing of discrete distributions is faster using interactive mechanisms</strong></p>
 
-<p>I’ll cover recent work which provides a general framework which lets
-us obtain tight lower bounds for both estimation and testing of
-discrete distributions. I’ll then discuss how to extend this framework
-to other parametric families, including mean estimation for product
-distributions over the hypercube and high-dimensional Gaussians.</p>
+<p><em>abstract:</em> In this talk I will present recent work on goodness-of-fit testing under local differential privacy constraints. There are two broad classes of locally private procedures: simple non-interactive procedures and interactive procedures where communication is allowed between individual data holders. One of the main conclusions of our work is that the minimax separation rates are significantly faster using interactive mechanisms.</p>
 
-<p>Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun, and
-Himanshu Tyagi.</p>
+<p>We find the minimax separation rates for testing multinomial or more general discrete distributions. Our upper bounds are found by constructing efficient randomized algorithms and test procedures, in both the case where only non-interactive privacy mechanisms are allowed and also in the case where all sequentially interactive privacy mechanisms are allowed, and establish a gap between the rates. We prove general information theoretical bounds that allow us to establish the optimality of our algorithms among all pairs of privacy mechanisms and test procedures, in most usual cases. Considered examples include testing uniform, polynomially and exponentially decreasing distributions.</p>
+
+<p>link to  <a href="https://papers.nips.cc/paper/2020/hash/20b02dc95171540bc52912baf3aa709d-Abstract.html">paper</a></p>
+
+<p><a href="https://ccanonne.github.io"><center><font face="verdana" size="5" color="red"> Clément Canonne </font></center></a>
+<strong>Title: Lower bounds for high-dimensional estimation under “local” information constraints</strong></p>
+
+<p><em>abstract:</em> The focus of this talk is distributed parameter estimation using interactive protocols subject to “local information constraints.”
+Those constraints include, among others local differential privacy (LDP), communication constraints, and restricted measurements.</p>
+
+<p>I’ll cover recent work which provides a general framework which lets us obtain tight lower bounds for both estimation and testing of discrete distributions. I’ll then discuss how to extend this framework to other parametric families, including mean estimation for product distributions over the hypercube and high-dimensional Gaussians.</p>
+
+<p>Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun and Himanshu Tyagi.</p>
 
 <p>links to <a href="https://arxiv.org/abs/2007.10976">paper 1</a> and <a href="https://arxiv.org/abs/2010.06562">paper 2</a></p>
 
@@ -119,14 +120,26 @@ Himanshu Tyagi.</p>
 <a href="https://yeshwanth94.github.io"><center><font face="verdana" size="5" color="red"> Yeshwanth Cherapanamjeri </font></center></a> 
 <strong>TBA</strong>
 <a href="https://julesdepersin.github.io"><center><font face="verdana" size="5" color="red"> Jules Depersin </font></center></a> 
-<strong>TBA</strong>
-<a href="https://web.stanford.edu/~jduchi/"><center><font face="verdana" size="5" color="red"> John Duchi </font></center></a> 
+<strong>Title: Using VC-dimension in robust estimation</strong></p>
+
+<p><em>abstract:</em> Median-of-means (MOM) based procedures provide non-asymptotic and strong deviation bounds even when data are heavy-tailed and/or corrupted. We will try to explain how those procedures can easily be adapted to a number of different statistical problems, and we will give the general ways to bound the excess risk for MOM estimators, with an emphasis on the different notions of statistical complexity (VC dimension, Rademacher complexity) that can be used to do so. We will see that each classical notion of complexity is suboptimal in its own way, leaving open the question of the optimal way to measure the statistical complexity of robust estimation problems.</p>
+
+<p>Link to <a href="https://arxiv.org/abs/2004.11734">paper</a></p>
+
+<p><a href="https://web.stanford.edu/~jduchi/"><center><font face="verdana" size="5" color="red"> John Duchi </font></center></a> 
 <strong>TBA</strong>
 <a href="https://www.stat.uchicago.edu/~chaogao/"><center><font face="verdana" size="5" color="red"> Chao Gao </font></center></a> 
 <strong>TBA</strong>
 <a href="https://www.samuelbhopkins.com"><center><font face="verdana" size="5" color="red"> Sam Hopkins </font></center></a> 
-<strong>TBA</strong>
-<a href="http://www.gautamkamath.com/"><center><font face="verdana" size="5" color="red"> Gautam Kamath </font></center></a> 
+<strong>Title: Robustly Learning any Clusterable Mixture of Gaussians</strong></p>
+
+<p><em>Abstract:</em> We study the efficient learnability of high-dimensional Gaussian mixtures in the outlier-robust setting, where a small constant fraction of the data is adversarially corrupted. We resolve the polynomial learnability of this problem when the components are pairwise separated in total variation distance. Specifically, we provide an algorithm that, for any constant number of components \( k \), runs in polynomial time and learns the components of an \( \epsilon \)-corrupted \( k \)-mixture within information theoretically near-optimal error of \( O(\epsilon) \), under the assumption that the overlap between any pair of components \( Pi,Pj \) (i.e., the quantity \( 1−TV(Pi,Pj)\)) is bounded by poly(\( \epsilon \))).</p>
+
+<p>Our separation condition is the qualitatively weakest assumption under which accurate clustering of the samples is possible. In particular, it allows for components with arbitrary covariances and for components with identical means, as long as their covariances differ sufficiently. Ours is the first polynomial time algorithm for this problem, even for \( k=2 \).</p>
+
+<p>Our algorithm follows the Sum-of-Squares based proofs to algorithms approach. Our main technical contribution is a new robust identifiability proof of clusters from a Gaussian mixture, which can be captured by the constant-degree Sum of Squares proof system. The key ingredients of this proof are a novel use of SoS-certifiable anti-concentration and a new characterization of pairs of Gaussians with small (dimension-independent) overlap in terms of their parameter distance.</p>
+
+<p><a href="http://www.gautamkamath.com/"><center><font face="verdana" size="5" color="red"> Gautam Kamath </font></center></a> 
 <strong>Title: Differentially Private Mean and Covariance Estimation</strong></p>
 
 <p><em>Abstract:</em> We cover recent progress in minimax rates for differentially private parameter estimation. As a canonical example, how much data do we need to estimate the parameters of a multivariate Gaussian distribution? A particular focus will be placed on qualitative differences with the non-private setting.</p>
@@ -215,6 +228,9 @@ Cristina Butucea, Victor-Emmanuel Brunel, Nicolas Chopin,  Arnak Dalalyan, Guill
 
 
   </article>
+
+  <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
   
   <!-- Add Disqus comments. -->

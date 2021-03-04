@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Mar 2021 12:29:49 +0100</pubDate>
-    <lastBuildDate>Thu, 04 Mar 2021 12:29:49 +0100</lastBuildDate>
+    <pubDate>Thu, 04 Mar 2021 16:36:52 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Mar 2021 16:36:52 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -28,24 +28,25 @@
 
 &lt;p&gt;This is joint work with Casey Bradshaw and Po-Ling Loh.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://ccanonne.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Clément Canonne &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
-&lt;strong&gt;Title : Lower bounds for high-dimensional estimation under “local” information constraints&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;abstract :&lt;/em&gt; The focus of this talk is distributed parameter estimation using
-interactive protocols subject to “local information constraints.”
-Those constraints include, among others local differential privacy
-(LDP), communication constraints, and restricted measurements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title: Locally private non-asymptotic testing of discrete distributions is faster using interactive mechanisms&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ll cover recent work which provides a general framework which lets
-us obtain tight lower bounds for both estimation and testing of
-discrete distributions. I’ll then discuss how to extend this framework
-to other parametric families, including mean estimation for product
-distributions over the hypercube and high-dimensional Gaussians.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;abstract:&lt;/em&gt; In this talk I will present recent work on goodness-of-fit testing under local differential privacy constraints. There are two broad classes of locally private procedures: simple non-interactive procedures and interactive procedures where communication is allowed between individual data holders. One of the main conclusions of our work is that the minimax separation rates are significantly faster using interactive mechanisms.&lt;/p&gt;
 
-&lt;p&gt;Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun, and
-Himanshu Tyagi.&lt;/p&gt;
+&lt;p&gt;We find the minimax separation rates for testing multinomial or more general discrete distributions. Our upper bounds are found by constructing efficient randomized algorithms and test procedures, in both the case where only non-interactive privacy mechanisms are allowed and also in the case where all sequentially interactive privacy mechanisms are allowed, and establish a gap between the rates. We prove general information theoretical bounds that allow us to establish the optimality of our algorithms among all pairs of privacy mechanisms and test procedures, in most usual cases. Considered examples include testing uniform, polynomially and exponentially decreasing distributions.&lt;/p&gt;
+
+&lt;p&gt;link to  &lt;a href=&quot;https://papers.nips.cc/paper/2020/hash/20b02dc95171540bc52912baf3aa709d-Abstract.html&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ccanonne.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Clément Canonne &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
+&lt;strong&gt;Title: Lower bounds for high-dimensional estimation under “local” information constraints&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;abstract:&lt;/em&gt; The focus of this talk is distributed parameter estimation using interactive protocols subject to “local information constraints.”
+Those constraints include, among others local differential privacy (LDP), communication constraints, and restricted measurements.&lt;/p&gt;
+
+&lt;p&gt;I’ll cover recent work which provides a general framework which lets us obtain tight lower bounds for both estimation and testing of discrete distributions. I’ll then discuss how to extend this framework to other parametric families, including mean estimation for product distributions over the hypercube and high-dimensional Gaussians.&lt;/p&gt;
+
+&lt;p&gt;Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun and Himanshu Tyagi.&lt;/p&gt;
 
 &lt;p&gt;links to &lt;a href=&quot;https://arxiv.org/abs/2007.10976&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2010.06562&quot;&gt;paper 2&lt;/a&gt;&lt;/p&gt;
 
@@ -54,14 +55,26 @@ Himanshu Tyagi.&lt;/p&gt;
 &lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://julesdepersin.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Jules Depersin &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://web.stanford.edu/~jduchi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; John Duchi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;Title: Using VC-dimension in robust estimation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;abstract:&lt;/em&gt; Median-of-means (MOM) based procedures provide non-asymptotic and strong deviation bounds even when data are heavy-tailed and/or corrupted. We will try to explain how those procedures can easily be adapted to a number of different statistical problems, and we will give the general ways to bound the excess risk for MOM estimators, with an emphasis on the different notions of statistical complexity (VC dimension, Rademacher complexity) that can be used to do so. We will see that each classical notion of complexity is suboptimal in its own way, leaving open the question of the optimal way to measure the statistical complexity of robust estimation problems.&lt;/p&gt;
+
+&lt;p&gt;Link to &lt;a href=&quot;https://arxiv.org/abs/2004.11734&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web.stanford.edu/~jduchi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; John Duchi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://www.stat.uchicago.edu/~chaogao/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Chao Gao &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;http://www.gautamkamath.com/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Gautam Kamath &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;Title: Robustly Learning any Clusterable Mixture of Gaussians&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We study the efficient learnability of high-dimensional Gaussian mixtures in the outlier-robust setting, where a small constant fraction of the data is adversarially corrupted. We resolve the polynomial learnability of this problem when the components are pairwise separated in total variation distance. Specifically, we provide an algorithm that, for any constant number of components \( k \), runs in polynomial time and learns the components of an \( \epsilon \)-corrupted \( k \)-mixture within information theoretically near-optimal error of \( O(\epsilon) \), under the assumption that the overlap between any pair of components \( Pi,Pj \) (i.e., the quantity \( 1−TV(Pi,Pj)\)) is bounded by poly(\( \epsilon \))).&lt;/p&gt;
+
+&lt;p&gt;Our separation condition is the qualitatively weakest assumption under which accurate clustering of the samples is possible. In particular, it allows for components with arbitrary covariances and for components with identical means, as long as their covariances differ sufficiently. Ours is the first polynomial time algorithm for this problem, even for \( k=2 \).&lt;/p&gt;
+
+&lt;p&gt;Our algorithm follows the Sum-of-Squares based proofs to algorithms approach. Our main technical contribution is a new robust identifiability proof of clusters from a Gaussian mixture, which can be captured by the constant-degree Sum of Squares proof system. The key ingredients of this proof are a novel use of SoS-certifiable anti-concentration and a new characterization of pairs of Gaussians with small (dimension-independent) overlap in terms of their parameter distance.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gautamkamath.com/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Gautam Kamath &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;Title: Differentially Private Mean and Covariance Estimation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We cover recent progress in minimax rates for differentially private parameter estimation. As a canonical example, how much data do we need to estimate the parameters of a multivariate Gaussian distribution? A particular focus will be placed on qualitative differences with the non-private setting.&lt;/p&gt;
