@@ -75,8 +75,12 @@ Link to [paper](https://arxiv.org/abs/2004.11734)
 
 [<center><font face="verdana" size='5' color='red'> John Duchi </font></center>](https://web.stanford.edu/~jduchi/) 
 **TBA**
+
 [<center><font face="verdana" size='5' color='red'> Chao Gao </font></center>](https://www.stat.uchicago.edu/~chaogao/) 
-**TBA**
+**title: Robust Regression with Contamination**
+
+*abstract:* We study regression with contaminated observations. We will discuss different results depending on whether both the responses and the covariates are contaminated or only the responses are contaminated. General minimax rates are derived based on regression depth functions when both the responses and the covariates are contaminated. The result implies consistency is possible only if the contamination proportion is vanishing. In comparison, we show that when the covariates are clean, consistent robust regression is actually possible even when the contamination proportion approaches one. A near-optimal procedure in this case is the simple median regression. Applications of the second setting in model repair problems will also be discussed.
+
 [<center><font face="verdana" size='5' color='red'> Sam Hopkins </font></center>](https://www.samuelbhopkins.com) 
 **Title: Robustly Learning any Clusterable Mixture of Gaussians**
 

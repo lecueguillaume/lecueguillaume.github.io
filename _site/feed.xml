@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Mar 2021 16:36:52 +0100</pubDate>
-    <lastBuildDate>Thu, 04 Mar 2021 16:36:52 +0100</lastBuildDate>
+    <pubDate>Fri, 05 Mar 2021 14:55:43 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Mar 2021 14:55:43 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -62,10 +62,14 @@ Those constraints include, among others local differential privacy (LDP), commun
 &lt;p&gt;Link to &lt;a href=&quot;https://arxiv.org/abs/2004.11734&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://web.stanford.edu/~jduchi/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; John Duchi &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://www.stat.uchicago.edu/~chaogao/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Chao Gao &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;TBA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.stat.uchicago.edu/~chaogao/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Chao Gao &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;title: Robust Regression with Contamination&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;abstract:&lt;/em&gt; We study regression with contaminated observations. We will discuss different results depending on whether both the responses and the covariates are contaminated or only the responses are contaminated. General minimax rates are derived based on regression depth functions when both the responses and the covariates are contaminated. The result implies consistency is possible only if the contamination proportion is vanishing. In comparison, we show that when the covariates are clean, consistent robust regression is actually possible even when the contamination proportion approaches one. A near-optimal procedure in this case is the simple median regression. Applications of the second setting in model repair problems will also be discussed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.samuelbhopkins.com&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Sam Hopkins &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;Title: Robustly Learning any Clusterable Mixture of Gaussians&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We study the efficient learnability of high-dimensional Gaussian mixtures in the outlier-robust setting, where a small constant fraction of the data is adversarially corrupted. We resolve the polynomial learnability of this problem when the components are pairwise separated in total variation distance. Specifically, we provide an algorithm that, for any constant number of components \( k \), runs in polynomial time and learns the components of an \( \epsilon \)-corrupted \( k \)-mixture within information theoretically near-optimal error of \( O(\epsilon) \), under the assumption that the overlap between any pair of components \( Pi,Pj \) (i.e., the quantity \( 1−TV(Pi,Pj)\)) is bounded by poly(\( \epsilon \))).&lt;/p&gt;
