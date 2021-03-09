@@ -58,11 +58,16 @@ I'll cover recent work which provides a general framework which lets us obtain t
 
 Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun and Himanshu Tyagi.
 
-links to [paper 1](https://arxiv.org/abs/2007.10976) and [paper 2](https://arxiv.org/abs/2010.06562)
+Links to [paper 1](https://arxiv.org/abs/2007.10976) and [paper 2](https://arxiv.org/abs/2010.06562)
 
 
 [<center><font face="verdana" size='5' color='red'> Olivier Catoni </font></center>](http://ocatoni.perso.math.cnrs.fr)
-**TBA**
+**Means and $k$-means: dimension free  PAC-Bayesian bounds for some robust estimators**
+
+*[abstract:](/assets/abstract_olivier_catoni.pdf)* We will show, through results obtained in collaboratiton with Ilaria Giulini and Gautier Appert, how PAC-Bayesian  bounds can be used as an alternative to other methods to prove concentration inequalities and complexity bounds. We will take the example of the robust estimation of the mean of a random vector. We will then discuss the problem of vector quantization according to a robust modification of the $k$-means loss function.
+
+Links to [paper 1](https://arxiv.org/abs/2101.05728), [paper 2](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-48/issue-4/Challenging-the-empirical-mean-and-empirical-variance--A-deviation/10.1214/11-AIHP454.full), [paper 3](https://bguedj.github.io/nips2017/pdf/PAC-Bayes_2017_paper_1.pdf) and [paper 4](https://arxiv.org/abs/1712.02747).
+
 [<center><font face="verdana" size='5' color='red'> Yeshwanth Cherapanamjeri </font></center>](https://yeshwanth94.github.io) 
 **TBA**
 [<center><font face="verdana" size='5' color='red'> Jules Depersin </font></center>](https://julesdepersin.github.io) 

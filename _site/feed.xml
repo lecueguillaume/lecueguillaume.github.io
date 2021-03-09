@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Mar 2021 14:29:06 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Mar 2021 14:29:06 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Mar 2021 09:34:28 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Mar 2021 09:34:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -48,11 +48,16 @@ Those constraints include, among others local differential privacy (LDP), commun
 
 &lt;p&gt;Based on joint works with Jayadev Acharya, Yuhan Liu, Ziteng Sun and Himanshu Tyagi.&lt;/p&gt;
 
-&lt;p&gt;links to &lt;a href=&quot;https://arxiv.org/abs/2007.10976&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2010.06562&quot;&gt;paper 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links to &lt;a href=&quot;https://arxiv.org/abs/2007.10976&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2010.06562&quot;&gt;paper 2&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://ocatoni.perso.math.cnrs.fr&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Olivier Catoni &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;Means and $k$-means: dimension free  PAC-Bayesian bounds for some robust estimators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/assets/abstract_olivier_catoni.pdf&quot;&gt;abstract:&lt;/a&gt;&lt;/em&gt; We will show, through results obtained in collaboratiton with Ilaria Giulini and Gautier Appert, how PAC-Bayesian  bounds can be used as an alternative to other methods to prove concentration inequalities and complexity bounds. We will take the example of the robust estimation of the mean of a random vector. We will then discuss the problem of vector quantization according to a robust modification of the $k$-means loss function.&lt;/p&gt;
+
+&lt;p&gt;Links to &lt;a href=&quot;https://arxiv.org/abs/2101.05728&quot;&gt;paper 1&lt;/a&gt;, &lt;a href=&quot;https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-48/issue-4/Challenging-the-empirical-mean-and-empirical-variance--A-deviation/10.1214/11-AIHP454.full&quot;&gt;paper 2&lt;/a&gt;, &lt;a href=&quot;https://bguedj.github.io/nips2017/pdf/PAC-Bayes_2017_paper_1.pdf&quot;&gt;paper 3&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/1712.02747&quot;&gt;paper 4&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;TBA&lt;/strong&gt;
 &lt;a href=&quot;https://julesdepersin.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Jules Depersin &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;Title: Using VC-dimension in robust estimation&lt;/strong&gt;&lt;/p&gt;
