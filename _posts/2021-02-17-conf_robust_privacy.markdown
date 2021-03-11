@@ -69,7 +69,15 @@ Links to [paper 1](https://arxiv.org/abs/2007.10976) and [paper 2](https://arxiv
 Links to [paper 1](https://arxiv.org/abs/2101.05728), [paper 2](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-48/issue-4/Challenging-the-empirical-mean-and-empirical-variance--A-deviation/10.1214/11-AIHP454.full), [paper 3](https://bguedj.github.io/nips2017/pdf/PAC-Bayes_2017_paper_1.pdf) and [paper 4](https://arxiv.org/abs/1712.02747).
 
 [<center><font face="verdana" size='5' color='red'> Yeshwanth Cherapanamjeri </font></center>](https://yeshwanth94.github.io) 
-**TBA**
+**Title: Optimal Mean Estimation without a Variance**
+
+*Abstract:* Estimating the mean of a distribution from i.i.d samples is a fundamental statistical task. In this talk, we will focus on the high dimensional setting where we will design estimators achieving optimal recovery guarantees in terms of all relevant parameters. While optimal one dimensional estimators have been known since the 80s (Nemirovskii and Yudin '83), optimal estimators in high dimensions have only been discovered recently beginning with the seminal work of Lugosi and Mendelson in 2017 and subsequent work has led to computationally efficient variants of these estimators (Hopkins 2018). We will discuss statistical and computational extensions of these results by developing optimal estimators for settings where the data distribution only obeys a finite fractional moment condition as opposed to the existence of a second moment as assumed previously. 
+
+Joint work with Peter Bartlett, Nicolas Flammarion, Michael I. Jordan and Nilesh Tripuraneni.
+
+The talk will be based on the following papers: [paper 1](https://arxiv.org/abs/2011.12433) and [paper 2](https://arxiv.org/abs/1902.01998).
+
+
 [<center><font face="verdana" size='5' color='red'> Jules Depersin </font></center>](https://julesdepersin.github.io) 
 **Title: Using VC-dimension in robust estimation**
 

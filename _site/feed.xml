@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Mar 2021 09:34:28 +0100</pubDate>
-    <lastBuildDate>Tue, 09 Mar 2021 09:34:28 +0100</lastBuildDate>
+    <pubDate>Thu, 11 Mar 2021 12:53:05 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Mar 2021 12:53:05 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -58,8 +58,15 @@ Those constraints include, among others local differential privacy (LDP), commun
 &lt;p&gt;Links to &lt;a href=&quot;https://arxiv.org/abs/2101.05728&quot;&gt;paper 1&lt;/a&gt;, &lt;a href=&quot;https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-48/issue-4/Challenging-the-empirical-mean-and-empirical-variance--A-deviation/10.1214/11-AIHP454.full&quot;&gt;paper 2&lt;/a&gt;, &lt;a href=&quot;https://bguedj.github.io/nips2017/pdf/PAC-Bayes_2017_paper_1.pdf&quot;&gt;paper 3&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/1712.02747&quot;&gt;paper 4&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://yeshwanth94.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Yeshwanth Cherapanamjeri &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;TBA&lt;/strong&gt;
-&lt;a href=&quot;https://julesdepersin.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Jules Depersin &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
+&lt;strong&gt;Title: Optimal Mean Estimation without a Variance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Estimating the mean of a distribution from i.i.d samples is a fundamental statistical task. In this talk, we will focus on the high dimensional setting where we will design estimators achieving optimal recovery guarantees in terms of all relevant parameters. While optimal one dimensional estimators have been known since the 80s (Nemirovskii and Yudin ‘83), optimal estimators in high dimensions have only been discovered recently beginning with the seminal work of Lugosi and Mendelson in 2017 and subsequent work has led to computationally efficient variants of these estimators (Hopkins 2018). We will discuss statistical and computational extensions of these results by developing optimal estimators for settings where the data distribution only obeys a finite fractional moment condition as opposed to the existence of a second moment as assumed previously.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Peter Bartlett, Nicolas Flammarion, Michael I. Jordan and Nilesh Tripuraneni.&lt;/p&gt;
+
+&lt;p&gt;The talk will be based on the following papers: &lt;a href=&quot;https://arxiv.org/abs/2011.12433&quot;&gt;paper 1&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/1902.01998&quot;&gt;paper 2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://julesdepersin.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Jules Depersin &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
 &lt;strong&gt;Title: Using VC-dimension in robust estimation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;abstract:&lt;/em&gt; Median-of-means (MOM) based procedures provide non-asymptotic and strong deviation bounds even when data are heavy-tailed and/or corrupted. We will try to explain how those procedures can easily be adapted to a number of different statistical problems, and we will give the general ways to bound the excess risk for MOM estimators, with an emphasis on the different notions of statistical complexity (VC dimension, Rademacher complexity) that can be used to do so. We will see that each classical notion of complexity is suboptimal in its own way, leaving open the question of the optimal way to measure the statistical complexity of robust estimation problems.&lt;/p&gt;
