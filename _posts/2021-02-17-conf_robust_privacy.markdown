@@ -119,9 +119,9 @@ Links to [paper 1](https://arxiv.org/abs/1805.00216) and [paper 2](https://arxiv
 Link to [paper](https://arxiv.org/abs/2007.08016)
 
 [<center><font face="verdana" size='5' color='red'> Weijie Su </font></center>](https://statistics.wharton.upenn.edu/profile/suw/) 
-**Title:** A Central Limit Theorem for Differentially Private Query Answering
+**Title: A Central Limit Theorem for Differentially Private Query Answering**
 
-*Abstract:* Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to $\e^{-\|x\|_p^\alpha}$, where $\|x\|_p$ is the standard $\ell_p$-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer--Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the $\ell_2$-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.
+*Abstract:* Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to \\(\exp(-\|x\|_p^\alpha)\\), where \\(\|x\|_p\\) is the standard \\(\ell_p\\)-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer--Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the \\(\ell_2\\)-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.
 
 
 
@@ -156,17 +156,22 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
     <th style="background-color: red">Gautam Kamath </th>
   </tr>
     <tr>
-    <td>17:30 -- 18:00</td>
+    <td>17:00 -- 17:10</td>
+    <td style="background-color: yellow">BREAK</td>
+    <th style="background-color: red">BREAK </th>
+  </tr>
+    <tr>
+    <td>17:40 -- 18:10</td>
     <td style="background-color: yellow">Pavlo Mozharovskyi</td>
     <th style="background-color: red">  Clément Canonne </th>
   </tr>
     <tr>
-    <td>18:00 -- 18:30</td>
+    <td>18:10 -- 18:40</td>
     <td style="background-color: yellow">Tom Berrett </td>
     <th style="background-color: red"> Yeshwanth Cherapanamjeri  </th>
   </tr>
     <tr>
-    <td>18:30 -- 19:00</td>
+    <td>18:40 -- 19:10</td>
     <td style="background-color: yellow">Marco Avella Medina</td>
     <th style="background-color: red"> Jules Depersin  </th>
   </tr>

@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Mar 2021 12:53:05 +0100</pubDate>
-    <lastBuildDate>Thu, 11 Mar 2021 12:53:05 +0100</lastBuildDate>
+    <pubDate>Fri, 12 Mar 2021 16:36:23 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Mar 2021 16:36:23 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -105,9 +105,9 @@ Those constraints include, among others local differential privacy (LDP), commun
 &lt;p&gt;Link to &lt;a href=&quot;https://arxiv.org/abs/2007.08016&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://statistics.wharton.upenn.edu/profile/suw/&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Weijie Su &lt;/font&gt;&lt;/center&gt;&lt;/a&gt; 
-&lt;strong&gt;Title:&lt;/strong&gt; A Central Limit Theorem for Differentially Private Query Answering&lt;/p&gt;
+&lt;strong&gt;Title: A Central Limit Theorem for Differentially Private Query Answering&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to $\e^{-|x|_p^\alpha}$, where $|x|_p$ is the standard $\ell_p$-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer–Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the $\ell_2$-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to \(\exp(-|x|_p^\alpha)\), where \(|x|_p\) is the standard \(\ell_p\)-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer–Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the \(\ell_2\)-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.&lt;/p&gt;
 
 &lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='5' color='red'&gt;  &lt;/font&gt;&lt;/center&gt;]() 
  --&gt;
@@ -139,17 +139,22 @@ Those constraints include, among others local differential privacy (LDP), commun
     &lt;th style=&quot;background-color: red&quot;&gt;Gautam Kamath &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;17:30 -- 18:00&lt;/td&gt;
+    &lt;td&gt;17:00 -- 17:10&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;BREAK&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;BREAK &lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;17:40 -- 18:10&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;Pavlo Mozharovskyi&lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt;  Clément Canonne &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;18:00 -- 18:30&lt;/td&gt;
+    &lt;td&gt;18:10 -- 18:40&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;Tom Berrett &lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt; Yeshwanth Cherapanamjeri  &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;18:30 -- 19:00&lt;/td&gt;
+    &lt;td&gt;18:40 -- 19:10&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;Marco Avella Medina&lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt; Jules Depersin  &lt;/th&gt;
   &lt;/tr&gt;
