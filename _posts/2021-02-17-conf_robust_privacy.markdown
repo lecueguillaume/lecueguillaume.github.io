@@ -21,7 +21,7 @@ The registration is free but mandatory; a Zoom link will be sent to all particip
 
 
 
-Each talk will be 25 minutes long followed by a 5 minutes dicussion for questions. The conference should start on Monday 22th of March and Tuesday 23rd of March at 16:30 up to 19h30 (Paris local time).
+Each talk will be 25 minutes long followed by a 5 minutes dicussion for questions. The conference should start on Monday 22th of March and Tuesday 23rd of March at 16:30 up to 19h40 (Paris local time).
 
 
 **Confirmed speakers:**
@@ -156,14 +156,14 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
     <th style="background-color: red">Gautam Kamath </th>
   </tr>
     <tr>
-    <td>17:00 -- 17:10</td>
-    <td style="background-color: yellow">BREAK</td>
-    <th style="background-color: red">BREAK </th>
+    <td>17:30 -- 18:00</td>
+    <td style="background-color: yellow"> Pavlo Mozharovskyi</td>
+    <th style="background-color: red">Clément Canonne </th>
   </tr>
     <tr>
-    <td>17:40 -- 18:10</td>
-    <td style="background-color: yellow">Pavlo Mozharovskyi</td>
-    <th style="background-color: red">  Clément Canonne </th>
+    <td>18:00 -- 18:10</td>
+    <td style="background-color: yellow">BREAK </td>
+    <th style="background-color: red"> BREAK  </th>
   </tr>
     <tr>
     <td>18:10 -- 18:40</td>
@@ -176,7 +176,7 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
     <th style="background-color: red"> Jules Depersin  </th>
   </tr>
     <tr>
-    <td>19:00 -- 19:30</td>
+    <td>19:10 -- 19:40</td>
     <td style="background-color: yellow">John Duchi</td>
     <th style="background-color: red"> Chao Gao  </th>
   </tr>

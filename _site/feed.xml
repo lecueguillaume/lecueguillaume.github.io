@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Mar 2021 16:36:23 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Mar 2021 16:36:23 +0100</lastBuildDate>
+    <pubDate>Mon, 15 Mar 2021 08:51:07 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Mar 2021 08:51:07 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,7 +17,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSf_yZApHaZVZ791DXR-sAP--R_bnkeJ6EEKr_F0qNDrWFmUiw/viewform?vc=0&amp;amp;c=0&amp;amp;w=1&amp;amp;flr=0&amp;amp;usp=mail_form_link&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;blue&quot;&gt; register here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Each talk will be 25 minutes long followed by a 5 minutes dicussion for questions. The conference should start on Monday 22th of March and Tuesday 23rd of March at 16:30 up to 19h30 (Paris local time).&lt;/p&gt;
+&lt;p&gt;Each talk will be 25 minutes long followed by a 5 minutes dicussion for questions. The conference should start on Monday 22th of March and Tuesday 23rd of March at 16:30 up to 19h40 (Paris local time).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Confirmed speakers:&lt;/strong&gt;&lt;/p&gt;
 
@@ -139,14 +139,14 @@ Those constraints include, among others local differential privacy (LDP), commun
     &lt;th style=&quot;background-color: red&quot;&gt;Gautam Kamath &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;17:00 -- 17:10&lt;/td&gt;
-    &lt;td style=&quot;background-color: yellow&quot;&gt;BREAK&lt;/td&gt;
-    &lt;th style=&quot;background-color: red&quot;&gt;BREAK &lt;/th&gt;
+    &lt;td&gt;17:30 -- 18:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt; Pavlo Mozharovskyi&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Clément Canonne &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;17:40 -- 18:10&lt;/td&gt;
-    &lt;td style=&quot;background-color: yellow&quot;&gt;Pavlo Mozharovskyi&lt;/td&gt;
-    &lt;th style=&quot;background-color: red&quot;&gt;  Clément Canonne &lt;/th&gt;
+    &lt;td&gt;18:00 -- 18:10&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;BREAK &lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; BREAK  &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
     &lt;td&gt;18:10 -- 18:40&lt;/td&gt;
@@ -159,7 +159,7 @@ Those constraints include, among others local differential privacy (LDP), commun
     &lt;th style=&quot;background-color: red&quot;&gt; Jules Depersin  &lt;/th&gt;
   &lt;/tr&gt;
     &lt;tr&gt;
-    &lt;td&gt;19:00 -- 19:30&lt;/td&gt;
+    &lt;td&gt;19:10 -- 19:40&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;John Duchi&lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt; Chao Gao  &lt;/th&gt;
   &lt;/tr&gt;
