@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Mar 2021 08:51:07 +0100</pubDate>
-    <lastBuildDate>Mon, 15 Mar 2021 08:51:07 +0100</lastBuildDate>
+    <pubDate>Wed, 17 Mar 2021 09:59:55 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Mar 2021 09:59:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -108,6 +108,8 @@ Those constraints include, among others local differential privacy (LDP), commun
 &lt;strong&gt;Title: A Central Limit Theorem for Differentially Private Query Answering&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to \(\exp(-|x|_p^\alpha)\), where \(|x|_p\) is the standard \(\ell_p\)-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer–Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the \(\ell_2\)-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.&lt;/p&gt;
+
+&lt;p&gt;Link to &lt;a href=&quot;https://arxiv.org/pdf/2103.08721.pdf&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='5' color='red'&gt;  &lt;/font&gt;&lt;/center&gt;]() 
  --&gt;

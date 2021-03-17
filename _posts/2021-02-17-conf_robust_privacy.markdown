@@ -123,6 +123,8 @@ Link to [paper](https://arxiv.org/abs/2007.08016)
 
 *Abstract:* Perhaps the single most important use case for differential privacy is to privately answer numerical queries, which is usually achieved by adding noise to the answer vector. The central question is, therefore, to understand which noise distribution optimizes the privacy-accuracy trade-off, especially when the dimension of the answer vector is high. Accordingly, extensive literature has been dedicated to the question and the upper and lower bounds have been matched up to constant factors. In this talk, we take a novel approach to address this important optimality question. We first demonstrate an intriguing central limit theorem phenomenon in the high-dimensional regime. More precisely, we prove that a mechanism is approximately Gaussian differentially private if the added noise satisfies certain conditions. In particular, densities proportional to \\(\exp(-\|x\|_p^\alpha)\\), where \\(\|x\|_p\\) is the standard \\(\ell_p\\)-norm, satisfies the conditions. Taking this perspective, we make use of the Cramer--Rao inequality and show an uncertainty principle style result: the product of privacy parameter and the \\(\ell_2\\)-loss of the mechanism is lower bounded by the dimension. Furthermore, the Gaussian mechanism achieves the constant-sharp optimal privacy-accuracy trade-off among all such noises. Our findings are corroborated by numerical experiments. This is joint work with Jinshuo Dong and Linjun Zhang.
 
+Link to [paper](https://arxiv.org/pdf/2103.08721.pdf)
+
 
 
 
