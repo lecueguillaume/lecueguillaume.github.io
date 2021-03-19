@@ -32,7 +32,7 @@ date:   2015-10-08
 
 
 
-#TP : completion de matrice
+#TP : completion de matrices et systèmes de recommandations
 [Notebook -- énoncé](/assets/tp_completion.ipynb)
 [logo ensae](/assets/ensae.png)
 
@@ -42,7 +42,7 @@ date:   2015-10-08
 <!--#Chapitre 6 : Forward-Backward splitting methods
 [notes de cours](/assets/fbs_method.pdf)-->
 
-#Chapitre 7 : Méthodes spectrales pour la détection de communautés
+#Chapitre 7 : Méthodes spectrales et relaxation SDP pour la détection de communautés dans un graphe
 [notes de cours](/assets/detection_communautes.pdf)
 
 #Chapitre 8 : Appendix sur les sections Euclidiennes
