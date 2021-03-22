@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Mar 2021 08:54:44 +0100</pubDate>
-    <lastBuildDate>Mon, 22 Mar 2021 08:54:44 +0100</lastBuildDate>
+    <pubDate>Mon, 22 Mar 2021 14:14:08 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Mar 2021 14:14:08 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -27,6 +27,8 @@
 &lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; We propose a general optimization-based framework for computing differentially private M-estimators and  a new method for the construction of differentially private confidence regions. Firstly, we show that robust statistics can be used in conjunction with noisy gradient descent and noisy Newton methods in order to obtain optimal private estimators with global linear or quadratic convergence, respectively. We establish global convergence guarantees, under both local strong convexity and self-concordance, showing that our private estimators converge with high probability to a neighborhood of the non-private M-estimators. The radius of this neighborhood is nearly optimal in the sense it corresponds to the statistical minimax cost of differential privacy up to a logarithmic term. Secondly, we tackle the problem of parametric inference by constructing differentially private estimators of the asymptotic variance of our private M-estimators. This naturally leads to the use of approximate pivotal statistics for the construction of confidence regions and hypothesis testing. We demonstrate the effectiveness of a bias correction that leads to enhanced small-sample empirical performance in simulations. We illustrate the benefits of our methods with synthetic numerical examples and real data.&lt;/p&gt;
 
 &lt;p&gt;This is joint work with Casey Bradshaw and Po-Ling Loh.&lt;/p&gt;
+
+&lt;p&gt;Link to &lt;a href=&quot;https://drive.google.com/file/d/12mY6FaDX1xxLOdOT2OiI3oJ-ogcCl6Y1/view&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://thomasberrett.github.io&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt; Tom Berrett &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -204,17 +206,22 @@ Cristina Butucea, Victor-Emmanuel Brunel, Nicolas Chopin,  Arnak Dalalyan, Guill
 
 &lt;p&gt;&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_19_20.pdf) --&gt;&lt;/p&gt;
 
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
+&lt;!-- 
 
-&lt;p&gt;&lt;a href=&quot;/assets/liste_projets_20_21.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Liste of projects proposés&lt;/font&gt; 
+
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets_20_21.pdf) --&gt;
 
 &lt;!-- 
 &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Group registration deadline : Monday 22 of February at noon&lt;/font&gt; --&gt;
 
-&lt;p&gt;We now have to organize the defenses of the projects. Please first check your group number &lt;a href=&quot;/assets/organisation_soutenance_cs_20_21_1.pdf&quot;&gt;here&lt;/a&gt;. Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.&lt;/p&gt;
+&lt;!-- We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
 
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Schedule of the project defense&lt;/font&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Schedule of the project defense&lt;/font&gt; 
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; here &lt;/font&gt;&lt;/center&gt;](https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing) --&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Schedule of the defenses is now available &lt;/font&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/planning_soutenance_cs_20_21.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- 
 (It is a real 'deadline': students not registered at that time will not be allowed to sit their exam. Early birds registration is strongly advised: students will have their exam subject soon after their registration. Do not wait too long for your registration!) --&gt;

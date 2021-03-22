@@ -35,6 +35,8 @@ Each talk will be 25 minutes long followed by a 5 minutes dicussion for question
 
 This is joint work with Casey Bradshaw and Po-Ling Loh.
 
+Link to [paper](https://drive.google.com/file/d/12mY6FaDX1xxLOdOT2OiI3oJ-ogcCl6Y1/view)
+
 [<center><font face="verdana" size='5' color='red'> Tom Berrett </font></center>](https://thomasberrett.github.io) 
 
 **Title: Locally private non-asymptotic testing of discrete distributions is faster using interactive mechanisms**

@@ -8,19 +8,22 @@ date:   2021-01-28
 
  <!-- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_19_20.pdf) -->
  
+<!-- 
 
+ <font face="verdana" size='8' color='red'> Liste of projects proposés</font> 
 
- <font face="verdana" size='8' color='red'> Liste des articles proposés</font> 
-
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_20_21.pdf)
+[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_20_21.pdf) -->
 
 <!-- 
 <font face="verdana" size='8' color='red'> Group registration deadline : Monday 22 of February at noon</font> -->
 
-We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
+<!-- We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
 
 <font face="verdana" size='8' color='red'> Schedule of the project defense</font> 
-[<center><font face="verdana" size='8' color='blue'> here </font></center>](https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing)
+[<center><font face="verdana" size='8' color='blue'> here </font></center>](https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing) -->
+
+<font face="verdana" size='8' color='red'> Schedule of the defenses is now available </font> 
+[<center><font face="verdana" size='8' color='blue'> here </font></center>](/assets/planning_soutenance_cs_20_21.pdf)
 
 
 <!-- 
