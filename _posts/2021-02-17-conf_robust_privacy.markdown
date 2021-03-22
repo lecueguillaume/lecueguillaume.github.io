@@ -87,10 +87,16 @@ The talk will be based on the following papers: [paper 1](https://arxiv.org/abs/
 Link to [paper](https://arxiv.org/abs/2004.11734)
 
 [<center><font face="verdana" size='5' color='red'> John Duchi </font></center>](https://web.stanford.edu/~jduchi/) 
-**TBA**
+**Title: Near Instance-Optimality in Differential Privacy**
+
+*Abstract:* We develop two notions of instance optimality in differential privacy, inspired by classical statistical theory: one by defining a local minimax risk and the other by considering unbiased mechanisms and analogizing the Cramer-Rao bound, and we show that the local modulus of continuity of the estimand of interest completely determines these quantities. We also develop a complementary collection mechanisms, which we term the inverse sensitivity mechanisms, which are instance optimal (or nearly instance optimal) for a large class of estimands. Moreover, these mechanisms uniformly outperform the smooth sensitivity framework on each instance for several function classes of interest, including real-valued continuous functions. We carefully present two instantiations of the mechanisms for median and robust regression estimation with corresponding experiments.
+
+Based on joint work with Hilal Asi
+
+Linto [paper](https://arxiv.org/abs/2005.10630)
 
 [<center><font face="verdana" size='5' color='red'> Chao Gao </font></center>](https://www.stat.uchicago.edu/~chaogao/) 
-**title: Robust Regression with Contamination**
+**Title: Robust Regression with Contamination**
 
 *abstract:* We study regression with contaminated observations. We will discuss different results depending on whether both the responses and the covariates are contaminated or only the responses are contaminated. General minimax rates are derived based on regression depth functions when both the responses and the covariates are contaminated. The result implies consistency is possible only if the contamination proportion is vanishing. In comparison, we show that when the covariates are clean, consistent robust regression is actually possible even when the contamination proportion approaches one. A near-optimal procedure in this case is the simple median regression. Applications of the second setting in model repair problems will also be discussed.
 
