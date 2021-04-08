@@ -21,6 +21,8 @@ date:   2019-01-15
 
 #*Chapitre 7* : [Dualité Lagrangienne](/assets/dualite_lagrangienne.pdf)
 
+#*Chapitre 8* : [Algorithmes de descente](/assets/algorithms.pdf)
+
 #*Liste d'exercices* : [polycopié d'exercices](/assets/td-doptimisation-ensae.pdf) et les [corrigés](/assets/corrections_tds.pdf)
 
 

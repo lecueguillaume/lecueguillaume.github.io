@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Mar 2021 14:14:08 +0100</pubDate>
-    <lastBuildDate>Mon, 22 Mar 2021 14:14:08 +0100</lastBuildDate>
+    <pubDate>Thu, 08 Apr 2021 15:26:49 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Apr 2021 15:26:49 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -547,7 +547,7 @@ Il y a un sondage en ligne sur la formation des binômes pour les projets, avec 
     
       <item>
         <title>Interview de Michel Talagrand par Gilles Godefroy</title>
-        <description>&lt;p&gt;A l’occasion de la remise du &lt;a href=&quot;https://www.sorbonne-universite.fr/en/newsroom/actualites/michel-talagrand-winner-shaw-prize&quot;&gt;prix Shaw&lt;/a&gt; à Michel Talagrand, la SMF (Gazette - avril 2019 - (160)) a publié un interview de M. Talagrand conduit par Gilles Godefroy, &lt;a href=&quot;https://www.sorbonne-universite.fr/sites/default/files/upload/2019-05/Talagrand2019.pdf&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;A l’occasion de la remise du &lt;a href=&quot;https://www.sorbonne-universite.fr/en/newsroom/actualites/michel-talagrand-winner-shaw-prize&quot;&gt;prix Shaw&lt;/a&gt; à Michel Talagrand, la SMF (Gazette - avril 2019 - (160)) a publié un interview de M. Talagrand conduit par Gilles Godefroy, &lt;a href=&quot;https://michel.talagrand.net/Talagrand.pdf&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
@@ -824,6 +824,8 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
 &lt;p&gt;#&lt;em&gt;Chapitre 6&lt;/em&gt; : &lt;a href=&quot;/assets/CNS_OCD.pdf&quot;&gt;Conditions nécessaires et suffisantes d’optimalité en optimisation convexe et différentiable&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;#&lt;em&gt;Chapitre 7&lt;/em&gt; : &lt;a href=&quot;/assets/dualite_lagrangienne.pdf&quot;&gt;Dualité Lagrangienne&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#&lt;em&gt;Chapitre 8&lt;/em&gt; : &lt;a href=&quot;/assets/algorithms.pdf&quot;&gt;Algorithmes de descente&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;#&lt;em&gt;Liste d’exercices&lt;/em&gt; : &lt;a href=&quot;/assets/td-doptimisation-ensae.pdf&quot;&gt;polycopié d’exercices&lt;/a&gt; et les &lt;a href=&quot;/assets/corrections_tds.pdf&quot;&gt;corrigés&lt;/a&gt;&lt;/p&gt;
 
