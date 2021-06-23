@@ -28,7 +28,7 @@ Submitted, 2019.
 
 0. J. Kwon, G. Lecué and  M. Lerasle\\
 [Median of means principle as a divide-and-conquer procedure for robustness, sub-sampling and hyper-parameters tuning](/assets/MOMKLL.pdf)\\
-Accepted for publication in **Electronic journal of statistics.**  
+ **Electronic journal of statistics**, 15, 1, (2021), 1202-1227  
 Python notebook and codes available [here](https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection)
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
@@ -42,7 +42,7 @@ Python notebook and codes available [here](https://github.com/lecueguillaume/MOM
 
 0. G. Lecué, M. Lerasle and T. Matthieu\\
 [Robust classification via MOM minimization](/assets/2020_Article_MOM_Classif.pdf)\\
-Under revision in **Machine Learning research**\\
+**Machine Learning research**, 109, 8, (2020), 1635-166\\
 Python notebooks available [here](https://github.com/lecueguillaume/MOMpower)
 
 
