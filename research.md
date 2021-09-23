@@ -13,12 +13,12 @@ Submitted, 2021.
 Submitted, 2021.
 
 0. S. Chrétien, M. Cucuringu, G. Lecué and L. Neirac\\
-[Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/stats_sdp.pdf)\\
-Submittted, 2020.
+[Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/21-0021.pdf)\\
+To appear in **Journal of Machine Learning Research**, 2020.
 
 0. J. Depersin and G. Lecué\\
-[Robust subgaussian estimator of a mean vector in nearly linear time](/assets/mom_sdp_v2.pdf)\\
-Submitted, 2019.
+[Robust subgaussian estimator of a mean vector in nearly linear time](/assets/AOS2004-035R1A0.pdf)\\
+To appear in **The Annals of Statistics**
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_JMLR_2019_07_11.pdf)\\

@@ -125,6 +125,10 @@
 <lastmod>2021-02-03T13:14:29+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/21-0021.pdf</loc>
+<lastmod>2021-09-20T09:37:39+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/AOS1.pdf</loc>
 <lastmod>2008-09-05T20:25:16+02:00</lastmod>
 </url>
@@ -143,6 +147,10 @@
 <url>
 <loc>http://localhost:4000/assets/AOS1828.pdf</loc>
 <lastmod>2020-05-26T13:02:58+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/AOS2004-035R1A0.pdf</loc>
+<lastmod>2021-09-23T15:21:08+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/BEJ225.pdf</loc>
@@ -515,6 +523,10 @@
 <url>
 <loc>http://localhost:4000/assets/cours8_ensae_2018.pdf</loc>
 <lastmod>2018-09-12T08:54:21+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/cours9_ensae_2018.pdf</loc>
+<lastmod>2018-09-17T15:34:50+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/cs_jems_04_06_14.pdf</loc>
