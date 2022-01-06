@@ -38,7 +38,7 @@ My Habilitation manuscript is available [here](/assets/HDR.pdf) and the slides o
 2. "**Prix ROSEMONT/DEMASSIEUX**"  de la chancellerie des universités de Paris. Décembre 2008. For the best PhD thesis in Mathematics and its applications defended in (former) Paris University.
 
 # Miscelanous
-1. My [ha-index](https://www.irif.univ-paris-diderot.fr/~haberm//haindex.html) is 92; which is "too good" according to the official ha-index webpage. But it looks like there is no good explanation for the perfect interval [80, 85]. 
+<!-- 1. My [ha-index](https://www.irif.univ-paris-diderot.fr/~haberm//haindex.html) is 92; which is "too good" according to the official ha-index webpage. But it looks like there is no good explanation for the perfect interval [80, 85].  -->
 2. **About bibliometry**. We were 19 from Université Paris-Est Marne-la-vallée to write the following two papers: *Evgeny Abakumov, Anne Beaulieu, François Blanchard, Matthieu Fradelizi, Nathaël Gozlan, Bernard Host, Thiery Jeantheau, Magdalena Kobylanski, Guillaume Lecué, Miguel Martinez, Mathieu Meyer, Marie-Hélène Mourgues, Frédéric Portal, Francis Ribaud, Cyril Roberto, Pascal Romon, Julien Roth, Paul-Marie Samson, Pierre Vandekerkhove, Abdellah Youssfi.*
   
 *[discussion](/assets/bibliometrie-hal-arXiv.pdf)
