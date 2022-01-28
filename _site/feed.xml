@@ -5,9 +5,79 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jan 2022 11:36:42 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Jan 2022 11:36:42 +0100</lastBuildDate>
+    <pubDate>Fri, 28 Jan 2022 16:59:15 +0100</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 16:59:15 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Organization of the defenses for the compressed sensing course -- year 2022.</title>
+        <description>&lt;p&gt;&lt;!--  &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Planning des soutenances&lt;/font&gt;  --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_19_20.pdf) --&gt;&lt;/p&gt;
+
+&lt;!-- 
+
+ &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Liste of projects proposés&lt;/font&gt; 
+
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets_20_21.pdf) --&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Group registration deadline : Monday 21 of February at noon&lt;/font&gt;
+
+&lt;!-- We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
+
+&lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Schedule of the project defense&lt;/font&gt; 
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; here &lt;/font&gt;&lt;/center&gt;](https://docs.google.com/spreadsheets/d/1DoX1R7PkILbzTvW7tUvA6NYKQHE0zi37aMiIbbAko2A/edit?usp=sharing) --&gt;
+&lt;!-- 
+&lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Schedule of the defenses is now available &lt;/font&gt; 
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; here &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_20_21.pdf) --&gt;
+
+&lt;p&gt;(It is a real ‘deadline’: students not registered at that time will not be allowed to sit their exam. Early birds registration is strongly advised: students will have their exam subject soon after their registration. Do not wait too long for your registration!)&lt;/p&gt;
+
+&lt;p&gt;Students who want to register to this exam are invited to &lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; write a comment at the end of this post &lt;/font&gt;, containing the names (first and last names) of the two members of the group. If some students want to study some particular subject they may also indicate it in their comment. Since it is an applied math project a good balance between theory and practice is better. However, students may also indicate if they want to do more “theory” or more “applied math” or a “good balance between theory and applications”. Nevertheless, I’m not sure to find a subject in the scope of the request but I will do my best.&lt;/p&gt;
+
+&lt;p&gt;If some student have some difficulties to find a colleague to work with on this exam you can write your name in the first column of this &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1kKdArXOpqIXzLfURuOK65Jcb8moGKbrVvlx9M7l_2E4/edit?usp=sharing&quot;&gt;Google sheet&lt;/a&gt; or contact someone in this Google sheet by your own to construct your group (in that case,  do not forget to erase your two names from the Google sheet once you have created your group). I will pair students in this Google sheet on Monday 14th February (check your teammate in the Google sheet on February the 14th).&lt;/p&gt;
+
+&lt;p&gt;Soon after registration, every group of two students will be given one or more research articles connected with the course (check regularly on this webpage if a project has been assigned to your group).&lt;/p&gt;
+
+&lt;p&gt;Several levels of involvement may be considered:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;discussion on the paper (problem, procedures, results, algorithms, simulations study, key ideas, etc.)&lt;/li&gt;
+  &lt;li&gt;proof of the main mathematical results&lt;/li&gt;
+  &lt;li&gt;redo the simulations study&lt;/li&gt;
+  &lt;li&gt;personal input on the subject (new mathematical results, new simulations results, new databases, make some parallel with other scientific domains, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Depending on the involvement of the group of two students, there are two ways to validate the course:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The best is to provide a very well commented (in markdown) python notebook which will serve as a report containing a simulation study, the problem, some maths, etc..&lt;/li&gt;
+  &lt;li&gt;For those who don’t want to do simulation and don’t have a notebook (which is not a particularly good thing to do for an applied math course), a pdf report is also OK (but a simulation study is a good thing to have in this report).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At the end of the defense, some questions on the main key ideas of the course will be asked to each student individually in the group.&lt;/p&gt;
+
+&lt;p&gt;Each student will have its own personal grade depending on:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;group’s involvement on the subject (quality of the report and the code, level of understanding of the problem and the solution, the math and the algorithms)&lt;/li&gt;
+  &lt;li&gt;the personal answers to the questions on the course&lt;/li&gt;
+  &lt;li&gt;a good balance between theory and practice is good&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Defenses will take place between Monday 28th March to Friday 8th of April. I will post on this webpage a Google sheet where each group will have the opportunity to tell me about their availability during these two weeks.&lt;/p&gt;
+
+&lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt;Defense supports (notebook or pdf report) will have to be sent to me via email before March 24th.&lt;/font&gt;
+&lt;p&gt;Indicate in the title of the email “Report for the Compressed sensing course - group number XX - john doe and jane doe”&lt;/p&gt;
+
+&lt;p&gt;Beware that the validation of this course depends on your registration to this course at your own administration. It is not enough to post a comment to be registered at this course regarding your cursus.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 28 Jan 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/01/28/organisation-soutenance-cours-cs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/01/28/organisation-soutenance-cours-cs/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Conference on robustness and privacy</title>
@@ -865,24 +935,6 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
         <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2019/01/15/optimisation_diff/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/15/optimisation_diff/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session ``Robust Machine Learning`` in Pisa.</title>
-        <description>&lt;p&gt;I’m organizing with Matthieu Lerasle and Adrien Saumard a session on &lt;code class=&quot;highlighter-rouge&quot;&gt;robust machine Learning&lt;/code&gt; at &lt;a href=&quot;http://cmstatistics.org/CMStatistics2018/fullprogramme.php&quot;&gt;CMStatistics2018&lt;/a&gt; which takes place in Pisa, 14-16 December 2018 (Saturday 15.12.2018   18:10 - 19:25, room Aula C). Speakers are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I. Giulini, Dimension-free PAC-Bayesian bounds for vectors and matrices&lt;/li&gt;
-  &lt;li&gt;S. Minsker, Median-of-means-type estimators and rates of convergence in normal approximation&lt;/li&gt;
-  &lt;li&gt;P. Thompson, On stochastic approximation under heavier tails&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/09/12/robust_machine_learning_pisa/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/12/robust_machine_learning_pisa/</guid>
         
         
       </item>
