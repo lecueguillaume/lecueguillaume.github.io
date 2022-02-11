@@ -14,7 +14,7 @@ Submitted, 2021.
 
 0. S. Chrétien, M. Cucuringu, G. Lecué and L. Neirac\\
 [Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/21-0021.pdf)\\
-To appear in **Journal of Machine Learning Research**, 2020.
+**Journal of Machine Learning Research**, 1 - 64, 2021.
 
 0. J. Depersin and G. Lecué\\
 [Robust subgaussian estimator of a mean vector in nearly linear time](/assets/AOS2004-035R1A0.pdf)\\
@@ -118,7 +118,7 @@ Notebooks available at [here](http://nbviewer.jupyter.org/github/lecueguillaume/
 **Electronic Journal of Probability**, 20 (2015) no. 57, 29 pp.
 
 5. G. Lecué and S. Mendelson.\\
-[Learning Subgaussian classes : Upper and minimax bounds](/assets/LM13.pdf)\\
+[Learning Subgaussian classes : Upper and minimax bounds](/assets/lm13_2018_07_27.pdf)\\
 To appear in **Topics in Learning Theory - Societe Mathématique de France**, (S. Boucheron and N. Vayatis Eds.)
 
 6. G. Lecué.\\

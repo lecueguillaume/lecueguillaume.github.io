@@ -8,11 +8,11 @@ date:   2022-01-28
 
  <!-- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_19_20.pdf) -->
  
-<!-- 
 
- <font face="verdana" size='8' color='red'> Liste of projects proposés</font> 
 
-[<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/liste_projets_20_21.pdf) -->
+ <font face="verdana" size='8' color='red'> List of projects </font> 
+
+[<center><font face="verdana" size='8' color='blue'> here </font></center>](/assets/liste_projets_21_22.pdf)
 
 
 <font face="verdana" size='8' color='red'> Group registration deadline : Monday 21 of February at noon</font>
