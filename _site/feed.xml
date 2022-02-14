@@ -5,9 +5,25 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Feb 2022 15:53:55 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Feb 2022 15:53:55 +0100</lastBuildDate>
+    <pubDate>Mon, 14 Feb 2022 11:24:38 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 11:24:38 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Offre de stages sur la mesure d'audience croisée en partenariat avec Médiamétrie</title>
+        <description>&lt;p&gt;Dans le cadre du partenariat avec Médiamétrie, des postes de stagiaires et d’assistants de recherche sous l’encadrement de Nicolas Chopin et moi-même sont disponibles. Le sujet est la mesure d’audience croisée.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/XMM_stage.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;6&quot; color=&quot;blue&quot;&gt; Plus de détails sur le sujet sont disponibles ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Si vous êtes intéressé, vous pouvez me contacter directement.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Feb 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022/02/14/offre_stage_XMM/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/02/14/offre_stage_XMM/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organization of the defenses for the compressed sensing course -- year 2022.</title>
@@ -871,68 +887,6 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
         <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2019/01/28/organisation-soutenance-cours-cs-copie/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/28/organisation-soutenance-cours-cs-copie/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>cours d'optimisation différentiable</title>
-        <description>&lt;p&gt;##&lt;strong&gt;Notes de cours&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 1&lt;/em&gt; : &lt;a href=&quot;/assets/intro_opti_diff.pdf&quot;&gt;Introduction à l’optimisation différentiable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 2&lt;/em&gt; : &lt;a href=&quot;/assets/fcts_plusieures_variables.pdf&quot;&gt;Fonctions différentiables de plusieurs variables&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 3&lt;/em&gt; : &lt;a href=&quot;/assets/CN_opti_diff.pdf&quot;&gt;Conditions nécessaires d’optimalité pour les problèmes d’optimisation différentiable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 4&lt;/em&gt; : &lt;a href=&quot;/assets/euler_kkt.pdf&quot;&gt;Théorème d’Euler/Pénao/Kantorovitch, hypothèse de qualification et preuve du théorème de KKT&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 5&lt;/em&gt; : &lt;a href=&quot;/assets/cond_suff_qualif.pdf&quot;&gt;Conditions suffisantes de qualification d’une contrainte en un point&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 6&lt;/em&gt; : &lt;a href=&quot;/assets/CNS_OCD.pdf&quot;&gt;Conditions nécessaires et suffisantes d’optimalité en optimisation convexe et différentiable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 7&lt;/em&gt; : &lt;a href=&quot;/assets/dualite_lagrangienne.pdf&quot;&gt;Dualité Lagrangienne&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Chapitre 8&lt;/em&gt; : &lt;a href=&quot;/assets/algorithms.pdf&quot;&gt;Algorithmes de descente&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;Liste d’exercices&lt;/em&gt; : &lt;a href=&quot;/assets/td-doptimisation-ensae.pdf&quot;&gt;polycopié d’exercices&lt;/a&gt; et les &lt;a href=&quot;/assets/corrections_tds.pdf&quot;&gt;corrigés&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2016-2017&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2017_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2017_corrige.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;rattrapage 2016-2017&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2017_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2017-2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2018_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/exam_2018.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;rattrapage 2017-2018&lt;/em&gt;  : &lt;a href=&quot;/assets/rattrapage_2018_corrige.pdf&quot;&gt;rattrapage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2018-2019&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2018-2019&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2019_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2018-2019&lt;/em&gt;  : &lt;a href=&quot;/assets/examen_2019.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2019-2020&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2019-2020&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2020_corrige.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;##&lt;strong&gt;Examens 2020-2021&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;mi-parcours 2020-2021&lt;/em&gt;  : &lt;a href=&quot;/assets/mi_parcours_2021.pdf&quot;&gt;mi-parcours&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;#&lt;em&gt;examen 2020-2021&lt;/em&gt;  : &lt;a href=&quot;/assets/examen_2021_corrige.pdf&quot;&gt;examen&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 15 Jan 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/01/15/optimisation_diff/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/15/optimisation_diff/</guid>
         
         
       </item>
