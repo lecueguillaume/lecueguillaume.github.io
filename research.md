@@ -17,8 +17,8 @@ Submitted, 2021.
 **Journal of Machine Learning Research**, 1 - 64, 2021.
 
 0. J. Depersin and G. Lecué\\
-[Robust subgaussian estimator of a mean vector in nearly linear time](/assets/AOS2004-035R1A0.pdf)\\
-To appear in **The Annals of Statistics**
+[Robust subgaussian estimator of a mean vector in nearly linear time](/assets/AOS2118.pdf)\\
+**The Annals of Statistics**, volume 50, Number 1, (2022), 511-536. [bibtex](/assets/AOS2118.bib)
 
 0. G. Chinot, G. Lecué and  M. Lerasle\\
 [Robust high dimensional learning for Lipschitz and convex losses](/assets/MOM_JMLR_2019_07_11.pdf)\\
