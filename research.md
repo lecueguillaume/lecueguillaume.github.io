@@ -9,10 +9,9 @@ permalink: /research/
 Submitted, 2022.
 
 
-
 0. J. Depersin and G. Lecué\\
 [Optimal robust mean and location estimation via convex programs with respect to any pseudo-norms](/assets/convex_prog_robust_sparse_mean.pdf)\\
-Submitted, 2021.
+To appear in **Probability theory and related fields**
 
 0. J. Depersin and G. Lecué\\
 [On the robustness to adversarial corruption and to heavy-tailed data of the Stahel-Donoho median of means](/assets/SDO_median.pdf)\\
