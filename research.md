@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+0. G. Lecué and Z. Shang\\
+[A geometrical viewpoint on the benign overfitting property of the minimum l2-norm interpolant estimator.](/assets/article_ell2_min_interpolent.pdf)\\
+Submitted, 2022.
+
+
+
 0. J. Depersin and G. Lecué\\
 [Optimal robust mean and location estimation via convex programs with respect to any pseudo-norms](/assets/convex_prog_robust_sparse_mean.pdf)\\
 Submitted, 2021.
