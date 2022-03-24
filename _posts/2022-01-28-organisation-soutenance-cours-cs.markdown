@@ -4,20 +4,20 @@ title:  Organization of the defenses for the compressed sensing course -- year 2
 comments: true
 date:   2022-01-28
 ---
- <!--  <font face="verdana" size='8' color='red'> Planning des soutenances</font>  -->
+  <font face="verdana" size='8' color='red'> Planning des soutenances</font> 
 
- <!-- [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_19_20.pdf) -->
+ [<center><font face="verdana" size='8' color='blue'> ici </font></center>](/assets/planning_soutenance_cs_21_22.pdf)
  
 
 
- <font face="verdana" size='8' color='red'> List of projects </font> 
+<!--  <font face="verdana" size='8' color='red'> List of projects </font> 
 
-[<center><font face="verdana" size='8' color='blue'> here </font></center>](/assets/liste_projets_21_22.pdf)
+[<center><font face="verdana" size='8' color='blue'> here </font></center>](/assets/liste_projets_21_22.pdf) -->
 
 
 <!-- <font face="verdana" size='8' color='red'> Group registration deadline : Monday 21 of February at noon</font> -->
 
-Defense are 30 minutes long: 20 minutes of presentation (either on slide or on the notebook) + 10 minutes of Questions/Answers. Notebooks can be used for the presentation (instead of slides) if they are well designed for that.
+Defense are 30 minutes long: 15 minutes (at most 20 minutes) of presentation either on slides or on the notebook + 10 minutes of Questions/Answers. Notebooks can be used for the presentation (instead of slides) if they are well designed for that.
 
 <!-- We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
 

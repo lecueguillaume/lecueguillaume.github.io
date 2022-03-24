@@ -5,8 +5,8 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Mar 2022 11:04:08 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2022 11:04:08 +0100</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2022 10:03:50 +0100</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2022 10:03:50 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -27,17 +27,17 @@
     
       <item>
         <title>Organization of the defenses for the compressed sensing course -- year 2022.</title>
-        <description>&lt;p&gt;&lt;!--  &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Planning des soutenances&lt;/font&gt;  --&gt;&lt;/p&gt;
+        <description>&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Planning des soutenances&lt;/font&gt;
 
-&lt;p&gt;&lt;!-- [&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; ici &lt;/font&gt;&lt;/center&gt;](/assets/planning_soutenance_cs_19_20.pdf) --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/planning_soutenance_cs_21_22.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; List of projects &lt;/font&gt;
+&lt;!--  &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; List of projects &lt;/font&gt; 
 
-&lt;p&gt;&lt;a href=&quot;/assets/liste_projets_21_22.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; here &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
+[&lt;center&gt;&lt;font face=&quot;verdana&quot; size='8' color='blue'&gt; here &lt;/font&gt;&lt;/center&gt;](/assets/liste_projets_21_22.pdf) --&gt;
 
 &lt;!-- &lt;font face=&quot;verdana&quot; size='8' color='red'&gt; Group registration deadline : Monday 21 of February at noon&lt;/font&gt; --&gt;
 
-&lt;p&gt;Defense are 30 minutes long: 20 minutes of presentation (either on slide or on the notebook) + 10 minutes of Questions/Answers. Notebooks can be used for the presentation (instead of slides) if they are well designed for that.&lt;/p&gt;
+&lt;p&gt;Defense are 30 minutes long: 15 minutes (at most 20 minutes) of presentation either on slides or on the notebook + 10 minutes of Questions/Answers. Notebooks can be used for the presentation (instead of slides) if they are well designed for that.&lt;/p&gt;
 
 &lt;!-- We now have to organize the defenses of the projects. Please first check your group number [here](/assets/organisation_soutenance_cs_20_21_1.pdf). Then, fill the following table with your availability. Each slot is 30 minutes long. Check the availability of your teammate before filling the table.
 
