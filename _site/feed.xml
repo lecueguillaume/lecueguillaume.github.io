@@ -5,9 +5,100 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2022 11:12:42 +0200</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2022 11:12:42 +0200</lastBuildDate>
+    <pubDate>Mon, 02 May 2022 12:14:38 +0200</pubDate>
+    <lastBuildDate>Mon, 02 May 2022 12:14:38 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Stat students day</title>
+        <description>&lt;p&gt;The statistics department is organizing on Friday 13th of May a day of short talks from the department students. It will take place in amphithéâtre 250 from 9:30 to 12. A buffet concluding this event will take place in the statistics department on the third floor at 12am. Below is a schedule of the talks. Every talks is 10 minutes long plus a short questions/answers time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;/p&gt;
+
+&lt;center&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;      &lt;/th&gt;
+    &lt;th style=&quot;background-color: yellow&quot;&gt;Name &lt;/th&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;subject&lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;status&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;9:30 -- 9:45&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Corentin Odic&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Social Learning&lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;1st year phd&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;9:45 --10:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Alexandre Louvet&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Approximations of High-Dimensional Data &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;1st year phd&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;10:00 -- 10:15&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt; Younès Youssfi&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt;Sudden Cardiac Death &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;Third year PhD&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;10:15 -- 10:30&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Nayel Bettache &lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Matrix Time Series  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;First year PhD&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;10:30 -- 10:45&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Donier-Meroz Etienne &lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Graphon Estimation in the Bipartite setting  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;second year PHD&lt;/th&gt;
+  &lt;/tr&gt;
+      &lt;tr&gt;
+    &lt;td&gt;10:45 -- 11:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;BREAK&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; BREAK  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;BREAK&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td&gt;11:00 -- 11:15&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Yann Issartel&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Statistical Learning in Non-parametric Latent Space Models &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;Post-doc&lt;/th&gt;
+  &lt;/tr&gt;
+      &lt;tr&gt;
+    &lt;td&gt;11:15 -- 11:30&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Hai-Dang Dau&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Monte Carlo methods  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;3rd year&lt;/th&gt;
+  &lt;/tr&gt;
+      &lt;tr&gt;
+    &lt;td&gt;11:30 -- 11:45&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Zong Shang&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; benign overfitting  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;PHD track&lt;/th&gt;
+  &lt;/tr&gt;
+      &lt;tr&gt;
+    &lt;td&gt;11:45 -- 12:00&lt;/td&gt;
+    &lt;td style=&quot;background-color: yellow&quot;&gt;Hugo Chardon&lt;/td&gt;
+    &lt;th style=&quot;background-color: red&quot;&gt; Statistical learning theory, finite sample analysis  &lt;/th&gt;
+    &lt;th style=&quot;background-color: cyan;&quot;&gt;First year PhD&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+
+&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt;
+The stat students day  is suported by the CREST.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 May 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2022/05/02/stat_student_seminar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/05/02/stat_student_seminar/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Offre de stages sur la mesure d'audience croisée en partenariat avec Médiamétrie</title>
@@ -828,67 +919,6 @@ Je souhaiterais utiliser 6 ECTS pour transférer Reinforcement learning (3) et P
         <pubDate>Tue, 09 Apr 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2019/04/09/master-ds/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/04/09/master-ds/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Organisation des soutenances de mémoires pour le cours de Compressed Sensing -- année 2019.</title>
-        <description>&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Planning des soutenances&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/planning_soutenance_cs_18_19.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Liste des articles proposés&lt;/font&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/liste_projets.pdf&quot;&gt;&lt;center&gt;&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;blue&quot;&gt; ici &lt;/font&gt;&lt;/center&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;font face=&quot;verdana&quot; size=&quot;8&quot; color=&quot;red&quot;&gt; Date limite d'inscription : vendredi 22 février à midi&lt;/font&gt;
-&lt;p&gt;(C’est une date ferme : les élèves non-inscrits à cette date ne pourront pas passer l’examen. Les élèves s’inscrivant tôt auront leur sujet plus tôt.)&lt;/p&gt;
-
-&lt;p&gt;A chaque groupe de deux élèves sera remis un ou plusieurs articles de recherche en lien avec le cours. Plusieurs niveaux d’implication dans le projet sont possibles :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;présenter l’article (problématique, procédures, résultats, algorithmes, simulations, faire ressortir les idées clefs, etc.) (obligatoire)&lt;/li&gt;
-  &lt;li&gt;démontrer les résultats mathématiques&lt;/li&gt;
-  &lt;li&gt;reproduire les simulations&lt;/li&gt;
-  &lt;li&gt;faire une critique personnelle et proposer des idées nouvelles de procédures, de résultats, de simulations, etc.&lt;/li&gt;
-  &lt;li&gt;proposer des parallèles avec d’autres sujets.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La validation et l’évaluation du cours de Compressed Sensing se fera sur la base :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pour ceux désireux de faire des simulations : d’un notebook (très) commenté (en anglais de préférence) en python;&lt;/li&gt;
-  &lt;li&gt;Pour ceux désireux de ne faire que de la théorie : d’un mémoire d’au plus 10 pages (en Latex);&lt;/li&gt;
-  &lt;li&gt;(pour tous) d’une soutenance de 15 minutes, suivie de 5 minutes de questions sur le projet et de 5 minutes de questions de cours pour chacun des deux élèves du groupe.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;La note attribuée à chaque élève dépend :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;du travail de groupe (niveau de compréhension et regard critique des élèves sur le travail de recherche qui leur a été confié; ainsi que de la qualité du code, s’il y en a)&lt;/li&gt;
-  &lt;li&gt;des réponses personnelles de chaque élève du groupe aux questions de cours.&lt;/li&gt;
-  &lt;li&gt;Une bonne balance entre théorie et application est aussi bien vue&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Les élèves souhaitant passer cet examen sont invités à mettre en commentaire de ce post, les noms des deux élèves constituant le groupe. S’ils le souhaitent, les élèves sont invités  à préciser s’ils souhaitent un sujet :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;théorique et appliqué&lt;/li&gt;
-  &lt;li&gt;théorique&lt;/li&gt;
-  &lt;li&gt;appliqué&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cependant, même si les organisateurs feront leur maximum pour répondre à l’ensemble de ces requêtes, il se peut qu’elles ne soient pas toutes satisfaites lors de l’attribution des sujets.&lt;/p&gt;
-
-&lt;p&gt;L’organisation des soutenances (= dates de passage de chaque groupe) se fera pendant les deux derniers cours (5/03 et 12/03).  &lt;font face=&quot;verdana&quot; size=&quot;5&quot; color=&quot;red&quot;&gt;Les projets seront à rendre pour le vendredi 22 mars à midi au plus tard. Les soutenances auront lieu du lundi 25 mars au mardi 2 avril.&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;ATTENTION : pour faire valider ce cours, les élèves doivent être enregistrés pour ce cours auprès de l’administration dont ils dépendent. Poster un commentaire sur ce blog n’a pas de valeur administrative.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 28 Jan 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/01/28/organisation-soutenance-cours-cs-copie/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/28/organisation-soutenance-cours-cs-copie/</guid>
         
         
       </item>
