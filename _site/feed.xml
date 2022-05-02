@@ -5,13 +5,13 @@
     <description>Empirical processes theory; Learning theory; Compressed sensing; aggregation; phase retreival; Minimax;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 May 2022 12:19:17 +0200</pubDate>
-    <lastBuildDate>Mon, 02 May 2022 12:19:17 +0200</lastBuildDate>
+    <pubDate>Mon, 02 May 2022 17:53:04 +0200</pubDate>
+    <lastBuildDate>Mon, 02 May 2022 17:53:04 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Stat students day</title>
-        <description>&lt;p&gt;The statistics department is organizing on Friday 13th of May a day of short talks from the department students. It will take place in amphithéâtre 250 from 9:30 to 12. A buffet concluding this event will take place in the statistics department on the third floor at 12am. Below is a schedule of the talks. Every talks is 10 minutes long plus a short questions/answers time.&lt;/p&gt;
+        <description>&lt;p&gt;The statistics department is organizing on Friday 13th of May a day of short talks from the department students. It will take place in amphithéâtre 250 from 9:45 to 12am. A buffet concluding this event will take place in the statistics department on the third floor at 12am. Below is a schedule of the talks. Every talks is 10 minutes long plus a questions/answers time.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;/p&gt;
 
@@ -25,17 +25,17 @@
     &lt;th style=&quot;background-color: cyan;&quot;&gt;status&lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td&gt;9:30 -- 9:45&lt;/td&gt;
+    &lt;td&gt;9:45 -- 10:00&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;Corentin Odic&lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt;Social Learning&lt;/th&gt;
     &lt;th style=&quot;background-color: cyan;&quot;&gt;1st year phd (Vianney Perchet)&lt;/th&gt;
   &lt;/tr&gt;
-  &lt;tr&gt;
+&lt;!--   &lt;tr&gt;
     &lt;td&gt;9:45 --10:00&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt;Alexandre Louvet&lt;/td&gt;
     &lt;th style=&quot;background-color: red&quot;&gt;Approximations of High-Dimensional Data &lt;/th&gt;
     &lt;th style=&quot;background-color: cyan;&quot;&gt;1st year phd (Victor-Emmanuel Brunel and Nabil Mustafa)&lt;/th&gt;
-  &lt;/tr&gt;
+  &lt;/tr&gt; --&gt;
     &lt;tr&gt;
     &lt;td&gt;10:00 -- 10:15&lt;/td&gt;
     &lt;td style=&quot;background-color: yellow&quot;&gt; Younès Youssfi&lt;/td&gt;
