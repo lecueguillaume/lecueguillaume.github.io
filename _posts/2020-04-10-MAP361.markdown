@@ -1,0 +1,192 @@
+---
+layout: post
+title:  "MAP361-Aléatoire"
+comments: true
+date:   2020-04-10
+---
+
+#Une **description détaillée** du cours se trouve sur la page Moodle du cours
+
+#**Polycopié** [ici](/assets/polymap361.pdf)
+
+#**Quelques rappels condensés en théorie de la mesure** [ici](/assets/elements_integration.pdf). Tout ce dont vous avez besoin de savoir en thèorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que complémenter le cours et reste optionnelle.
+
+
+#**Organisation des Pcs**
+
+Chaque vendredi après-midi, je posterai sur cette page une **feuille d'exercices corrigés** en lien avec le cours de la semaine. On corrigera  deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC) le lundi après-midi (voir l'emploi du temps pour savoir à quel créneau chaque élève est affecté). 
+
+En plus de cette feuille, il y aura une feuille (nommée, par exemple,  DM2.pdf pour la PC2) de **devoir maison** contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b) -- voir la division des groupes plus bas), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devra faire un exercice de la feuille DMX.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l'avoir reçu). Cet exercice sera corrigé et noté (je vous donnerai les notes sur cette page au plus tard 2 jours après me l'avoir rendu).
+
+On commence les DMs à la deuxième PC. Vous aurez donc tous 4 notes. Je prendrai la moyenne de ces 4 notes pour vous faire une note de PC. Cette note compte pour 40 pour cent de votre note finale (le reste de votre note est expliqué dans les slides de présentation de la PC0).
+
+**Exemple pour la PC2 :**
+
+1) vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves (par exemple, 10.a).i), 10.b).i), 23.a).i) et 23.b).i) -- voir la composition de chaque sous-sous-groupe plus bas) devant me rendre leur DM avec le numéro d'exercice qu'ils doivent corriger.
+
+2) lundi 27 avril : PC2, on corrige 2 ou 3 exos de la feuille PC2.pdf
+
+3) mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d'un exo désigné de la feuille DM2.pdf en me l'envoyant par email à l'adresse guillaume.lecue@ensae.fr et en nommant le fichier sous la forme *dm2_groupe_10_NOM* (où vous remplacer NOM par votre nom et 10 par 23 si vous êtes dans le groupe 23). 
+
+4) au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution. 
+
+**Pour ceux qui connaissent latex ou qui veulent l'apprendre :**  voici un [template latex](/assets/template_exos.tex) pour le rendu des DMs. C'est celui qui nous utilisons pour la rédaction des feuilles d'exercices. 
+
+**Pour ceux qui ne connaissent pas Latex et qui ne vont pas l'apprendre,** vous pouvez m'envoyer vos DM dans un notebook python (en markdown). 
+
+**Emploi du temps :**
+
+1) *Groupe 10 :* a) Élèves de A à J (inclus) de 13h30 à 14h30 b) Élèves de J à Z de 14h30 à 15h30
+
+2) *Groupe 23 :* a) Élèves de A à G (inclus) de 15h45 à 16h45 b) Élèves de H à Z de 16h45 à 17h45
+
+**Division des sous-groupes pour les DMs :**
+
+*Groupe i) :* 
+
+Groupe 10.a).i) : Debussche, Dereka, Devaux, Donvez, Dumond
+
+Groupe 10.b).i) : Ji, Kheroua, Lachaise, Litschgy, Morozov
+
+Groupe 23.a).i) : André, Andrews, Auffray, Bergerès, Boudjema, Bruant
+
+Groupe 23.b).i) : Jaaidan, Kahn, Lakhal, Lefebvre, Magloire, Matta
+
+*Groupe ii) :* 
+
+Groupe 10.a).ii) : Durand, Duval, Gachod, Giudicelli, Illouz
+
+Groupe 10.b).ii) : Perminov, Pham, Rizk, Somerville, Viénot
+
+Groupe 23.a).ii) : Catel, David, Dengreville, Ensarguet, Garanzini, Girault
+
+Groupe 23.b).ii) : Pavec, Pinettes, Redaud, Studnia, Thevenet, Vasseur-Bendel, Zhioua
+
+**Notes des DMs** Les notes des DMs sont consultables au lien suivant 
+
+[Notes des DMs](https://docs.google.com/spreadsheets/d/124Okow1orRjekZZZNqfA_8WlKtTqOfxobRe8MZWQJQo/edit?usp=sharing)
+
+<!-- 
+**Formation des binômes pour le projet python**
+
+Il y a un sondage en ligne sur la formation des binômes pour les projets, avec deux choix "je me débrouille" ou "j'ai besoin d'aide pour trouver un binôme". Il faut que les éléves le remplissent (il y a 370 reponses sur 550 à l'heure actuelle -- samedi 18 avril), surtout s'ils veulent qu'on leur trouve un binôme, car on va prendre la liste de ceux qui ont répondu "j'ai besoin d'aide" pour leur trouver un binôme et on laissera les autres se débrouiller. -->
+
+**-------------------------------------------------------------**
+**-------------------------------------------------------------**
+
+# **PC0 : Présentation de l'organisation**
+
+[slides](/assets/pres_100420.pdf)
+
+[feuille d'exercices corrigés PC0.pdf](/assets/PC0.pdf) 
+
+# **PC1 : conditionement, indépendance, Borel-Cantelli**
+
+[PC1](/assets/PC1.pdf) -- On corrigera les exercices 4, 5 et 7 lors de la PC du lundi 20 avril.
+
+[PC1 exos complémenatires](/assets/PC1_sup.pdf) 
+
+Pas de Devoir Maison cette semaine. On commencera les DMs seulement pour la PC2 (feuille disponible au plus tard vendredi 24 avril).
+
+# **PC2 : Tribus et espace de probabilité -- variables aléatoires réelles -- densité**
+
+[PC2](/assets/PC2.pdf)
+
+[DM2](/assets/DM2.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 29 avril à midi. Vous pouvez utiliser le template latex plus haut pour votre rendu.
+
+[DM2-solution](/assets/DM2_solution.pdf)
+
+# **PC3 : Variables aléatoires réelles -- Vecteurs aléatoires**
+
+[PC3](/assets/PC3.pdf)
+
+[DM3](/assets/DM3.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 6 mai à midi. Vous pouvez utiliser le template latex plus haut pour votre solution.
+
+[DM3-solution](/assets/DM3_solution.pdf)
+
+# **PC4 : Vecteurs aléatoires à densité - lois conditionnelles**
+
+[PC4](/assets/PC4.pdf)
+
+[DM4](/assets/DM4.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 13 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[DM4-solution](/assets/DM4_solution.pdf)
+
+# **PC5 : Calcul de lois et vecteurs gaussiens**
+
+[PC5](/assets/PC5.pdf)
+
+[DM5](/assets/DM5.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 20 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[DM5-solution](/assets/DM5_solution.pdf)
+
+# **PC6 : Convergences et lois des grands nombres**
+
+[PC6](/assets/PC6.pdf)
+
+[DM6](/assets/DM6.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 27 mai à midi. Il est préférable  d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[DM6-solution](/assets/DM6_solution.pdf)
+
+# **PC7 : Convergences en loi et TCL**
+
+[PC7](/assets/PC7.pdf)
+
+[DM7](/assets/DM7.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 10 juin à midi. Il est préférable d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[DM7-solution](/assets/DM7_solution.pdf)
+
+# **PC8 : Estimation statistique**
+
+[PC8](/assets/PC8.pdf)
+
+[DM8](/assets/DM8.pdf) -- à rendre par les éléves des groupes i) (voir plus haut pour la liste) avant mercredi 17 juin à midi. Il est préférable d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+[Question](/assets/questions.pdf)
+
+[DM8-solution](/assets/DM8_solution.pdf)
+
+# **PC9 : Intervalle de confiance**
+
+[PC9](/assets/PC9.pdf)
+
+[DM9](/assets/DM9.pdf) -- à rendre par les éléves des groupes ii) (voir plus haut pour la liste) avant mercredi 24 juin à midi. Il est préférable d'utiliser le template latex plus haut pour votre rendu ou le markdown des notebook python.
+
+
+# **Survey / feedback
+
+Si vous avez un peu de temps, pourriez-vous remplir ce [survey](https://docs.google.com/forms/d/e/1FAIpQLSdVM_BVD8AP4Qa2oxJRFu86X5WH5hsAWn1H0xCW41T5SBFfUA/viewform?usp=sf_link) ?
+
+
+
+**-------------------------------------------------------------**
+**-------------------------------------------------------------**
+
+# **FAQ** (N'hésitez pas à poser des questions dans les commentaires en bas ou en m'adressant un mail.)
+
+**Question : est ce que le binôme pour le projet doit faire partie d'un même groupe de PC ?**
+
+Non, les binômes pour les projets sont indépendants des groupes de PC. Vous pouvez donc choisir de vous mettre en binôme avec qui vous voulez dans la promo.
+
+**Question : Il y aura des exercices aujourd'hui (vendredi 10 avril) ? Si oui quand est ce que la vidéo du cours sera disponible ?**
+
+Pas d'exercices aujourd'hui. La première feuille d'exercices sera disponible (sur cette page web) au plus tard le vendredi 17 avril. La première vidéo de l'amphi sera disponible sur le moodle à la date et horaire de l'amphi tels qu'ils doivent apparaître dans votre emploi du temps (en cours de vérification par l'administration -- voir la deuxième question suivante).
+
+**Question : Est ce obligatoire le jupyter notebook ou ne peut on pas rendre les fichiers pythons directement ?**
+
+
+Non, pas obligatoire mais très fortement conseillé. Il est encore éventuellement possible de faire .py + rapport pdf mais ça demande plus de travail et c'est déconseillé. C'est peut être justifiable pour les projets ayant une forte composante théorique avec pas mal de formules. Dans ce cas, la mise en forme limitée de markdown/latex dans le notebook peut-être un peu gênante. Même dans ce cas. il est préférable de faire un notebook avec éventuellement un pdf complémentaire... 
+
+**Question : Je ne vois pas de créneau pour les amphis de MAP sur synapses**
+
+Les élèves doivent avoir les créneaux de l'amphi de MAP361 dans leur emploi du temps, sinon ils ne sauront pas quand regarder la vidéo. Les amphis sont remplacés par les vidéos des cours de l'an dernier.  On va vérifier cela.
+
+**Question : c'est quoi le projet Python ? Est-il possible d’avoir une description de ce qu’on attend de nous ?**
+
+Arvind Singh s'en charge. Les élèves auront le catalogue des projets fin avril au plus tard. La page moodle dédiée au MAP361P sera très bientôt actualisée : d'ici le milieu de la semaine prochaine et la liste des projets devrait être consultable d'ici 10 jours (mais les vœux commenceraient le 4 mai). 
+
+
+**Question : Est-ce que les étudiants peuvent changer de groupes ? Pour passer de niveau modéré à intensif ?**
+
+Si c'est pour changer de niveau, je pense que les élèves devraient être autorisés à changer de groupe. Mais ça doit passer par la scolarité 1A, on gère pas cela.
+
