@@ -4,18 +4,18 @@ title: About me
 permalink: /about/
 ---
 
-I am professor of statistics and machine learning at [Laboratoire de statistiques](http://www.crest.fr/index.php?option=com_content&view=article&id=58&Itemid=104) at [CREST](http://www.crest.fr).
+I am professor of statistics and machine learning at the [IDS department at ESSEC](https://isds-department.essec.edu).
  
 
 
 
 # Address:
-ENSAE\\
-Bureau 3029\\
-5, avenue Henry Le Chatelier\\
-91120 Palaiseau
+ESSEC Business School\\
+Office N308\\
+3 Av. Bernard Hirsch. B.P. 50105.\\ 
+95021 Cergy, France\\
 
-Tél.: +33(0)1.70.26.68.57
+Tél.: +33(0)1.34.43.36.02
 
 # PhD and Habilitation:
 My PhD manuscript is available [here](/assets/These-Guillaume-Lecue.pdf) and the slides of my PhD defense are available [here](/assets/soutenanceTheseVersionFinale.pdf).
