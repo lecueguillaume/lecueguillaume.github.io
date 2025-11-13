@@ -5,9 +5,11 @@ permalink: /research/
 ---
 
 
+
+
 0. G. Lecué and Z. Shang\\
 [A geometrical viewpoint on the benign overfitting property of the minimum l2-norm interpolant estimator.](/assets/article_ell2_min_interpolent.pdf)\\
-Submitted, 2022.
+Probab. Theory Related Fields 191 (2025), no. 3-4, 1401–1484.
 
 
 0. J. Depersin and G. Lecué\\
