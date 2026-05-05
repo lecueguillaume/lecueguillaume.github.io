@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+[Polyads]({% post_url 2026-05-05-polyads %})
+
 [Polyads](/assets/presentation.pdf)
 
 [Rappels de statistiques mathématiques]({% post_url 2017-09-04-rappels-stats %})

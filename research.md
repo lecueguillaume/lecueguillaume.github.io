@@ -3,8 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 ---
+0. L. Resende, G. Lecué, L. Wilner and P. Choné
+[Statistical Inference in Large Multi-way Networks](https://arxiv.org/abs/2512.02203)
 
+0. G. Lecué, Z. Li and Z. Shang
+[Sharp convergence rates for Spectral methods via the feature space decomposition method](https://arxiv.org/search/?query=Lecué&searchtype=all&source=header)
 
+0.  G. Gavrilopoulos, G. Lecué, and Z. Shang\\
+[A geometrical analysis of kernel ridge regression and its applications](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-geometrical-analysis-of-kernel-ridge-regression-and-its-applications/10.1214/25-AOS2556.full)
 
 
 0. G. Lecué and Z. Shang\\
