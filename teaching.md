@@ -6,7 +6,9 @@ permalink: /teaching/
 
 [Polyads]({% post_url 2026-05-05-polyads %})
 
-[Polyads](/assets/presentation.pdf)
+[Polyads pdf](/assets/presentation.pdf)
+
+[Polyads md](/presentation.md)
 
 [Rappels de statistiques mathématiques]({% post_url 2017-09-04-rappels-stats %})
 

@@ -11,6 +11,11 @@ permalink: /research/
 
 0.  G. Gavrilopoulos, G. Lecué, and Z. Shang\\
 [A geometrical analysis of kernel ridge regression and its applications](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-geometrical-analysis-of-kernel-ridge-regression-and-its-applications/10.1214/25-AOS2556.full)
+**Ann. Statist.** 53(6): 2592-2616 (December 2025).
+
+0. G. Lecué and L. Neirac.
+[Learning with a linear loss function: excess risk and estimation bounds for ERM, minmax MOM and their regularized versions with applications to robustness in sparse PCA.](https://www.jmlr.org/papers/v25/23-1405.html) **JMLR**
+25(399):1−90, 2024.
 
 
 0. G. Lecué and Z. Shang\\
@@ -20,11 +25,11 @@ Probab. Theory Related Fields 191 (2025), no. 3-4, 1401–1484.
 
 0. J. Depersin and G. Lecué\\
 [Optimal robust mean and location estimation via convex programs with respect to any pseudo-norms](/assets/convex_prog_robust_sparse_mean.pdf)\\
-To appear in **Probability theory and related fields**
+**Probability theory and related fields,**  183, 997–1025 (2022)
 
 0. J. Depersin and G. Lecué\\
 [On the robustness to adversarial corruption and to heavy-tailed data of the Stahel-Donoho median of means](/assets/SDO_median.pdf)\\
-Submitted, 2021.
+**Information and Inference: A Journal of the IMA**, Volume 12, Issue 2, June 2023, Pages 814–850
 
 0. S. Chrétien, M. Cucuringu, G. Lecué and L. Neirac\\
 [Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature](/assets/21-0021.pdf)\\
