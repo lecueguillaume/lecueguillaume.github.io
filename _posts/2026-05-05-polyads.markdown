@@ -11,6 +11,8 @@ We introduce the polyads estimator for structural parameter estimation.
 
 [Lucas Resende's Polyads package](https://github.com/lucasresenderc/polyads)
 
+[Polyads pdf](/assets/presentation.pdf)
+
  
 
 

@@ -14,13 +14,12 @@ permalink: /research/
 **Ann. Statist.** 53(6): 2592-2616 (December 2025).
 
 0. G. Lecué and L. Neirac.
-[Learning with a linear loss function: excess risk and estimation bounds for ERM, minmax MOM and their regularized versions with applications to robustness in sparse PCA.](https://www.jmlr.org/papers/v25/23-1405.html) **JMLR**
-25(399):1−90, 2024.
+[Learning with a linear loss function: excess risk and estimation bounds for ERM, minmax MOM and their regularized versions with applications to robustness in sparse PCA.](https://www.jmlr.org/papers/v25/23-1405.html) **Journal of Machine Learning Research** 25(399):1−90, 2024.
 
 
 0. G. Lecué and Z. Shang\\
 [A geometrical viewpoint on the benign overfitting property of the minimum l2-norm interpolant estimator.](/assets/article_ell2_min_interpolent.pdf)\\
-Probab. Theory Related Fields 191 (2025), no. 3-4, 1401–1484.
+**Probab. Theory Related Fields** 191 (2025), no. 3-4, 1401–1484.
 
 
 0. J. Depersin and G. Lecué\\
