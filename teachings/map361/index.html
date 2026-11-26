@@ -1,0 +1,602 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> MAP361 -- Aléatoire | Guillaume Lecué </title> <meta name="author" content="Guillaume Lecué"> <meta name="description" content="Cours de probabilités et statistique (MAP361, École polytechnique), printemps 2020 : polycopié, feuilles de PC, devoirs maison et corrigés."> <meta name="keywords" content="Guillaume Lecué, ESSEC, statistics, machine learning, learning theory, empirical processes, compressed sensing, robustness, minimax"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/website-new/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/website-new/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/website-new/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://lecueguillaume.github.io/website-new/teachings/map361/"> <script src="/website-new/assets/js/theme.js?v=5286c3e4c334d0ecb8fc0c40ff4fa7ec"></script> <link defer rel="stylesheet" href="/website-new/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
+    initTheme();
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/website-new/"> <span class="font-weight-bold">Guillaume</span> Lecué </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/website-new/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/blog/">blog </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/publications/">publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/projects/">projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/repositories/">repositories </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/cv/">CV </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/teaching/">teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/website-new/people/">people </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">MAP361 -- Aléatoire</h1> <p class="post-description">Cours de probabilités et statistique (MAP361, École polytechnique), printemps 2020 : polycopié, feuilles de PC, devoirs maison et corrigés.</p> </header> <article> <div class="course"> <div class="course-info"> <p><strong>Instructor:</strong> Guillaume Lecué</p> <p><strong>Term:</strong> Spring</p> <p><strong>Location:</strong> École polytechnique</p> </div> <p>Une <strong>description détaillée</strong> du cours se trouve sur la page Moodle du cours.</p> <p><strong>Polycopié</strong> : <a href="/assets/pdf/polymap361.pdf">polymap361.pdf</a></p> <p><strong>Quelques rappels condensés en théorie de la mesure</strong> : <a href="/assets/pdf/elements_integration.pdf">elements_integration.pdf</a>. Tout ce dont vous avez besoin de savoir en théorie de la mesure se trouve dans le polycopié du cours. Cette note ne fait que compléter le cours et reste optionnelle.</p> <h2 id="organisation-des-pcs">Organisation des PCs</h2> <p>Chaque vendredi après-midi, je posterai sur cette page une <strong>feuille d’exercices corrigés</strong> en lien avec le cours de la semaine. On corrigera deux ou trois exercices de cette feuille (nommée, par exemple, PC2.pdf pour la deuxième PC) le lundi après-midi (voir l’emploi du temps pour savoir à quel créneau chaque élève est affecté).</p> <p>En plus de cette feuille, il y aura une feuille (nommée, par exemple, DM2.pdf pour la PC2) de <strong>devoir maison</strong> contenant un ou deux exercices (non corrigés). Pour chaque sous-groupe (10.a), 10.b), 23.a) et 23.b)), la moitié du sous-groupe (soit 5 élèves pour le groupe 10 et 6 ou 7 pour le groupe 23) devait faire un exercice de la feuille DMX.pdf et me rendre sa solution pour le mercredi suivant à midi au plus tard (soit 5 jours après l’avoir reçu). Cet exercice était corrigé et noté.</p> <p>On commence les DMs à la deuxième PC. Chaque élève a donc 4 notes. Je prends la moyenne de ces 4 notes pour faire une note de PC. Cette note compte pour 40 pour cent de la note finale (le reste de la note est expliqué dans les slides de présentation de la PC0).</p> <p><strong>Exemple pour la PC2 :</strong></p> <ol> <li>vendredi 23 avril : je poste sur cette page PC2.pdf, DM2.pdf et la liste des élèves devant me rendre leur DM avec le numéro d’exercice qu’ils doivent corriger.</li> <li>lundi 27 avril : PC2, on corrige 2 ou 3 exercices de la feuille PC2.pdf.</li> <li>mercredi 29 avril avant midi : les élèves désignés plus haut rendent leur solution d’un exercice désigné de la feuille DM2.pdf en l’envoyant par email et en nommant le fichier sous la forme <em>dm2_groupe_10_NOM</em> (où vous remplacez NOM par votre nom et 10 par 23 si vous êtes dans le groupe 23).</li> <li>au plus tard vendredi 1er mai à midi : je poste sur cette page la correction de DM2.pdf et les notes des élèves ayant rendu leur solution.</li> </ol> <p><strong>Pour ceux qui connaissent LaTeX ou qui veulent l’apprendre :</strong> voici un <a href="/assets/files/template_exos.tex">template LaTeX</a> pour le rendu des DMs. C’est celui que nous utilisons pour la rédaction des feuilles d’exercices.</p> <p><strong>Pour ceux qui ne connaissent pas LaTeX et qui ne vont pas l’apprendre,</strong> vous pouvez m’envoyer vos DM dans un notebook python (en markdown).</p> <h2 id="emploi-du-temps">Emploi du temps</h2> <ol> <li> <em>Groupe 10 :</em> a) Élèves de A à J (inclus) de 13h30 à 14h30 b) Élèves de J à Z de 14h30 à 15h30</li> <li> <em>Groupe 23 :</em> a) Élèves de A à G (inclus) de 15h45 à 16h45 b) Élèves de H à Z de 16h45 à 17h45</li> </ol> <h2 id="survey--feedback">Survey / feedback</h2> <p>Si vous avez un peu de temps, pourriez-vous remplir ce <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVM_BVD8AP4Qa2oxJRFu86X5WH5hsAWn1H0xCW41T5SBFfUA/viewform?usp=sf_link" rel="external nofollow noopener" target="_blank">survey</a> ?</p> <h2 id="faq">FAQ</h2> <p><strong>Question : est-ce que le binôme pour le projet doit faire partie d’un même groupe de PC ?</strong></p> <p>Non, les binômes pour les projets sont indépendants des groupes de PC. Vous pouvez donc choisir de vous mettre en binôme avec qui vous voulez dans la promo.</p> <p><strong>Question : il y aura des exercices aujourd’hui (vendredi 10 avril) ? Si oui quand est-ce que la vidéo du cours sera disponible ?</strong></p> <p>Pas d’exercices aujourd’hui. La première feuille d’exercices sera disponible (sur cette page web) au plus tard le vendredi 17 avril. La première vidéo de l’amphi sera disponible sur le Moodle à la date et horaire de l’amphi tels qu’ils doivent apparaître dans votre emploi du temps (en cours de vérification par l’administration – voir la deuxième question suivante).</p> <p><strong>Question : est-ce obligatoire le jupyter notebook ou ne peut-on pas rendre les fichiers python directement ?</strong></p> <p>Non, pas obligatoire mais très fortement conseillé. Il est encore éventuellement possible de faire .py + rapport pdf mais ça demande plus de travail et c’est déconseillé. C’est peut-être justifiable pour les projets ayant une forte composante théorique avec pas mal de formules. Dans ce cas, la mise en forme limitée de markdown/latex dans le notebook peut être un peu gênante. Même dans ce cas, il est préférable de faire un notebook avec éventuellement un pdf complémentaire.</p> <p><strong>Question : je ne vois pas de créneau pour les amphis de MAP sur synapses</strong></p> <p>Les élèves doivent avoir les créneaux de l’amphi de MAP361 dans leur emploi du temps, sinon ils ne sauront pas quand regarder la vidéo. Les amphis sont remplacés par les vidéos des cours de l’an dernier. On va vérifier cela.</p> <p><strong>Question : c’est quoi le projet Python ? Est-il possible d’avoir une description de ce qu’on attend de nous ?</strong></p> <p>Arvind Singh s’en charge. Les élèves auront le catalogue des projets fin avril au plus tard. La page Moodle dédiée au MAP361P sera très bientôt actualisée : d’ici le milieu de la semaine prochaine et la liste des projets devrait être consultable d’ici 10 jours (mais les vœux commenceraient le 4 mai).</p> <p><strong>Question : est-ce que les étudiants peuvent changer de groupes ? Pour passer de niveau modéré à intensif ?</strong></p> <p>Si c’est pour changer de niveau, je pense que les élèves devraient être autorisés à changer de groupe. Mais ça doit passer par la scolarité 1A, on ne gère pas cela.</p> <h2>Schedule</h2> <table class="table table-sm table-responsive"> <thead> <tr> <th>Week</th> <th>Date</th> <th>Topic</th> <th>Materials</th> </tr> </thead> <tbody> <tr> <td>PC0</td> <td></td> <td> <strong>Présentation de l'organisation</strong> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/pres_100420.pdf" target="_blank">slides</a> </li> <li> <a href="/website-new/assets/pdf/PC0.pdf" target="_blank">feuille d'exercices corrigés PC0</a> </li> </ul> </td> </tr> <tr> <td>PC1</td> <td></td> <td> <strong>Conditionnement, indépendance, Borel-Cantelli</strong> <div class="schedule-description"> <p>On corrigera les exercices 4, 5 et 7 lors de la PC du lundi 20 avril. Pas de devoir maison cette semaine : les DMs commencent à la PC2.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC1.pdf" target="_blank">PC1</a> </li> <li> <a href="/website-new/assets/pdf/PC1_sup.pdf" target="_blank">PC1 exos complémentaires</a> </li> </ul> </td> </tr> <tr> <td>PC2</td> <td></td> <td> <strong>Tribus et espace de probabilité -- variables aléatoires réelles -- densité</strong> <div class="schedule-description"> <p>DM2 à rendre par les élèves des groupes i) avant le mercredi 29 avril à midi. Vous pouvez utiliser le template LaTeX pour votre rendu.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC2.pdf" target="_blank">PC2</a> </li> <li> <a href="/website-new/assets/pdf/DM2.pdf" target="_blank">DM2</a> </li> <li> <a href="/website-new/assets/pdf/DM2_solution.pdf" target="_blank">DM2 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC3</td> <td></td> <td> <strong>Variables aléatoires réelles -- vecteurs aléatoires</strong> <div class="schedule-description"> <p>DM3 à rendre par les élèves des groupes ii) avant le mercredi 6 mai à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC3.pdf" target="_blank">PC3</a> </li> <li> <a href="/website-new/assets/pdf/DM3.pdf" target="_blank">DM3</a> </li> <li> <a href="/website-new/assets/pdf/DM3_solution.pdf" target="_blank">DM3 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC4</td> <td></td> <td> <strong>Vecteurs aléatoires à densité -- lois conditionnelles</strong> <div class="schedule-description"> <p>DM4 à rendre par les élèves des groupes i) avant le mercredi 13 mai à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC4.pdf" target="_blank">PC4</a> </li> <li> <a href="/website-new/assets/pdf/DM4.pdf" target="_blank">DM4</a> </li> <li> <a href="/website-new/assets/pdf/DM4_solution.pdf" target="_blank">DM4 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC5</td> <td></td> <td> <strong>Calcul de lois et vecteurs gaussiens</strong> <div class="schedule-description"> <p>DM5 à rendre par les élèves des groupes ii) avant le mercredi 20 mai à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC5.pdf" target="_blank">PC5</a> </li> <li> <a href="/website-new/assets/pdf/DM5.pdf" target="_blank">DM5</a> </li> <li> <a href="/website-new/assets/pdf/DM5_solution.pdf" target="_blank">DM5 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC6</td> <td></td> <td> <strong>Convergences et lois des grands nombres</strong> <div class="schedule-description"> <p>DM6 à rendre par les élèves des groupes i) avant le mercredi 27 mai à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC6.pdf" target="_blank">PC6</a> </li> <li> <a href="/website-new/assets/pdf/DM6.pdf" target="_blank">DM6</a> </li> <li> <a href="/website-new/assets/pdf/DM6_solution.pdf" target="_blank">DM6 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC7</td> <td></td> <td> <strong>Convergences en loi et TCL</strong> <div class="schedule-description"> <p>DM7 à rendre par les élèves des groupes ii) avant le mercredi 10 juin à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC7.pdf" target="_blank">PC7</a> </li> <li> <a href="/website-new/assets/pdf/DM7.pdf" target="_blank">DM7</a> </li> <li> <a href="/website-new/assets/pdf/DM7_solution.pdf" target="_blank">DM7 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC8</td> <td></td> <td> <strong>Estimation statistique</strong> <div class="schedule-description"> <p>DM8 à rendre par les élèves des groupes i) avant le mercredi 17 juin à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC8.pdf" target="_blank">PC8</a> </li> <li> <a href="/website-new/assets/pdf/DM8.pdf" target="_blank">DM8</a> </li> <li> <a href="/website-new/assets/pdf/questions.pdf" target="_blank">Question</a> </li> <li> <a href="/website-new/assets/pdf/DM8_solution.pdf" target="_blank">DM8 -- solution</a> </li> </ul> </td> </tr> <tr> <td>PC9</td> <td></td> <td> <strong>Intervalle de confiance</strong> <div class="schedule-description"> <p>DM9 à rendre par les élèves des groupes ii) avant le mercredi 24 juin à midi.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/website-new/assets/pdf/PC9.pdf" target="_blank">PC9</a> </li> <li> <a href="/website-new/assets/pdf/DM9.pdf" target="_blank">DM9</a> </li> </ul> </td> </tr> </tbody> </table> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Guillaume Lecué. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/website-new/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/website-new/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/website-new/assets/al_math/js/mathjax-setup.js"></script> <script src="/website-new/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script src="/website-new/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/website-new/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/website-new/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/website-new/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/website-new/assets/al_img_tools/js/zoom.js"></script> <script defer src="/website-new/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/website-new/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/website-new/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/website-new/";
+    },
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/blog/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order. generated by jekyll-scholar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/publications/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Research software, notebooks and events.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/projects/";
+          },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "GitHub profile and repositories with code accompanying my research papers.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/repositories/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum vitae of Guillaume Lecué.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Course materials (lecture notes, exercise sheets, exams, notebooks) for classes taught at ESSEC, ENSAE Paris, École polytechnique and the Master Data Science of IP Paris.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/teaching/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "Collaborators and students.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/people/";
+          },
+        },{id: "post-a-post-with-marimo-snippets",
+        
+          title: "a post with marimo snippets",
+        
+        description: "running Python in the browser with marimo",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2025/marimo/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2025/plotly/";
+          
+        },
+      },{id: "post-a-post-with-image-galleries",
+        
+          title: "a post with image galleries",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-a-post-with-tabs",
+        
+          title: "a post with tabs",
+        
+        description: "this is what included tabs in a post could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/tabs/";
+          
+        },
+      },{id: "post-a-post-with-typograms",
+        
+          title: "a post with typograms",
+        
+        description: "this is what included typograms code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/typograms/";
+          
+        },
+      },{id: "post-a-post-that-can-be-cited",
+        
+          title: "a post that can be cited",
+        
+        description: "this is what a post that can be cited looks like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/post-citation/";
+          
+        },
+      },{id: "post-a-post-with-pseudo-code",
+        
+          title: "a post with pseudo code",
+        
+        description: "this is what included pseudo code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/pseudocode/";
+          
+        },
+      },{id: "post-a-post-with-code-diff",
+        
+          title: "a post with code diff",
+        
+        description: "this is how you can display code diffs",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/code-diff/";
+          
+        },
+      },{id: "post-a-post-with-advanced-image-components",
+        
+          title: "a post with advanced image components",
+        
+        description: "this is what advanced image components could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/advanced-images/";
+          
+        },
+      },{id: "post-a-post-with-vega-lite",
+        
+          title: "a post with vega lite",
+        
+        description: "this is what included vega lite code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/vega-lite/";
+          
+        },
+      },{id: "post-a-post-with-geojson",
+        
+          title: "a post with geojson",
+        
+        description: "this is what included geojson code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/geojson-map/";
+          
+        },
+      },{id: "post-a-post-with-echarts",
+        
+          title: "a post with echarts",
+        
+        description: "this is what included echarts code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/echarts/";
+          
+        },
+      },{id: "post-a-post-with-chart-js",
+        
+          title: "a post with chart.js",
+        
+        description: "this is what included chart.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2024/chartjs/";
+          
+        },
+      },{id: "post-a-post-with-tikzjax",
+        
+          title: "a post with TikZJax",
+        
+        description: "this is what included TikZ code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/tikzjax/";
+          
+        },
+      },{id: "post-a-post-with-bibliography",
+        
+          title: "a post with bibliography",
+        
+        description: "an example of a blog post with bibliography",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/post-bibliography/";
+          
+        },
+      },{id: "post-a-post-with-jupyter-notebook",
+        
+          title: "a post with jupyter notebook",
+        
+        description: "an example of a blog post with jupyter notebook",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/jupyter-notebook/";
+          
+        },
+      },{id: "post-a-post-with-custom-blockquotes",
+        
+          title: "a post with custom blockquotes",
+        
+        description: "an example of a blog post with custom blockquotes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/custom-blockquotes/";
+          
+        },
+      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+        
+          title: "a post with table of contents on a sidebar",
+        
+        description: "an example of a blog post with table of contents on a sidebar",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/sidebar-table-of-contents/";
+          
+        },
+      },{id: "post-a-post-with-audios",
+        
+          title: "a post with audios",
+        
+        description: "this is what included audios could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/audios/";
+          
+        },
+      },{id: "post-a-post-with-videos",
+        
+          title: "a post with videos",
+        
+        description: "this is what included videos could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/videos/";
+          
+        },
+      },{id: "post-displaying-beautiful-interactive-tables",
+        
+          title: "displaying beautiful interactive tables",
+        
+        description: "an example of how to use interactive tables in al-folio",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/tables/";
+          
+        },
+      },{id: "post-a-post-with-table-of-contents",
+        
+          title: "a post with table of contents",
+        
+        description: "an example of a blog post with table of contents",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2023/table-of-contents/";
+          
+        },
+      },{id: "post-a-post-with-giscus-comments",
+        
+          title: "a post with giscus comments",
+        
+        description: "an example of a blog post with giscus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2022/giscus-comments/";
+          
+        },
+      },{id: "post-یک-نوشتهٔ-راست-چین",
+        
+          title: "یک نوشتهٔ راست‌چین",
+        
+        description: "نمونه‌ای از پشتیبانی زبان‌های راست‌چین",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2022/rtl/";
+          
+        },
+      },{id: "post-offre-de-stages-sur-la-mesure-d-39-audience-croisée-en-partenariat-avec-médiamétrie",
+        
+          title: "Offre de stages sur la mesure d&#39;audience croisée en partenariat avec Médiamétrie",
+        
+        description: "Stages et postes d&#39;assistants de recherche sur la mesure d&#39;audience croisée.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2022/offre-stage-xmm/";
+          
+        },
+      },{id: "post-a-post-with-redirect",
+        
+          title: "a post with redirect",
+        
+        description: "you can also redirect to assets like pdf",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-a-post-with-diagrams",
+        
+          title: "a post with diagrams",
+        
+        description: "an example of a blog post with diagrams",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2021/diagrams/";
+          
+        },
+      },{id: "post-a-distill-style-blog-post",
+        
+          title: "a distill-style blog post",
+        
+        description: "an example of a distill-style blog post and main elements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2021/distill/";
+          
+        },
+      },{id: "post-a-post-with-twitter",
+        
+          title: "a post with twitter",
+        
+        description: "an example of a blog post with twitter",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2020/twitter/";
+          
+        },
+      },{id: "post-interview-de-michel-talagrand-par-gilles-godefroy",
+        
+          title: "Interview de Michel Talagrand par Gilles Godefroy",
+        
+        description: "Interview de Michel Talagrand publiée dans la Gazette de la SMF.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2019/interview-michel-talagrand/";
+          
+        },
+      },{id: "post-a-post-with-disqus-comments",
+        
+          title: "a post with disqus comments",
+        
+        description: "an example of a blog post with disqus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2015/disqus-comments/";
+          
+        },
+      },{id: "post-a-post-with-math",
+        
+          title: "a post with math",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2015/math/";
+          
+        },
+      },{id: "post-a-post-with-code",
+        
+          title: "a post with code",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2015/code/";
+          
+        },
+      },{id: "post-a-post-with-images",
+        
+          title: "a post with images",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2015/images/";
+          
+        },
+      },{id: "post-a-post-with-formatting-and-links",
+        
+          title: "a post with formatting and links",
+        
+        description: "march &amp; april, looking forward to summer",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website-new/blog/2015/formatting-and-links/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/website-new/books/the_godfather/";
+            },},{id: "news-session-on-robust-machine-learning-at-cmstatistics-2018-pisa",
+          title: 'Session on robust machine learning at CMStatistics 2018, Pisa.',
+          description: "",
+          section: "News",},{id: "news-online-conference-on-robustness-and-privacy-march-22-23-2021",
+          title: 'Online conference on robustness and privacy, March 22-23, 2021.',
+          description: "",
+          section: "News",},{id: "news-internship-and-research-assistant-positions-on-cross-media-audience-measurement-with-médiamétrie-more-details",
+          title: 'Internship and research assistant positions on cross-media audience measurement with Médiamétrie, more details....',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-and-published-in-the-annals-of-statistics-a-geometrical-analysis-of-kernel-ridge-regression-and-its-applications",
+          title: 'Paper accepted and published in the Annals of Statistics: A geometrical analysis of...',
+          description: "",
+          section: "News",},{id: "news-new-project-the-polyads-estimator-for-structural-parameter-estimation-in-large-multi-way-networks-with-an-arxiv-paper-and-a-python-package",
+          title: 'New project: the polyads estimator for structural parameter estimation in large multi-way networks,...',
+          description: "",
+          section: "News",},{id: "projects-conference-on-robustness-and-privacy",
+          title: 'Conference on robustness and privacy',
+          description: "Two-day virtual conference on robustness and privacy in statistics, March 22-23, 2021.",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/conference-robustness-privacy/";
+            },},{id: "projects-working-group-in-econometrics-and-statistics-at-crest",
+          title: 'Working group in econometrics and statistics at CREST',
+          description: "Working group in econometrics and statistics (CREST, January 2018).",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/crest-workshop-econometrics-statistics/";
+            },},{id: "projects-python-code-for-median-of-means-estimators",
+          title: 'Python code for Median of Means estimators',
+          description: "Implementations of median-of-means (MOM) estimators and notebooks accompanying the papers on robust machine learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/mom-code/";
+            },},{id: "projects-python-notebooks-for-research-papers",
+          title: 'Python notebooks for research papers',
+          description: "Notebooks reproducing numerical experiments of several of my research papers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/notebooks-python/";
+            },},{id: "projects-polyads-estimator",
+          title: 'Polyads estimator',
+          description: "An estimator for structural parameter estimation in large multi-way networks, with an open-source package.",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/polyads/";
+            },},{id: "projects-session-quot-robust-machine-learning-quot-in-pisa",
+          title: 'Session &amp;quot;Robust Machine Learning&amp;quot; in Pisa',
+          description: "Invited session on robust machine learning at CMStatistics 2018 (Pisa, December 2018).",
+          section: "Projects",handler: () => {
+              window.location.href = "/website-new/projects/robust-machine-learning-pisa/";
+            },},{id: "teachings-advanced-applied-statistics",
+          title: 'Advanced applied Statistics',
+          description: "Advanced applied statistics at the BSc AIDAMS (ESSEC Business School). Slide decks are available on the course website.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/advanced-applied-statistics/";
+            },},{id: "teachings-cours-de-compressed-sensing",
+          title: 'Cours de Compressed Sensing',
+          description: "Introduction mathématique au compressed sensing (ENSAE Paris, Master Data Science de l&#39;Institut Polytechnique de Paris).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/compressed-sensing/";
+            },},{id: "teachings-map361-aléatoire",
+          title: 'MAP361 -- Aléatoire',
+          description: "Cours de probabilités et statistique (MAP361, École polytechnique), printemps 2020 : polycopié, feuilles de PC, devoirs maison et corrigés.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/map361/";
+            },},{id: "teachings-master-data-science-de-l-39-x-ensae-télécom-ensta",
+          title: 'Master Data Science de l&amp;#39;X-ENSAE-Télécom-ENSTA',
+          description: "Informations pour les étudiants de l&#39;ENSAE : règles de validation, équivalences d&#39;ECTS entre l&#39;ENSAE et le Master Data Science de l&#39;Institut Polytechnique de Paris, FAQ.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/master-data-science/";
+            },},{id: "teachings-cours-d-39-optimisation-différentiable",
+          title: 'Cours d&amp;#39;optimisation différentiable',
+          description: "Optimisation différentiable et convexe (ENSAE Paris) : notes de cours, polycopié d&#39;exercices et annales d&#39;examens.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/optimisation-differentiable/";
+            },},{id: "teachings-rappels-de-statistiques-mathématiques",
+          title: 'Rappels de statistiques mathématiques',
+          description: "Cours de rappels de statistiques mathématiques (ENSAE Paris, Master Data Science).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/website-new/teachings/rappels-statistiques/";
+            },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/website-new/assets/pdf/CVGuillaumeLecue.pdf", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6C%65%63%75%65@%65%73%73%65%63.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/lecueguillaume", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/website-new/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=OB2mH-UAAAAJ", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
+
+</script> <script src="/website-new/assets/al_search/js/shortcut-key.js"></script> </body> </html>

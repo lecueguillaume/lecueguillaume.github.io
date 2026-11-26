@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lecueguillaume.github.io/website-new/sitemap.xml
