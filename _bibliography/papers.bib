@@ -1,115 +1,713 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@string{smf = {Soci{\'e}t{\'e} Math{\'e}matique de France}}
+@string{springer = {Springer}}
 
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
+% ---------------------------------------------------------------------------
+% Preprints
+% ---------------------------------------------------------------------------
+
+@unpublished{lecue2026sharp,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Sharp convergence rate of the estimation error of {LASSO} via the Feature Space Decomposition method},
+  author      = {Lecué, G. and Shang, Z.},
+  year        = {2026},
+  note        = {Preprint},
+  arxiv       = {2610.30622},
+  selected    = {true}
 }
 
-@book{einstein1956investigations,
+@unpublished{adamczak2026benign,
+  abbr        = {arXiv},
   bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
+  title       = {Benign Overfitting Property of the Minimum $\ell_q$-norm Interpolant Estimator in Regression Problem via Feature Space Decomposition},
+  author      = {Adamczak, R. and Lecué, G. and Shang, Z. and Strzelecka, M.},
+  year        = {2026},
+  note        = {Preprint},
+  arxiv       = {2610.24350}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
+@unpublished{shang2026geometry,
+  abbr        = {arXiv},
   bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
+  title       = {The Geometry of Statistical Feature Learning in Mean-Field {Langevin} Dynamics},
+  author      = {Shang, Z. and Wakayama, T. and Lecué, G. and Suzuki, T.},
+  year        = {2026},
+  note        = {Preprint},
+  arxiv       = {2606.31429}
+}
+
+@unpublished{lecue2026spectral,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Sharp convergence rates for Spectral methods via the feature space decomposition method},
+  author      = {Lecué, G. and Li, Z. and Shang, Z.},
+  year        = {2026},
+  note        = {Preprint}
+}
+
+@unpublished{resende2025statistical,
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  title       = {Statistical Inference in Large Multi-way Networks},
+  author      = {Resende, L. and Lecué, G. and Wilner, L. and Choné, P.},
+  year        = {2025},
+  note        = {Preprint. Introduces the polyads estimator},
+  arxiv       = {2512.02203},
+  code        = {https://github.com/lucasresenderc/polyads},
+  slides      = {presentation.pdf}
+}
+
+% ---------------------------------------------------------------------------
+% Journal articles and conference papers
+% ---------------------------------------------------------------------------
+
+@article{gavrilopoulos2025geometrical,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {A geometrical analysis of kernel ridge regression and its applications},
+  author      = {Gavrilopoulos, G. and Lecué, G. and Shang, Z.},
+  journal     = {The Annals of Statistics},
+  volume      = {53},
+  number      = {6},
+  pages       = {2592--2616},
+  month       = {December},
+  year        = {2025},
+  doi         = {10.1214/25-AOS2556},
+  html        = {https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/A-geometrical-analysis-of-kernel-ridge-regression-and-its-applications/10.1214/25-AOS2556.full},
+  selected    = {true}
+}
+
+@article{lecue2025geometrical,
+  abbr        = {PTRF},
+  bibtex_show = {true},
+  title       = {A geometrical viewpoint on the benign overfitting property of the minimum $\ell_2$-norm interpolant estimator},
+  author      = {Lecué, G. and Shang, Z.},
+  journal     = {Probability Theory and Related Fields},
+  volume      = {191},
+  number      = {3-4},
+  pages       = {1401--1484},
+  year        = {2025},
+  pdf         = {article_ell2_min_interpolent.pdf},
+  selected    = {true}
+}
+
+@article{lecue2024learning,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Learning with a linear loss function: excess risk and estimation bounds for {ERM}, minmax {MOM} and their regularized versions with applications to robustness in sparse {PCA}},
+  author      = {Lecué, G. and Neirac, L.},
+  journal     = {Journal of Machine Learning Research},
+  volume      = {25},
+  number      = {399},
+  pages       = {1--90},
+  year        = {2024},
+  html        = {https://www.jmlr.org/papers/v25/23-1405.html},
+  selected    = {true}
+}
+
+@article{depersin2023robustness,
+  abbr        = {IMAIAI},
+  bibtex_show = {true},
+  title       = {On the robustness to adversarial corruption and to heavy-tailed data of the {Stahel-Donoho} median of means},
+  author      = {Depersin, J. and Lecué, G.},
+  journal     = {Information and Inference: A Journal of the IMA},
+  volume      = {12},
+  number      = {2},
+  pages       = {814--850},
+  month       = {June},
+  year        = {2023},
+  pdf         = {SDO_median.pdf}
+}
+
+@article{depersin2022optimal,
+  abbr        = {PTRF},
+  bibtex_show = {true},
+  title       = {Optimal robust mean and location estimation via convex programs with respect to any pseudo-norms},
+  author      = {Depersin, J. and Lecué, G.},
+  journal     = {Probability Theory and Related Fields},
+  volume      = {183},
+  pages       = {997--1025},
+  year        = {2022},
+  pdf         = {convex_prog_robust_sparse_mean.pdf}
+}
+
+@article{depersin2022robust,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Robust subgaussian estimator of a mean vector in nearly linear time},
+  author      = {Depersin, J. and Lecué, G.},
+  journal     = {The Annals of Statistics},
+  volume      = {50},
+  number      = {1},
+  pages       = {511--536},
+  year        = {2022},
+  pdf         = {AOS2118.pdf}
+}
+
+@article{chretien2021learning,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Learning with Semi-Definite Programming: new statistical bounds based on fixed point analysis and excess risk curvature},
+  author      = {Chrétien, S. and Cucuringu, M. and Lecué, G. and Neirac, L.},
+  journal     = {Journal of Machine Learning Research},
+  pages       = {1--64},
+  year        = {2021},
+  pdf         = {21-0021.pdf}
+}
+
+@article{kwon2021median,
+  abbr        = {EJS},
+  bibtex_show = {true},
+  title       = {Median of means principle as a divide-and-conquer procedure for robustness, sub-sampling and hyper-parameters tuning},
+  author      = {Kwon, J. and Lecué, G. and Lerasle, M.},
+  journal     = {Electronic Journal of Statistics},
+  volume      = {15},
+  number      = {1},
+  pages       = {1202--1227},
+  year        = {2021},
+  pdf         = {MOMKLL.pdf},
+  code        = {https://github.com/lecueguillaume/MOMpower/tree/master/MOM_selection}
+}
+
+@article{chinot2020robust,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Robust high dimensional learning for {Lipschitz} and convex losses},
+  author      = {Chinot, G. and Lecué, G. and Lerasle, M.},
+  journal     = {Journal of Machine Learning Research},
+  volume      = {21},
+  number      = {233},
+  pages       = {1--47},
+  year        = {2020},
+  pdf         = {MOM_JMLR_2019_07_11.pdf}
+}
+
+@article{chinot2020statistical,
+  abbr        = {PTRF},
+  bibtex_show = {true},
+  title       = {Statistical learning with {Lipschitz} and convex loss functions},
+  author      = {Chinot, G. and Lecué, G. and Lerasle, M.},
+  journal     = {Probability Theory and Related Fields},
+  year        = {2020},
+  pdf         = {Chinot_et_al-2019-Probability_Theory_and_Related_Fields.pdf},
+  code        = {https://github.com/lecueguillaume/notebooks_python/blob/master/research_paper_chinot_lecue_lerasle/Notebook_Lipschitz_loss.ipynb}
+}
+
+@article{lecue2020robustclassification,
+  abbr        = {ML},
+  bibtex_show = {true},
+  title       = {Robust classification via {MOM} minimization},
+  author      = {Lecué, G. and Lerasle, M. and Mathieu, T.},
+  journal     = {Machine Learning},
+  volume      = {109},
+  number      = {8},
+  pages       = {1635--1666},
+  year        = {2020},
+  pdf         = {2020_Article_MOM_Classif.pdf},
+  code        = {https://github.com/lecueguillaume/MOMpower}
+}
+
+@article{lecue2020robust,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Robust machine learning by median-of-means: theory and practice},
+  author      = {Lecué, G. and Lerasle, M.},
+  journal     = {The Annals of Statistics},
+  volume      = {48},
+  number      = {2},
+  pages       = {906--931},
+  year        = {2020},
+  pdf         = {AOS1828.pdf},
+  supp        = {supp_mat_lecue_lerasle.pdf},
+  code        = {https://github.com/lecueguillaume/MOMpower},
+  selected    = {true}
+}
+
+@inproceedings{lerasle2019monk,
+  abbr        = {ICML},
+  bibtex_show = {true},
+  title       = {{MONK} -- Outliers-Robust Mean Embedding Estimation by Median-of-Means},
+  author      = {Lerasle, M. and Mathieu, T. and Szabó, Z. and Lecué, G.},
+  booktitle   = {International Conference on Machine Learning (ICML)},
+  series      = {Proceedings of Machine Learning Research},
+  volume      = {97},
+  year        = {2019},
+  pdf         = {ICML19.pdf},
+  html        = {http://proceedings.mlr.press/v97/lerasle19a.html},
+  additional_info = {. See [PMLR](http://proceedings.mlr.press/v97/lerasle19a.html) for supplementary files and code}
+}
+
+@article{lecue2019learning,
+  abbr        = {SPA},
+  bibtex_show = {true},
+  title       = {Learning from {MOM's} principles: {Le Cam's} approach},
+  author      = {Lecué, G. and Lerasle, M.},
+  journal     = {Stochastic Processes and their Applications},
+  volume      = {129},
+  number      = {11},
+  pages       = {4385--4410},
+  month       = {November},
+  year        = {2019},
+  pdf         = {MOMLeCam.pdf},
+  slides      = {lecue_MOM_cirm.pdf}
+}
+
+@article{alquier2019estimation,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Estimation bounds and sharp oracle inequalities of regularized procedures with {Lipschitz} loss functions},
+  author      = {Alquier, P. and Cottet, V. and Lecué, G.},
+  journal     = {The Annals of Statistics},
+  volume      = {47},
+  number      = {4},
+  pages       = {2117--2144},
+  year        = {2019},
+  pdf         = {AOS1742.pdf},
+  supp        = {supp_mat_alquier_cottet_lecue.pdf},
+  code        = {https://github.com/lecueguillaume/notebooks_python/tree/master/one_bit_matrice_completion}
+}
+
+@inproceedings{mesnard2018ground,
+  abbr        = {CoSeRa},
+  bibtex_show = {true},
+  title       = {Ground clutter processing for airborne radar in a Compressed Sensing context},
+  author      = {Mesnard, Ph. and Enderli, C. and Lecué, G.},
+  booktitle   = {CoSeRa 2018: Compressive Sensing Radar},
+  year        = {2018},
+  pdf         = {ground-clutter-processing.pdf}
+}
+
+@inproceedings{mesnard2018periodic,
+  abbr        = {IRS},
+  bibtex_show = {true},
+  title       = {Periodic Patterns Frequency Hopping Waveforms: from conventional Matched Filtering to a new Compressed Sensing Approach},
+  author      = {Mesnard, Ph. and Enderli, C. and Lecué, G.},
+  booktitle   = {IRS 2018: Internal Radar Symposium},
+  year        = {2018},
+  pdf         = {periodic-patterns-frequency.pdf}
+}
+
+@unpublished{deswarte2018minimax,
+  abbr        = {JComplexity},
+  bibtex_show = {true},
+  title       = {Minimax regularization},
+  author      = {Deswarte, R. and Lecué, G.},
+  year        = {2018},
+  note        = {Under revision in Journal of Complexity},
+  pdf         = {minimax_reg_2018_05_14.pdf}
+}
+
+@article{bellec2018slope,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Slope meets {Lasso}: improved oracle bounds and optimality},
+  author      = {Bellec, P. and Lecué, G. and Tsybakov, A.},
+  journal     = {The Annals of Statistics},
+  volume      = {46},
+  number      = {6B},
+  pages       = {3603--3642},
+  year        = {2018},
+  pdf         = {slope-lasso-final-published.pdf}
+}
+
+@article{lecue2018regularization1,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Regularization and the small-ball method {I}: sparse recovery},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {The Annals of Statistics},
+  volume      = {46},
+  number      = {2},
+  pages       = {611--641},
+  year        = {2018},
+  pdf         = {sparse_lecue_mendelson.pdf},
+  supp        = {supp_mat_lecue_mendelson.pdf}
+}
+
+@article{dirksen2018gap,
+  abbr        = {IEEE-IT},
+  bibtex_show = {true},
+  title       = {On the gap between {RIP}-properties and sparse recovery conditions},
+  author      = {Dirksen, S. and Lecué, G. and Rauhut, H.},
+  journal     = {IEEE Transactions on Information Theory},
+  volume      = {64},
+  number      = {8},
+  pages       = {5478--5487},
+  year        = {2018},
+  pdf         = {gap_rip_noisy_reconstruct.pdf},
+  code        = {http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition.ipynb},
+  additional_info = {. Notebooks: [exact reconstruction via Douglas-Rachford](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition.ipynb) and [estimation results for quantized measurements](http://nbviewer.jupyter.org/github/lecueguillaume/notebooks_python/blob/master/research_paper_Dirksen_Rauhut_Lecue/phase_transition_cvx.ipynb)}
+}
+
+@incollection{lecue2018learningsubgaussian,
+  abbr        = {SMF},
+  bibtex_show = {true},
+  title       = {Learning Subgaussian classes: upper and minimax bounds},
+  author      = {Lecué, G. and Mendelson, S.},
+  booktitle   = {Topics in Learning Theory},
+  editor      = {Boucheron, S. and Vayatis, N.},
+  publisher   = smf,
+  year        = {2018},
+  note        = {To appear},
+  pdf         = {lm13_2018_07_27.pdf},
+  slides      = {Learning-subgaussian-class.pdf}
+}
+
+@article{foucart2017iht,
+  abbr        = {IEEE-SPL},
+  bibtex_show = {true},
+  title       = {An {IHT} algorithm for sparse recovery from subexponential measurements},
+  author      = {Foucart, S. and Lecué, G.},
+  journal     = {IEEE Signal Processing Letters},
+  volume      = {24},
+  number      = {9},
+  year        = {2017},
+  pdf         = {FouLec_v2.pdf}
+}
+
+@incollection{bellec2017towards,
+  abbr        = {SMF},
+  bibtex_show = {true},
+  title       = {Towards the study of least squares estimators with convex penalty},
+  author      = {Bellec, P. and Lecué, G. and Tsybakov, A.},
+  booktitle   = {Séminaires et Congrès},
+  number      = {31},
+  publisher   = smf,
+  year        = {2017},
+  pdf         = {conv_penalty_SMF.pdf}
+}
+
+@article{lecue2017regularization2,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Regularization and the small-ball method {II}: complexity dependent error rates},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Journal of Machine Learning Research},
   volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
+  number      = {146},
+  pages       = {1--48},
+  year        = {2017},
+  pdf         = {jmlr_16-422.pdf}
 }
 
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
+@article{lecue2017sparse,
+  abbr        = {JEMS},
   bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
+  title       = {Sparse recovery under weak moment assumptions},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Journal of the European Mathematical Society},
+  volume      = {19},
+  number      = {3},
+  pages       = {881--904},
+  year        = {2017},
+  pdf         = {2017-019-003-06.pdf}
 }
 
-@book{przibram1967letters,
+@article{lecue2016performance,
+  abbr        = {Bernoulli},
   bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+  title       = {Performance of empirical risk minimization in linear aggregation},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Bernoulli},
+  volume      = {22},
+  number      = {3},
+  pages       = {1520--1534},
+  year        = {2016},
+  pdf         = {BEJ701.pdf}
+}
+
+@article{lecue2015minimax,
+  abbr        = {EJP},
+  bibtex_show = {true},
+  title       = {Minimax rates of convergence and the performance of {ERM} in phase recovery},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Electronic Journal of Probability},
+  volume      = {20},
+  number      = {57},
+  pages       = {1--29},
+  year        = {2015},
+  pdf         = {erm_phase_recovery.pdf}
+}
+
+@article{lecue2014optimal,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Optimal learning with {Q}-aggregation},
+  author      = {Lecué, G. and Rigollet, P.},
+  journal     = {The Annals of Statistics},
+  volume      = {42},
+  number      = {1},
+  pages       = {211--224},
+  year        = {2014},
+  pdf         = {AOS1190.pdf}
+}
+
+@article{lecue2013comment,
+  abbr        = {JSPI},
+  bibtex_show = {true},
+  title       = {Comment to ``Generic chaining and the $\ell_1$-penalty'' by {Sara van de Geer}},
+  author      = {Lecué, G.},
+  journal     = {Journal of Statistical Planning and Inference},
+  volume      = {143},
+  number      = {6},
+  pages       = {1022--1025},
+  month       = {June},
+  year        = {2013},
+  pdf         = {review-sara.pdf}
+}
+
+@article{lecue2013empirical,
+  abbr        = {Bernoulli},
+  bibtex_show = {true},
+  title       = {Empirical risk minimization is optimal for the convex aggregation problem},
+  author      = {Lecué, G.},
+  journal     = {Bernoulli},
+  volume      = {19},
+  number      = {5B},
+  pages       = {2153--2166},
+  year        = {2013},
+  pdf         = {BEJ447.pdf}
+}
+
+@article{lecue2013optimalityconvex,
+  abbr        = {AIHP},
+  bibtex_show = {true},
+  title       = {On the optimality of the empirical risk minimization procedure for the convex aggregation problem},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Annales de l'Institut Henri Poincaré, Probabilités et Statistiques},
+  volume      = {49},
+  number      = {1},
+  pages       = {288--306},
+  year        = {2013},
+  pdf         = {LM7.pdf}
+}
+
+@article{lecue2013optimalityexpweights,
+  abbr        = {Bernoulli},
+  bibtex_show = {true},
+  title       = {On the optimality of the aggregate with exponential weights for low temperatures},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Bernoulli},
+  volume      = {19},
+  number      = {2},
+  pages       = {646--675},
+  year        = {2013},
+  pdf         = {LM6-07-07-10.pdf}
+}
+
+@book{chafai2012interactions,
+  abbr        = {SMF},
+  bibtex_show = {true},
+  title       = {Interactions between compressed sensing, random matrices and high-dimensional geometry},
+  author      = {Chafaï, D. and Guédon, O. and Lecué, G. and Pajor, A.},
+  series      = {Panoramas et Synthèses},
+  volume      = {37},
+  publisher   = smf,
+  year        = {2012},
+  note        = {182 pages},
+  pdf         = {CSbook.pdf}
+}
+
+@article{lecue2012general,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {General non-exact oracle inequalities in the unbounded case},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {The Annals of Statistics},
+  volume      = {40},
+  number      = {2},
+  pages       = {832--860},
+  year        = {2012},
+  pdf         = {LM9.pdf},
+  supp        = {LM9-supplementary-file.pdf}
+}
+
+@article{lecue2012oracle,
+  abbr        = {EJS},
+  bibtex_show = {true},
+  title       = {Oracle inequalities for cross-validation type procedures},
+  author      = {Lecué, G. and Mitchell, C.},
+  journal     = {Electronic Journal of Statistics},
+  volume      = {6},
+  pages       = {1803--1837},
+  year        = {2012},
+  pdf         = {LecMit-May2010.pdf}
+}
+
+@article{gaiffas2011sharp,
+  abbr        = {IEEE-IT},
+  bibtex_show = {true},
+  title       = {Sharp oracle inequalities for high-dimensional matrix prediction},
+  author      = {Gaïffas, S. and Lecué, G.},
+  journal     = {IEEE Transactions on Information Theory},
+  volume      = {57},
+  number      = {10},
+  pages       = {6942--6957},
+  year        = {2011},
+  pdf         = {completion.pdf}
+}
+
+@article{gaiffas2011hyper,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Hyper-sparse optimal aggregation},
+  author      = {Gaïffas, S. and Lecué, G.},
+  journal     = {Journal of Machine Learning Research},
+  volume      = {12},
+  number      = {Jun},
+  pages       = {1813--1833},
+  year        = {2011},
+  pdf         = {GL2-aggregat.pdf}
+}
+
+@article{lecue2010sharper,
+  abbr        = {Bernoulli},
+  bibtex_show = {true},
+  title       = {Sharper lower bounds on the performance of the empirical risk minimization algorithm},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Bernoulli},
+  volume      = {16},
+  number      = {3},
+  pages       = {605--613},
+  year        = {2010},
+  pdf         = {BEJ225.pdf}
+}
+
+@article{lecue2009aggregation,
+  abbr        = {PTRF},
+  bibtex_show = {true},
+  title       = {Aggregation via empirical risk minimization},
+  author      = {Lecué, G. and Mendelson, S.},
+  journal     = {Probability Theory and Related Fields},
+  volume      = {145},
+  number      = {3-4},
+  pages       = {591--613},
+  month       = {November},
+  year        = {2009},
+  pdf         = {LM1PTRF.pdf},
+  slides      = {PresentationGottingem.pdf}
+}
+
+@article{chesneau2009adapting,
+  abbr        = {StatSinica},
+  bibtex_show = {true},
+  title       = {Adapting to unknown smoothness by aggregation of thresholded wavelet estimators},
+  author      = {Chesneau, C. and Lecué, G.},
+  journal     = {Statistica Sinica},
+  volume      = {19},
+  number      = {4},
+  pages       = {1407--1418},
+  month       = {October},
+  year        = {2009},
+  pdf         = {CL1.pdf}
+}
+
+@article{bertin2008selection,
+  abbr        = {EJS},
+  bibtex_show = {true},
+  title       = {Selection of variables and dimension reduction in high-dimensional non-parametric regression},
+  author      = {Bertin, K. and Lecué, G.},
+  journal     = {Electronic Journal of Statistics},
+  volume      = {2},
+  pages       = {1224--1241},
+  year        = {2008},
+  pdf         = {BL1.pdf}
+}
+
+@article{lecue2008classification,
+  abbr        = {EJS},
+  bibtex_show = {true},
+  title       = {Classification with minimax fast rates for classes of {Bayes} rules with sparse representation},
+  author      = {Lecué, G.},
+  journal     = {Electronic Journal of Statistics},
+  volume      = {2},
+  pages       = {741--773},
+  year        = {2008},
+  pdf         = {EJS1.pdf}
+}
+
+@article{gaiffas2007optimal,
+  abbr        = {EJS},
+  bibtex_show = {true},
+  title       = {Optimal rates and adaptation in the single-index model using aggregation},
+  author      = {Gaïffas, S. and Lecué, G.},
+  journal     = {Electronic Journal of Statistics},
+  volume      = {1},
+  pages       = {538--573},
+  year        = {2007},
+  pdf         = {GL1.pdf}
+}
+
+@inproceedings{lecue2007suboptimality,
+  abbr        = {COLT},
+  bibtex_show = {true},
+  title       = {Suboptimality of penalized empirical risk minimization in classification},
+  author      = {Lecué, G.},
+  booktitle   = {20th Annual Conference on Learning Theory (COLT 2007), Proceedings. N. Bshouty and C. Gentile (Eds.)},
+  series      = {Lecture Notes in Artificial Intelligence},
+  volume      = {4539},
+  pages       = {142--156},
+  publisher   = springer,
+  year        = {2007},
+  pdf         = {COLT2.pdf},
+  slides      = {PresentationCOLT07.pdf}
+}
+
+@article{lecue2007optimalrates,
+  abbr        = {Bernoulli},
+  bibtex_show = {true},
+  title       = {Optimal rates of aggregation in classification under low noise assumption},
+  author      = {Lecué, G.},
+  journal     = {Bernoulli},
+  volume      = {13},
+  number      = {4},
+  pages       = {1000--1022},
+  year        = {2007},
+  pdf         = {Bern1.pdf}
+}
+
+@article{lecue2007simultaneous,
+  abbr        = {AoS},
+  bibtex_show = {true},
+  title       = {Simultaneous adaptation to the margin and to complexity in classification},
+  author      = {Lecué, G.},
+  journal     = {The Annals of Statistics},
+  volume      = {35},
+  number      = {4},
+  pages       = {1698--1721},
+  month       = {August},
+  year        = {2007},
+  pdf         = {AOS1.pdf}
+}
+
+@inproceedings{lecue2006optimal,
+  abbr        = {COLT},
+  bibtex_show = {true},
+  title       = {Optimal oracle inequality for aggregation of classifiers under low noise condition},
+  author      = {Lecué, G.},
+  booktitle   = {19th Annual Conference on Learning Theory (COLT 2006), Proceedings. G. Lugosi and H. U. Simon (Eds.)},
+  series      = {Lecture Notes in Artificial Intelligence},
+  pages       = {364--378},
+  publisher   = springer,
+  year        = {2006},
+  pdf         = {COLT1.pdf},
+  award       = {Mark Fulk award for the best student paper},
+  award_name  = {Mark Fulk award},
+  selected    = {true}
+}
+
+@article{lecue2006lower,
+  abbr        = {JMLR},
+  bibtex_show = {true},
+  title       = {Lower bounds and aggregation in density estimation},
+  author      = {Lecué, G.},
+  journal     = {Journal of Machine Learning Research},
+  volume      = {7},
+  number      = {Jun},
+  pages       = {971--981},
+  year        = {2006},
+  pdf         = {JMLR1.pdf}
 }

@@ -1,0 +1,193 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath, amsthm, amsfonts, amssymb}
+\usepackage{dsfont,url,hyperref} % utilisation : {\mathds N} (au lieu de mathbb)
+\usepackage{mathrsfs} % utilisation : {\mathscr B} (plus joli que mathcal qu'il remplace)
+\usepackage{multirow}
+\usepackage{mathtools}
+\usepackage{enumerate}
+\usepackage{numprint}
+
+%\usepackage{epsfig,graphics}
+
+%\usepackage{caption}
+%\captionsetup[figure]{labelformat=empty}
+
+%\usepackage{ccaption}
+
+%\usepackage{verbatim} % utile notamment pour l'environnement "comment"
+
+\usepackage[T1]{fontenc}
+%\usepackage[latin1]{inputenc}
+\usepackage[french]{babel}
+
+\usepackage{xcolor}
+\usepackage{fancybox}
+\definecolor{mongris}{gray}{0.9}
+
+%%%%%%%%%%%%%%%% mise en page
+\setlength{\topmargin}{-1.7cm} \setlength{\oddsidemargin}{0cm}
+\setlength{\evensidemargin}{0cm} \setlength{\textwidth}{15.5truecm}
+\setlength{\textheight}{25truecm}
+
+\def\ds{\displaystyle}
+
+\newcommand{\C}{{\mathbb C}}
+\newcommand{\E}{{\mathbb E}}
+\newcommand{\N}{{\mathbb N}}
+\renewcommand{\P}{{\mathbb P}}
+\renewcommand{\Pr}{{\mathbb P}}
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\Z}{{\mathbb Z}}
+
+\newcommand{\ii}{{\textup{i}}}
+\newcommand{\ee}{{\textup{e}}}
+
+\newcommand{\boF}{{\mathscr F}}
+\newcommand{\boG}{{\mathscr G}}
+\newcommand{\boB}{{\mathscr B}}
+
+\newcommand{\e}{\operatorname{e}} % pour faire des exponentielles avec un "e" droit mais surtour pour que LateX le gere comme un vrai operateur au niveau des espaces
+
+\renewcommand{\d}{\mathrm{d}}
+
+
+\newcommand{\cv}[1][n]{\enskip\mathop{\longrightarrow}^{}_{#1 \to \infty}\enskip}
+\newcommand{\cvloi}[1][n]{\enskip\mathop{\longrightarrow}^{(loi)}_{#1 \to \infty}\enskip}
+\newcommand{\cvps}[1][n]{\enskip\mathop{\longrightarrow}^{p.s.}_{#1 \to \infty}\enskip}
+\newcommand{\cvproba}[1][n]{\enskip\mathop{\longrightarrow}^{\P}_{#1 \to \infty}\enskip}
+
+
+\DeclareMathOperator{\Pto}{\stackrel{\P}{\longrightarrow}}
+\DeclareMathOperator{\Lto}{\stackrel{\scriptscriptstyle{\textup{loi}}}{\longrightarrow}}
+\DeclareMathOperator{\PSto}{\stackrel{p.s.}{\longrightarrow}}
+
+\DeclareMathOperator{\ind}{{\mathds 1}}
+\DeclareMathOperator{\Var}{\mathop{\rm Var}\nolimits}
+
+\newcounter{definition}[section]
+\theoremstyle{definition} 
+\newtheorem{exo}{Exercice}
+\newtheorem{exercice}{Exercice}
+\newtheorem{exercice-star}{Exercice}
+\newtheorem*{solution}{Solution}
+\newtheorem*{solution-cor}{Solution}
+
+\newif\ifhidesolutions
+%\hidesolutionstrue %decommenter pour cacher les SOLUTIONS
+
+\ifhidesolutions
+\usepackage{environ}
+\NewEnviron{hide}{}
+\let\solution\hide
+\let\endsolution\endhide
+\fi
+
+ % barre pour separer les exercices 
+\newcommand{\barre}{
+\begin{center}
+\rule{.3\linewidth}{1pt}
+\end{center}
+\medskip}
+
+\parindent=0pt
+
+
+
+
+
+
+%%%%%%%%%
+\begin{document}
+
+\textsc{\'Ecole Polytechnique}\hskip 3.2cm {\bf MAP 361} \hskip 4.5cm
+2019/2020 \par \hrule
+
+\par\vspace{0.5cm}
+
+\begin{center} {\bf \Large PC~0: Organisation}\end{center}
+
+\barre %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+La PC0 est une PC d'organisation pour les 9 PCs suivantes. N'h{\'e}sitez pas {\`a} me faire des retours sur les probl{\`e}mes que vous avez identifi{\'e}s lors de cette scéance. L'exercice suivant est donn{\'e} {\`a} dans ce cadre.
+
+\barre %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\begin{exercice}[\textsc{Conditionnement}]
+L'exercice suivant est tr\`es classique et a de nombreuses variantes. Il
+illustre l'utilit\'e d'une formulation math\'ematique rigoureuse pour \'eviter
+des pi\`eges et des paradoxes dus \`a des raisonnements sp\'ecieux.\\
+Une famille a deux enfants. On suppose les 4 configurations
+$(\omega_1,\omega_2)$ avec $\omega_i$ le sexe du $i$\`eme enfant \'equiprobables. 
+\begin{enumerate}
+%\item Quelle est la probabilit\'e pour que les deux enfants soient des filles sachant que le plus jeune enfant est une fille?
+%\item Quelle est la probabilit\'e pour que les deux enfants soient des filles sachant que l'enfant plus âg\'e est une fille?
+%\item Quelle est la probabilit\'e pour que les deux enfants soient des filles sachant que l'un des enfants  est une fille?
+\item Montrer que la probabilit\'e pour que les deux enfants soient des filles sachant que le plus jeune enfant est une fille vaut $\frac{1}{2}$.
+\item Montrer que la probabilit\'e pour que les deux enfants soient des filles sachant que l'enfant plus âg\'e est une fille vaut $\frac{1}{2}$.
+\item Montrer que la probabilit\'e pour que les deux enfants soient des filles sachant que l'un des enfants est une fille vaut $\frac{1}{3}$.
+\end{enumerate}
+\end{exercice}
+
+\medskip
+
+\begin{solution}
+On note l'espace fondamental $\Omega$. Ici il vaut
+\begin{equation*}
+\Omega = \left\{(F,F), (F,G), (G,F), (G,G)\right\}.
+\end{equation*}On munit cet espace de la tribu $\mathcal A$ faites de tous les sous-ensembles de $\Omega$:
+\begin{equation*}
+\mathcal A=\left\{\emptyset, \{(F,F)\}, \cdots, \Omega\right\}.
+\end{equation*}Cet ensemble est de cardinal $2^4=16$. Finalement, on munit l'espace mesurable $(\Omega, \mathcal A)$ d'une mesure de probabilit{\'e} $\mathbb{P}$. L'énoncé nous dit que les $4$ événements $\{(F,F)\}, \{(F,G)\}, \{(G,F)\}$ et $\{(G,G)\}$ sont équiprobables; on pose donc
+\begin{equation*}
+\mathbb{P}(\{(F,F)\})=\mathbb{P}( \{(F,G)\})=\mathbb{P}(\{(G,F)\})=\mathbb{P}(\{(G,G)\})=\frac{1}{4}
+\end{equation*}et par la propri{\'e}t{\'e} de $\sigma$-additivit{\'e} de $\mathbb P$, on étends la définition de $\mathbb P$ à toute la tribu $\mathcal A$.
+\end{solution}
+
+Voil{\'a} pour le cadre. Pour les probl{\`e}mes de conditionnement, il est important de passer un peu de temps {\`a} bien d{\'e}finir ce cadre probabiliste pour {\'e}viter des erreurs. On passe, maintenant, aux réponse aux questions. 
+
+La seule connaissance {\`a} avoir pour r{\'e}soudre ce probl{\`e}me est la d{\'e}finition du conditionnement : si $A$ et $B$ sont deux {\'e}v{\'e}nements (c{\`a}d deux {\'e}l{\'e}ments de $\mathcal A$) alors la probabilité que $A$ est lieu sachant $B$ est not{\'e} et d{\'e}fini par
+\begin{equation*}
+\P(A|B)=\frac{\P(A\cap B)}{\P(B)}.
+\end{equation*}
+
+\begin{enumerate}
+\item
+ L'\'ev\'enement que le plus jeune enfant est une fille correspond à l'ensemble $A\coloneqq\{(F,F),(G,F)\}$ qui se produit avec probabilit\'e $\P(A)=|A| / |\Omega|=1/2$. Pour la probabilit\'e que les deux
+enfants soient des filles sachant que le plus jeune enfant est une fille on obtient alors
+\[\P(\{(F,F)\} \mid A)=\frac{\P(\{(F,F)\} \cap A)}{\P(A)}=\frac{\P(\{(F,F)\} )}{\P(A)}=\frac{1/4}{1/2}=\frac12.\]
+\item Par le même raisonnement, en notant  $B\coloneqq\{(F,F),(F,G)\}$ l'\'ev\'enement que l'enfant plus âg\'e est une fille avec  $\P(B)=|B| / |\Omega|=1/2$, on obtient 
+\[\P(\{(F,F)\} \mid B)=\frac{\P(\{(F,F)\} \cap B)}{\P(B)}=\frac{\P(\{(F,F)\} )}{\P(B)}=\frac{1/4}{1/2}=\frac12.\]
+\item Notons  $C\coloneqq\{(F,F),(F,G),(G,F)\}$ l'\'ev\'enement que l'un des enfants  est une fille. On a  $\P(C)=|C| / |\Omega|=3/4$ et donc
+\[\P(\{(F,F)\} \mid C)= \frac{\P(\{(F,F)\} )}{\P(C)}=\frac{1/4}{3/4}=\frac13.\]
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+
+\begin{exercice}[\textsc{}]
+\end{exercice}
+
+\begin{solution}
+\end{solution}
+
+
+\begin{exercice}[\textsc{}]
+\end{exercice}
+
+\begin{solution}
+\end{solution}

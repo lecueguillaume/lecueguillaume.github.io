@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professor of statistics and machine learning, <a href='https://isds-department.essec.edu' target='_blank'>IDS department</a>, ESSEC Business School
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_ESSEC.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ESSEC Business School</p>
+    <p>Office N308</p>
+    <p>3 Av. Bernard Hirsch. B.P. 50105</p>
+    <p>95021 Cergy, France</p>
+    <p>Tel.: +33 (0)1 34 43 36 02</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +29,37 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am professor of statistics and machine learning at the [IDS department at ESSEC](https://isds-department.essec.edu).
+My research interests include empirical processes theory, learning theory, compressed sensing, aggregation, phase retrieval and minimax theory.
+See my [publications](/publications/) for the full list of papers.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## PhD and Habilitation
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My PhD manuscript is available [here](/assets/pdf/These-Guillaume-Lecue.pdf) and the slides of my PhD defense are available [here](/assets/pdf/soutenanceTheseVersionFinale.pdf).
+
+My Habilitation manuscript is available [here](/assets/pdf/HDR.pdf) and the slides of my HDR defense are available [here](/assets/pdf/HDR-Presentation.pdf).
+
+## Some of my slides
+
+1. [Optimal Aggregation via empirical risk minimization](/assets/pdf/PresentationGottingem.pdf)
+2. [Aggregation methods in classification: optimality and adaptation](/assets/pdf/PresentationLisboa07.pdf)
+3. [Suboptimality of penalized empirical risk minimization in classification](/assets/pdf/PresentationCOLT07.pdf)
+4. [Empirical risk minimization in linear regression and phase recovery](/assets/pdf/expose-LM15.pdf)
+5. [Learning sub-gaussian class. Minimaximality of ERM for high confidence](/assets/pdf/Learning-subgaussian-class.pdf)
+6. [An aggregation procedure in classification. Applications to adaptivity](/assets/pdf/PresentationPittsburgh2006.pdf)
+7. [General oracle inequalities for ERM, regularized ERM and penalized ERM with applications to High-Dimensional data analysis](/assets/pdf/Princeton-05-12.pdf)
+8. [Learning from MOM's principle](/assets/pdf/lecue_MOM_cirm.pdf)
+
+## Awards
+
+1. "**Mark Fulk award**" for the best student paper. 19th Annual Conference On Learning Theory, COLT06.
+2. "**Prix ROSEMONT/DEMASSIEUX**" de la chancellerie des universités de Paris. Décembre 2008. For the best PhD thesis in Mathematics and its applications defended in (former) Paris University.
+
+<!--
+## Miscellaneous
+
+About bibliometry. We were 19 from Université Paris-Est Marne-la-Vallée to write the following two papers: Evgeny Abakumov, Anne Beaulieu, François Blanchard, Matthieu Fradelizi, Nathaël Gozlan, Bernard Host, Thierry Jeantheau, Magdalena Kobylanski, Guillaume Lecué, Miguel Martinez, Mathieu Meyer, Marie-Hélène Mourgues, Frédéric Portal, Francis Ribaud, Cyril Roberto, Pascal Romon, Julien Roth, Paul-Marie Samson, Pierre Vandekerkhove, Abdellah Youssfi.
+
+[discussion](/assets/pdf/bibliometrie-hal-arXiv.pdf)
+[paper](/assets/pdf/logsob-Lamplighter.pdf)
+-->

@@ -1,9 +1,64 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"AoS":
+  url: https://www.imstat.org/journals-and-publications/annals-of-statistics/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JMLR":
+  url: https://www.jmlr.org/
+  color: "#9f5a00"
 
-"Vision":
-  color: "#009f36"
+"PTRF":
+  url: https://link.springer.com/journal/440
+  color: "#007a5e"
+
+"EJS":
+  url: https://www.imstat.org/journals-and-publications/electronic-journal-of-statistics/
+
+"EJP":
+  url: https://www.imstat.org/journals-and-publications/electronic-journal-of-probability/
+
+"Bernoulli":
+  url: https://www.bernoullisociety.org/publications/bernoulli-journal
+  color: "#6a3d9a"
+
+"JEMS":
+  url: https://ems.press/journals/jems
+
+"AIHP":
+  url: https://www.imstat.org/journals-and-publications/annales-de-linstitut-henri-poincare/
+
+"SPA":
+  url: https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications
+
+"IMAIAI":
+  url: https://academic.oup.com/imaiai
+
+"IEEE-IT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18
+
+"IEEE-SPL":
+  url: https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters
+
+"ML":
+  url: https://link.springer.com/journal/10994
+
+"StatSinica":
+  url: https://www3.stat.sinica.edu.tw/statistica/
+
+"JSPI":
+  url: https://www.sciencedirect.com/journal/journal-of-statistical-planning-and-inference
+
+"ICML":
+  url: https://icml.cc/
+
+"COLT":
+  url: https://learningtheory.org/
+
+"SMF":
+  url: https://smf.emath.fr/
+
+"JComplexity":
+  url: https://www.sciencedirect.com/journal/journal-of-complexity
