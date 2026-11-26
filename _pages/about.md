@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor of statistics and machine learning, <a href='https://isds-department.essec.edu' target='_blank'>IDS department</a>, ESSEC Business School
+subtitle: Professor of statistics and machine learning, <a href='https://ido-department.essec.edu' target='_blank'>IDO department</a>, ESSEC Business School
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am professor of statistics and machine learning at the [IDS department at ESSEC](https://isds-department.essec.edu).
+I am professor of statistics and machine learning at the [ID0 department at ESSEC](https://ido-department.essec.edu).
 My research interests include empirical processes theory, learning theory, compressed sensing, aggregation, phase retrieval and minimax theory.
 See my [publications](/publications/) for the full list of papers.
 

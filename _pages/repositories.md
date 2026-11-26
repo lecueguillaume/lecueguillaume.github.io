@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: GitHub profile and repositories with code accompanying my research papers.
-nav: true
+nav: false # set to true to make it available on the website
 nav_order: 4
 ---
 
